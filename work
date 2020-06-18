@@ -160,4 +160,50 @@ Run `rlang::last_error()` to see where the error occurred.
 # … with 374 more rows
 > write.table(unique(No70), "No70", sep="\t", row.names = FALSE)
 > write.table(unique(setDT(No70)[order(slen, -sseqid)], by = "slen"), "UNIQUE_Slen_70", sep="\t",row.names = FALSE)
-> 
+>  write.table(unique(setDT(blast_data_U_length)[order(slen, -sseqid)], by = "slen"), "UNIQU_S_LEN", sep="\t",row.names = FALSE)
+> blast_data_U_length <- blast_data  %>%
++     + filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++     + unique(sseqid) %>%
++     + unique(slen)
+Error in filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) : 
+  object 'evalue' not found
+> Test_W_70 <- blast.data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(sseqid)
+Error in eval(lhs, parent, parent) : object 'blast.data' not found
+> Test_W_70 <- blast.data %>%
++ k
+Error in eval(lhs, parent, parent) : object 'blast.data' not found
+> Test_W_70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(ssequid)
+Error: Can't subset columns that don't exist.
+x Column `ssequid` doesn't exist.
+Run `rlang::last_error()` to see where the error occurred.
+> Test_W_70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(sseqid)
+> Test_Wout_70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
++ select(sseqid)
+> No70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
++ select(sseqid, slen)
+> unique(No70)
+# A tibble: 384 x 2
+   sseqid          slen
+   <chr>          <dbl>
+ 1 WP_048731302.1   192
+ 2 WP_048731243.1   192
+ 3 WP_048731303.1   794
+ 4 WP_048731244.1   794
+ 5 WP_047716000.1   684
+ 6 WP_048327294.1   666
+ 7 WP_000930006.1   187
+ 8 WP_047659315.1   175
+ 9 WP_047616069.1   175
+10 WP_047655146.1   175
+# … with 374 more rows
+> write.table(unique(No70), "No70", sep="\t", row.names = FALSE)
+> write.table(unique(setDT(No70)[order(slen, -sseqid)], by = "slen"), "UNIQUE_Slen_70", sep="\t",row.names = FALSE)
+> Just_sseqid <- UNIQUE_Slen_70 %>%
