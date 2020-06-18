@@ -1,1 +1,163 @@
-thisisneverthat
+View(blast_data_less35_70)
+> 
+> blast_data_less35_70 <- blast_data  %>%
++     + filter(evalue < 0.1, qcovs > 80, pident > 35, pident < 70) %>%
++     + select(sseqid)
+Error in filter(evalue < 0.1, qcovs > 80, pident > 35, pident < 70) : 
+  object 'evalue' not found
+> > unique(blast_data_less35_70)
+Error: unexpected '>' in ">"
+> blast_data_less35_70 <- blast_data  %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ 
++ b
+Error in b(.) : could not find function "b"
+> blast_data_Roddy <- blast_data  %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(ssequid)
+Error: Can't subset columns that don't exist.
+x Column `ssequid` doesn't exist.
+Run `rlang::last_error()` to see where the error occurred.
+> blast_data_Roddy <- blast_data  %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(sseqid)
+> write.table(blast_data_Roddy, "blast_data_Roddy", sep = "\t", row.names = FALSE)
+> unique(blast_data_Roddy)
+# A tibble: 358 x 1
+   sseqid        
+   <chr>         
+ 1 WP_048731302.1
+ 2 WP_048731243.1
+ 3 WP_048731303.1
+ 4 WP_048731244.1
+ 5 WP_047593536.1
+ 6 WP_048590265.1
+ 7 WP_048591461.1
+ 8 WP_047592512.1
+ 9 WP_000972163.1
+10 WP_000972134.1
+# … with 348 more rows
+> write.table(unique(blast_data_Roddy), "U_blast_data_Roddy", sep = "\t", row.names = FALSE)
+> blast_data_Roddy <- blast_data  %>%
++     + filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++     + select(sseqid)
+Error in filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) : 
+  object 'evalue' not found
+> > write.table(blast_data_Roddy, "blast_data_Roddy", sep = "\t", row.names = FALSE)
+Error: unexpected '>' in ">"
+> > unique(blast_data_Roddy)
+Error: unexpected '>' in ">"
+> h
+Error: object 'h' not found
+> blast_data_U_length <- blast_data  %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ unique(sseqid) %>%
++ unique(slen)
+Error in isFALSE(incomparables) : object 'sseqid' not found
+> blast_data_U_length <- blast_data  %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ unique(slen) %>%
++ select(sseqid)
+Error in isFALSE(incomparables) : object 'slen' not found
+> blast_data_U_length <- blast_data  %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(sseqid, slen)
+> unique(blast_data_U_length)
+# A tibble: 358 x 2
+   sseqid          slen
+   <chr>          <dbl>
+ 1 WP_048731302.1   192
+ 2 WP_048731243.1   192
+ 3 WP_048731303.1   794
+ 4 WP_048731244.1   794
+ 5 WP_047593536.1   175
+ 6 WP_048590265.1   177
+ 7 WP_048591461.1   177
+ 8 WP_047592512.1   177
+ 9 WP_000972163.1   177
+10 WP_000972134.1   177
+# … with 348 more rows
+> write.table(blast_data_U_length, "blast_data_U_length", sep = "\t", row.names = FALSE)
+> data.frame(blast_data_U_length)
+            sseqid slen
+ [ reached 'max' / getOption("max.print") -- omitted 1199 rows ]
+> View(data.frame(blast_data_U_length))
+> Unique_Slen<-blast_data_U_length %>%
++ select(unique(slen))
+Error: object 'slen' not found
+Run `rlang::last_error()` to see where the error occurred.
+> df = df[order(df[,'slen'],-df[,'sseqid']),]
+Error in df[, "slen"] : object of type 'closure' is not subsettable
+> df = df[!duplicated(df$slen),]
+Error in df$slen : object of type 'closure' is not subsettable
+> blast_data_U_length = blast_data_U_length[order(blast_data_U_length[,'slen'],-blast_data_U_length[,'sseqid']),]
+Error in FUN(left) : invalid argument to unary operator
+> library(data.table)
+data.table 1.12.8 using 2 threads (see ?getDTthreads).  Latest news: r-datatable.com
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+> unique(setDT(blast_data_U_length)[order(slen, -sseqid)], by = "slen")
+             sseqid slen
+  1: WP_048218303.1   80
+  2: WP_047506852.1   87
+  3: WP_048535907.1   89
+  4: WP_048485424.1  100
+  5: WP_048236801.1  121
+ ---                    
+188: WP_047964429.1 1536
+189: WP_047991469.1 1867
+190: WP_047842328.1 2682
+191: WP_047930033.1 2731
+192: WP_047936535.1 3032
+> write.table(unique(setDT(blast_data_U_length)[order(slen, -sseqid)], by = "slen"), "UNIQU_S_LEN", sep="\t",row.names = FALSE)
+> blast_data_U_length <- blast_data  %>%
++     + filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++     + unique(sseqid) %>%
++     + unique(slen)
+Error in filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) : 
+  object 'evalue' not found
+> Test_W_70 <- blast.data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(sseqid)
+Error in eval(lhs, parent, parent) : object 'blast.data' not found
+> Test_W_70 <- blast.data %>%
++ k
+Error in eval(lhs, parent, parent) : object 'blast.data' not found
+> Test_W_70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(ssequid)
+rror: Can't subset columns that don't exist.
+x Column `ssequid` doesn't exist.
+Run `rlang::last_error()` to see where the error occurred.
+> Test_W_70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35, pident < 70) %>%
++ select(sseqid)
+> Test_Wout_70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
++ select(sseqid)
+> No70 <- blast_data %>%
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
++ select(sseqid, slen)
+> unique(No70)
+# A tibble: 384 x 2
+   sseqid          slen
+   <chr>          <dbl>
+ 1 WP_048731302.1   192
+ 2 WP_048731243.1   192
+ 3 WP_048731303.1   794
+ 4 WP_048731244.1   794
+ 5 WP_047716000.1   684
+ 6 WP_048327294.1   666
+ 7 WP_000930006.1   187
+ 8 WP_047659315.1   175
+ 9 WP_047616069.1   175
+10 WP_047655146.1   175
+# … with 374 more rows
+> write.table(unique(No70), "No70", sep="\t", row.names = FALSE)
+> write.table(unique(setDT(No70)[order(slen, -sseqid)], by = "slen"), "UNIQUE_Slen_70", sep="\t",row.names = FALSE)
+> 
