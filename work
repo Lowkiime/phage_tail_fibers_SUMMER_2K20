@@ -257,26 +257,23 @@ Error in order(sseqid, -qseqid) : object 'sseqid' not found
 > write.table(unique(X_sized), "246_to_use", sep = "\t", row.names=FALSE)
 > Working? <- blast_data %>%
 Error: unexpected assignment in "Working? <-"
-> working <- blast_data %>%
-+ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
-+ select(sseqid)
-> unique(working)
-# A tibble: 384 x 1
-   sseqid        
-   <chr>         
- 1 WP_048731302.1
- 2 WP_048731243.1
- 3 WP_048731303.1
- 4 WP_048731244.1
- 5 WP_047716000.1
- 6 WP_048327294.1
- 7 WP_000930006.1
- 8 WP_047659315.1
- 9 WP_047616069.1
-10 WP_047655146.1
-# … with 374 more rows
-> View(unique(working))
-> write.table(unique(working), "working", sep="\t", row.names = FALSE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > working_B_V <- blast_data %>%
 + filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
 + select(unique(sseqid), qseqid)
@@ -312,27 +309,51 @@ In if (file == "") file <- stdout() else if (is.character(file)) { :
   the condition has length > 1 and only the first element will be used
 > write.table(distinct(working_B_V,sseqid, .keep_all= TRUE), "working_B_V", sep="\t", row.names=FALSE)
 
->svirus <- blast_data %>%
+
+
+#load package "tidyr" to filter data.
+library(tidyr)
+
+#filter original dataset of bacterial-viral alignments by evalue, percent coverage, and percent identical followed.
+#Writing only the sseqids of the filtered alignments to a new text file. 
+#text file then can be uploaded in Batch Entrez and Fastas for each bacterial protein recovered.
+# begin byspecifying filtered subset "working" of "blast_data".
+> working <- blast_data %>%
+
+#filter alignments from "blast_data" to "working".
+#set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
+
+#save only the sseqid of the filtered alignments.
++ select(sseqid)
+
+#select only unique sseqids.
+> unique(working)
+
+#384 sseqids were selected.
+#creates new dataset of size: 384 x 1.
+#write the 384 sseqids to new txt file "working". 
+> write.table(unique(working), "working", sep="\t", row.names = FALSE)
+
+#filter original dataset of bacterial-viral alignments by evalue, percent coverage, and percent identical followed.
+#Writing only the qseqids of the filtered alignments to a new text file. 
+#text file then can be uploaded in Batch Entrez and Fastas for each viral protein recovered.
+# begin byspecifying filtered subset "working_viruses" of "blast_data".
+>working_viruese <- blast_data %>%
+
+#filter alignments from "blast_data" to "working_viruses".
+set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
 + filter(evalue <0.01, qcovs > 80, pident >35) %>%
+
+#select only the qseqids from the filtered data.
 + select(qseqid)
-> Vies(svirus)
-Error in Vies(svirus) : could not find function "Vies"
-> View(svirus)
-> unique(svirus)
-# A tibble: 211 x 1
-   qseqid        
-   <chr>         
- 1 YP_009005144.1
- 2 YP_009005145.1
- 3 NP_795416.1   
- 4 NP_050654.1   
- 5 NP_602302.1   
- 6 NP_602303.1   
- 7 YP_004934698.1
- 8 NP_049519.1   
- 9 NP_795646.1   
-10 YP_009591446.1
-# … with 201 more rows
-> View(unique(svirus))
-> write.table(svirus, "svirus", sep="\t", row.names=FALSE)
-> write.table(unique(svirus), "svirus", sep="\t", row.names=FALSE)
+
+#select only unique qseqids.
+> unique(working_viruses)
+
+#211 unique qseqids were selected.
+# creates new dataset of size: 211 x 1.   
+# write the unique sseqids into new file "working_viruses". 
+> write.table(unique(working_viruses), "working_viruses", sep="\t", row.names=FALSE)
+
+# see "phage work" google doc for detailed desricption of all files.
