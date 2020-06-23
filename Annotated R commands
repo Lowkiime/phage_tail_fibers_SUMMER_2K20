@@ -1,8 +1,12 @@
+#The following three sets of R commands can be used to filter the blast data provided into three useful subsets.
+
+### 1
+
 #load package "tidyr" to filter data.
 library(tidyr)
 
 #filter original dataset of bacterial-viral alignments by evalue, percent coverage, and percent identical followed.
-#Writing only the sseqids of the filtered alignments to a new text file. 
+#writing only the sseqids of the filtered alignments to a new text file. 
 #text file then can be uploaded in Batch Entrez and Fastas for each bacterial protein recovered.
 # begin byspecifying filtered subset "working" of "blast_data".
 > working <- blast_data %>%
@@ -11,7 +15,7 @@ library(tidyr)
 #set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
 + filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
 
-#save only the sseqid of the filtered alignments.
+#select accession number of bacterial protein for new file.
 + select(sseqid)
 
 #select only unique sseqids.
@@ -21,6 +25,13 @@ library(tidyr)
 #creates new dataset of size: 384 x 1.
 #write the 384 sseqids to new txt file "working". 
 > write.table(unique(working), "working", sep="\t", row.names = FALSE)
+
+#############################################################################################################################
+
+### 2
+
+#load package "tidyr" to filter data.
+library(tidyr)
 
 #filter original dataset of bacterial-viral alignments by evalue, percent coverage, and percent identical followed.
 #Writing only the qseqids of the filtered alignments to a new text file. 
@@ -32,7 +43,7 @@ library(tidyr)
 set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
 + filter(evalue <0.01, qcovs > 80, pident >35) %>%
 
-#select only the qseqids from the filtered data.
+#select accession number of viral protein sequences for new file.
 + select(qseqid)
 
 #select only unique qseqids.
@@ -44,3 +55,24 @@ set parameters for filtering such that only alignments with evalue < 0.01, cover
 > write.table(unique(working_viruses), "working_viruses", sep="\t", row.names=FALSE)
 
 # see "phage work" google doc for detailed desricption of all files.
+
+############################################################################################################################
+
+### 3
+
+#used for filtering out alignments of bacterial and viral proteins above a set threshold and saving only those that have a unique bacterial protein.
+#delivers more viral diversity than using 2 (above).
+#creates file containing unique sseqids and qseqids (not necessarily unique).
+#use dplyr package.
+> library(dplyr)
+#call subset created "working_B_V".
+> working_B_V <- blast_data %>%
+#filter with parameters set as follows.
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
+#select accession number of bacterial and viral proteins for new file.
++ select(sseqid, qseqid)
+#select distinct sseqid and keep corresponding qseqid.
+> distinct(working_B_V,sseqid, .keep_all= TRUE)
+#creates new dataset of size: 384 x 2.
+#write filtered data to new text file.
+> write.table(distinct(working_B_V,sseqid, .keep_all= TRUE), "working_B_V", sep="\t", row.names=FALSE)
