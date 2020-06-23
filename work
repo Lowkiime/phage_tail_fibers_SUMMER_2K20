@@ -274,42 +274,10 @@ Error: unexpected assignment in "Working? <-"
 
 
 
-> working_B_V <- blast_data %>%
-+ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
-+ select(unique(sseqid), qseqid)
-Error: object 'sseqid' not found
-Run `rlang::last_error()` to see where the error occurred.
-> working_B_V <- blast_data %>%
-+ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
-+ select(sseqid, qseqid)
->working_B_V <- blast_data %>%
-+ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
-+ select(sseqid, qseqid)
-> library(dplyr)
-> View(working_B_V)
-> distinct(working_B_V,sseqid, .keep_all= TRUE)
-# A tibble: 384 x 2
-   sseqid         qseqid        
-   <chr>          <chr>         
- 1 WP_048731302.1 YP_009005144.1
- 2 WP_048731243.1 YP_009005144.1
- 3 WP_048731303.1 YP_009005145.1
- 4 WP_048731244.1 YP_009005145.1
- 5 WP_047716000.1 NP_795416.1   
- 6 WP_048327294.1 NP_795416.1   
- 7 WP_000930006.1 NP_050654.1   
- 8 WP_047659315.1 NP_050654.1   
- 9 WP_047616069.1 NP_050654.1   
-10 WP_047655146.1 NP_050654.1   
-# … with 374 more rows
-> write.table(distinct(working_B_V,sseqid, .keep_all= TRUE), working_B_V, sep="\t", row.names=FALSE)
-Error in isOpen(file, "w") : invalid connection
-In addition: Warning message:
-In if (file == "") file <- stdout() else if (is.character(file)) { :
-  the condition has length > 1 and only the first element will be used
-> write.table(distinct(working_B_V,sseqid, .keep_all= TRUE), "working_B_V", sep="\t", row.names=FALSE)
 
 
+
+### 1
 
 #load package "tidyr" to filter data.
 library(tidyr)
@@ -324,7 +292,7 @@ library(tidyr)
 #set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
 + filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
 
-#save only the sseqid of the filtered alignments.
+#select accession number of bacterial protein for new file.
 + select(sseqid)
 
 #select only unique sseqids.
@@ -334,6 +302,13 @@ library(tidyr)
 #creates new dataset of size: 384 x 1.
 #write the 384 sseqids to new txt file "working". 
 > write.table(unique(working), "working", sep="\t", row.names = FALSE)
+
+#############################################################################################################################
+
+### 2
+
+#load package "tidyr" to filter data.
+library(tidyr)
 
 #filter original dataset of bacterial-viral alignments by evalue, percent coverage, and percent identical followed.
 #Writing only the qseqids of the filtered alignments to a new text file. 
@@ -345,7 +320,7 @@ library(tidyr)
 set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
 + filter(evalue <0.01, qcovs > 80, pident >35) %>%
 
-#select only the qseqids from the filtered data.
+#select accession number of viral protein sequences for new file.
 + select(qseqid)
 
 #select only unique qseqids.
@@ -357,3 +332,25 @@ set parameters for filtering such that only alignments with evalue < 0.01, cover
 > write.table(unique(working_viruses), "working_viruses", sep="\t", row.names=FALSE)
 
 # see "phage work" google doc for detailed desricption of all files.
+
+############################################################################################################################
+
+### 3
+
+#used for filtering out alignments of bacterial and viral proteins above a set threshold and saving only those that have a unique bacterial protein.
+#delivers more viral diversity than using 2 (above).
+#creates file containing unique sseqids and qseqids (not necessarily unique).
+#use dplyr package.
+> library(dplyr)
+#call subset created "working_B_V".
+> working_B_V <- blast_data %>%
+#filter with parameters set as follows.
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
+#select accession number of bacterial and viral proteins for new file.
++ select(sseqid, qseqid)
+#select distinct sseqid and keep corresponding qseqid.
+> distinct(working_B_V,sseqid, .keep_all= TRUE)
+#creates new dataset of size: 384 x 2.
+#write filtered data to new text file.
+> write.table(distinct(working_B_V,sseqid, .keep_all= TRUE), "working_B_V", sep="\t", row.names=FALSE)
+
