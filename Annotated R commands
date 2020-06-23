@@ -1,0 +1,46 @@
+#load package "tidyr" to filter data.
+library(tidyr)
+
+#filter original dataset of bacterial-viral alignments by evalue, percent coverage, and percent identical followed.
+#Writing only the sseqids of the filtered alignments to a new text file. 
+#text file then can be uploaded in Batch Entrez and Fastas for each bacterial protein recovered.
+# begin byspecifying filtered subset "working" of "blast_data".
+> working <- blast_data %>%
+
+#filter alignments from "blast_data" to "working".
+#set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
++ filter(evalue < 0.01, qcovs > 80, pident > 35) %>%
+
+#save only the sseqid of the filtered alignments.
++ select(sseqid)
+
+#select only unique sseqids.
+> unique(working)
+
+#384 sseqids were selected.
+#creates new dataset of size: 384 x 1.
+#write the 384 sseqids to new txt file "working". 
+> write.table(unique(working), "working", sep="\t", row.names = FALSE)
+
+#filter original dataset of bacterial-viral alignments by evalue, percent coverage, and percent identical followed.
+#Writing only the qseqids of the filtered alignments to a new text file. 
+#text file then can be uploaded in Batch Entrez and Fastas for each viral protein recovered.
+# begin byspecifying filtered subset "working_viruses" of "blast_data".
+>working_viruese <- blast_data %>%
+
+#filter alignments from "blast_data" to "working_viruses".
+set parameters for filtering such that only alignments with evalue < 0.01, coverage >80%, and percent identical >35% are selected.
++ filter(evalue <0.01, qcovs > 80, pident >35) %>%
+
+#select only the qseqids from the filtered data.
++ select(qseqid)
+
+#select only unique qseqids.
+> unique(working_viruses)
+
+#211 unique qseqids were selected.
+# creates new dataset of size: 211 x 1.   
+# write the unique sseqids into new file "working_viruses". 
+> write.table(unique(working_viruses), "working_viruses", sep="\t", row.names=FALSE)
+
+# see "phage work" google doc for detailed desricption of all files.
