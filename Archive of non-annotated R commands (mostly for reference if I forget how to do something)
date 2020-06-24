@@ -258,25 +258,6 @@ Error in order(sseqid, -qseqid) : object 'sseqid' not found
 > Working? <- blast_data %>%
 Error: unexpected assignment in "Working? <-"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 1
 
 #load package "tidyr" to filter data.
