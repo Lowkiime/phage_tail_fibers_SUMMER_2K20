@@ -45,4 +45,28 @@ together and represented by one sequence chosen from the cluster. All other sett
 ->Batch Entrez was used to recover the fasta files for selected sequences. 
 ->Github repository with annotated R commands: https://github.com/Lowkiime/SUMMER20/blob/master/work
 
+Programs used:
+
+NCBI Genome Workbench Version  3.4.1
+CD HIT Server cd-hit accessed 6/22/2020
+NCBI Magic-Blast Version 1.5.0
+R STUDIO Version 1.3.959
+MAFFT Version 7.467
+FigTree Version 1.4.4
+MEGA X Version 10.1.8 build 10200331
+AliView Version 1.26
+HMMER Version 3.3
+NCBI Batch Entrez Accessed from 5/18/2020 to 8/3/2020
+NCBI TBLASTN Accessed from 6/20/2020 to 8/3/2020
+
+First metagenomic dataset:
+
+https://www.ebi.ac.uk/metagenomics/search#analyses
+
+https://www.ebi.ac.uk/ena/browser/view/PRJNA304204
+
+This dataset from China was made into a Blast database using Magic Blast and then used as a local subject database in NCBI Genome Workbench to run tblastn with
+the 157 sequences in the file working_70_cdhit.fasta as query.
+No hits were found using tblastn with parameters set at word size=3, e-value=0.01, and threshold=13; however, there were 3 hits with the parameters set at size=3, 
+e-value=0.1, and threshold=13.
 
