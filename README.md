@@ -48,15 +48,25 @@ together and represented by one sequence chosen from the cluster. All other sett
 Programs used:
 
 NCBI Genome Workbench Version  3.4.1
+
 CD HIT Server cd-hit accessed 6/22/2020
+
 NCBI Magic-Blast Version 1.5.0
+
 R STUDIO Version 1.3.959
+
 MAFFT Version 7.467
+
 FigTree Version 1.4.4
+
 MEGA X Version 10.1.8 build 10200331
+
 AliView Version 1.26
+
 HMMER Version 3.3
+
 NCBI Batch Entrez Accessed from 5/18/2020 to 8/3/2020
+
 NCBI TBLASTN Accessed from 6/20/2020 to 8/3/2020
 
 First metagenomic dataset:
