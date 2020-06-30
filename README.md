@@ -44,3 +44,5 @@ http://weizhong-lab.ucsd.edu/cdhit-web-server/cgi-bin/index.cgi?cmd=cd-hit
 together and represented by one sequence chosen from the cluster. All other settings were left in the default setting.
 ->Batch Entrez was used to recover the fasta files for selected sequences. 
 ->Github repository with annotated R commands: https://github.com/Lowkiime/SUMMER20/blob/master/work
+
+
