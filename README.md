@@ -80,3 +80,5 @@ the 157 sequences in the file working_70_cdhit.fasta as query.
 No hits were found using tblastn with parameters set at word size=3, e-value=0.01, and threshold=13; however, there were 3 hits with the parameters set at size=3, 
 e-value=0.1, and threshold=13.
 
+tblastn subject data retrieved from https://www.ebi.ac.uk/metagenomics/search#analyses.
+
