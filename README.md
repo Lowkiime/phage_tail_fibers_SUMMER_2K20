@@ -80,5 +80,5 @@ the 157 sequences in the file working_70_cdhit.fasta as query.
 No hits were found using tblastn with parameters set at word size=3, e-value=0.01, and threshold=13; however, there were 3 hits with the parameters set at size=3, 
 e-value=0.1, and threshold=13.
 
-tblastn subject data retrieved from https://www.ebi.ac.uk/metagenomics/search#analyses.
+The 2 tblastn subject data files were retrieved from https://www.ebi.ac.uk/metagenomics/search#analyses followed by unzipping the files and converting them to fasta format in the command line. Next, each file was made into a blast database and the query sequences in the file working_70_cdhit.fasta blasted against eavh using tblastn with parameters set as: -max_target_seqs 2, max_hsps 1, evalue 10, with outfmt '7. The best hits were selected in R studio based on three catgories and the seqids saved and duplicates filtered out. Those sequences with evalue<0.1, or qcovs>40% ,or pident>57% were combined and saved. The corresponding sequences from each of the seqids was extracted from the two blast databases. The file 300reads.fasta contains these sequences. 
 
