@@ -1,0 +1,373 @@
+1.1 Small Aral sea Metagenomic assembly
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA641503
+ID: 641503
+SRR12095147
+
+2.1 Single Virus Genomics marine phages
+BioProject Accession: PRJNA611689
+ID: 611689
+SRR11283656,SRR11283657,SRR11283658,SRR11283659,SRR11283660,SRR11283661,SRR11283662	
+
+3.1 viral metagenome Metagenomic assembly
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA610033
+ID: 610033
+SRR11097769	
+
+4.1 Virome of Andean tubers
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA576364
+ID: 576364
+SRR10244774	
+
+5.1 Lake Baikal Viromes Raw sequence reads
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA547700
+ID: 547700
+SRR9221221,SRR9217670
+
+6.1 Viral metagenome in Jiangsu river water samples
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA471935
+ID: 471935
+SRR7288019	
+
+7.1 Genomes from the Global Ocean Virome v1
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA477650
+ID: 477650
+ERR599365,ERR2752164+++++++			
+
+8. Viral communities from lakes of the Canadian High Arctic
+BioProject Accession: PRJNA545459
+ID: 545459
+SRR9159688,SRR9159689,SRR9159690,SRR9159691,SRR9159692,SRR9159693,SRR9159694,SRR9159695,SRR9159696,SRR9159697,SRR9159698,SRR9159699,SRR9159700,SRR9159701,SRR9159702	
+9. Viral metagenome communities from thermally stressed Rhopaloiedes odorabile
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA523638
+ID: 523638
+SRR8606903	+++
+
+10.1 Viromes of Mediterranean Sea sponges and surrounding seawater
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA522695
+ID: 522695
+SRR8584772	++++
+
+11.1 Marine Bacteriophage Viral Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA516067
+ID: 516067
+SRR8466803,SRR8466804,SRR8466805,SRR8466806,SRR8466807,SRR8466808	
+
+12.1----- viral metagenome Metagenomic assembly
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA486230
+ID: 486230
+SRR7700917	
+
+13.1 Viral metagenome of Lake Soyang
+BioProject Accession: PRJEB15535
+ID: 489014
+ERR2814753,ERR2814752,ERR2814751,ERR2814750,ERR2814726,ERR2814725	
+
+14. Viral metagenome from marine sponges Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA489143
+ID: 489143
+SRR7825030	++++
+
+15.1 North Sea Virome
+BioProject Accession: PRJEB21210
+ID: 429161
+ERR2002983,ERR2002982,ERR2002981,ERR2002980
+
+16.1 Sichuan takin Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA421859
+ID: 421859
+SRR6365042	
+
+17. Viral diversity in Kampala wastewater and surface water
+BioProject Accession: PRJNA417500
+ID: 417500
+SRR6284152,SRR6284153,SRR6284154,SRR6284155,SRR6284156,SRR6284157	
+
+18.1? Viral metagenomics of Sanya bay Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA416705
+ID: 416705
+SRR6242095
+
+19.1? Viral genetic richness and functions that shape the microbial community at the Juan de Fuca Ridge
+BioProject Accession: PRJNA398661
+ID: 398661
+SRR5962327,SRR5962308,SRR5962307,SRR5962305,SRR5962304,SRR5962303,SRR5962302,SRR5962301,SRR5962300,SRR5962299,SRR5949056
+
+20. viral metagenome from the Damariscotta River Estuary, ME, USA
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA357591
+ID: 357591
+SRR5113867
+
+21. Virome analysis of Porites lutea at PNG CO2 seeps
+BioProject Accession: PRJNA388294
+ID: 388294
+SRR5644402
+
+
+Timeline of marine viruses%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+1. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 56 SPOT_SRF_2014-09-10 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465301
+ID: 465301
+SRR8675943,SRR8675944,SRR8675945	+++all others+++
+
+2. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 52 SPOT_SRF_2014-03-13 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465295
+ID: 465295
+
+3. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 47 SPOT_SRF_2013-09-18 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465288
+ID: 465288
+
+4. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 42 SPOT_SRF_2013-04-24 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465283
+ID: 465283
+
+5. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 36 SPOT_SRF_2012-09-28 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465277
+ID: 465277
+
+6. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 31 SPOT_SRF_2012-02-16 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465272
+ID: 465272
+
+7. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 26 SPOT_SRF_2011-09-28 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465267
+ID: 465267
+
+8. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 21 SPOT_SRF_2011-04-29 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465262
+ID: 465262
+
+9. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 15 SPOT_SRF_2010-09-15 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465256
+ID: 465256
+
+10. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 10 SPOT_SRF_2010-04-27 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465251
+ID: 465251
+
+11. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 4 SPOT_SRF_2009-09-24 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465245
+ID: 465245
+
+12. Marine viral communities from the oligotrophic San Pedro Time Series (SPOT) site, San Pedro Channel, CA, USA – 1 SPOT_SRF_2009-06-18 metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA465242
+ID: 465242
+
+
+
+
+
+
+
+1. Cuatro Cienegas viral metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA447857
+ID: 447857
+SRR6913558	+++
+
+2. Red Sea coral metagenomes
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA437202
+ID: 437202
+SRR7058411 +++
+
+7. Aqua-Nano project
+BioProject Accession: PRJNA415911
+ID: 415911
+SRR6220835	+++
+
+
+	
+10. Viral diversity in thermokarst lakes from the Canadian subarctic
+BioProject Accession: PRJNA398495
+ID: 398495
+SRR5937055	+++++
+
+11. Study of viral diversity in Lake Baikal
+BioProject Accession: PRJNA398439
+ID: 398439
+SRR5936590	
+
+1. axial viral community Raw sequence reads
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA395091
+ID: 395091
+SRR5855484 +++
+
+2. Virome analysis of Porites lutea at PNG CO2 seeps
+BioProject Accession: PRJNA388294
+ID: 388294
+SRR5644402	+++++
+
+1. viral metagenome from the Damariscotta River Estuary, ME, USA
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA357591
+ID: 357591
+SRR5113867
+
+2. Viral metagenome associated with Diporeia spp.
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA344369
+ID: 344369
+SRR4340431	+++
+	
+
+3. viral metagenome Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA341754
+ID: 341754
+SRR4158143	++
+
+4. viral metagenome Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA340320
+ID: 340320
+SRR4131958	+++
+
+5. Animal(panda) samples metagenome Raw sequence reads
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA345639
+ID: 345639
+SRR5644066	
+
+1. Artic fresh water viromes
+BioProject Accession: PRJEB5347
+ID: 311694
+ERR430570	
+
+4. Sea water virus Genome sequencing and assembly
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA294123
+ID: 294123
+SRR2594391	 +++
+
+5. Artic fresh water viromes
+BioProject Accession: PRJEB5265
+ID: 290449
+ERR414823	+++
+
+6. Prasinovirus distribution in the North West Mediterranean Sea is affected by the environment and particularly by phosphate availability
+BioProject Accession: PRJEB6059
+ID: 262759
+ERR475327
+
+7. Lake Michigan Chicago Virome Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA248239
+ID: 248239
+SRR1974514	+++
+
+8. Sewage Viruses Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA169010
+ID: 169010
+SRR545990	+++
+
+
+
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Virus_metagenomes_associated_with_organism_$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+
+
+
+1. Viruses associated with Daphnia mendotae (Arthropoda; Cladocera)
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA182249
+ID: 182249
+
+2. Viruses in tissues of Opae'ula (Halocaridina rubra) Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA283633
+ID: 283633
+
+3. Tissues of Acanthaster planci Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA283631
+ID: 283631
+
+4. Pyura chilensis Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA283606
+ID: 283606
+
+5. Epidermal mucus from Anguilla anguilla Viral genome sequencing
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA258135
+ID: 258135
+
+6. Tissues of Asteroidea Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA253121
+ID: 253121
+
+7. Viruses associated with Diporeia spp. Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA182269
+ID: 182269
+
+8. Sea water virus Genome sequencing and assembly
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA294123
+ID: 294123
+
+9. Viruses in tissues of Gorgonia ventalina (sea fan) Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA283638
+ID: 283638
+
+10. Viruses in tissues of the kelp amphipod Peramphithoe femorata Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA283637
+ID: 283637
+
+11. Viruses in tissues of Orchestoidea californiana Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA283636
+ID: 283636
+
+12. Viruses in tissues of Neotrypaea californiensis (Ghost shrimp) Metagenome
+Organism: viral metagenome (Taxonomy ID 1070528)
+BioProject Accession: PRJNA283634
+ID: 283634
+
+
+
+52+12timeline+12organism
