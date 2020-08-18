@@ -1,0 +1,1086 @@
+# TBLASTN 2.9.0+
+# Query: WP_000072167.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000072167.1	ERR2002980.1579835.2	72	108	41	151	204	300	37	1.5	35.135	18
+WP_000072167.1	ERR2002980.897832.2	42	75	15	116	204	146	34	2.4	41.176	17
+# TBLASTN 2.9.0+
+# Query: WP_000514854.1 host specificity protein J [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000514854.1	ERR2002980.725646.1	265	361	9	299	1158	300	97	5.57e-24	44.330	8
+WP_000514854.1	ERR2002980.182020.1	265	361	9	299	1158	300	97	5.57e-24	44.330	8
+# TBLASTN 2.9.0+
+# Query: WP_000930006.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000930006.1	ERR2002980.193295.1	170	186	283	233	187	300	17	0.27	70.588	9
+WP_000930006.1	ERR2002980.607066.2	10	39	16	99	187	143	30	2.5	50.000	16
+# TBLASTN 2.9.0+
+# Query: WP_000972134.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000972134.1	ERR2002980.1432957.1	37	77	276	181	177	276	41	6.7	36.585	23
+WP_000972134.1	ERR2002980.750643.2	11	47	160	44	177	261	39	9.8	38.462	21
+# TBLASTN 2.9.0+
+# Query: WP_001024006.1 MULTISPECIES: phage tail fiber C-terminal domain-containing protein [Gammaproteobacteria]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001024006.1	ERR2002980.667529.2	5	39	29	133	89	268	35	3.7	40.000	39
+WP_001024006.1	ERR2002980.667529.1	5	39	229	125	89	268	35	4.7	40.000	39
+# TBLASTN 2.9.0+
+# Query: WP_001133967.1 MULTISPECIES: baseplate J/gp47 family protein [Escherichia]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001133967.1	ERR2002980.261470.1	148	229	234	1	306	235	82	1.55e-13	50.000	27
+WP_001133967.1	ERR2002980.261470.2	148	216	1	195	306	235	69	9.57e-10	50.725	23
+# TBLASTN 2.9.0+
+# Query: WP_001286322.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001286322.1	ERR2002980.921031.1	18	40	196	128	144	251	23	3.6	52.174	16
+WP_001286322.1	ERR2002980.1134247.1	49	88	58	186	144	193	43	4.5	37.209	28
+# TBLASTN 2.9.0+
+# Query: WP_001297572.1 MULTISPECIES: baseplate J/gp47 family protein [Enterobacteriaceae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001297572.1	ERR2002980.261470.1	151	224	222	1	298	235	74	6.65e-12	48.649	25
+WP_001297572.1	ERR2002980.438255.1	93	170	250	5	298	252	82	1.12e-10	39.024	26
+# TBLASTN 2.9.0+
+# Query: WP_001524115.1 tail fiber assembly protein [Shigella flexneri]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001524115.1	ERR2002980.193285.2	48	72	22	96	133	124	25	0.30	60.000	19
+WP_001524115.1	ERR2002980.193285.1	48	72	103	29	133	124	25	0.30	60.000	19
+# TBLASTN 2.9.0+
+# Query: WP_001706448.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001706448.1	ERR2002980.486478.1	52	133	9	254	911	264	82	9.33e-14	40.244	9
+WP_001706448.1	ERR2002980.486478.2	57	133	240	10	911	264	77	5.54e-12	38.961	8
+# TBLASTN 2.9.0+
+# Query: WP_003117973.1 MULTISPECIES: C40 family peptidase [Pseudomonas]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_003117973.1	ERR2002980.792955.2	43	136	284	3	256	285	94	6.59e-11	34.043	37
+WP_003117973.1	ERR2002980.792955.1	43	136	2	283	256	285	94	6.59e-11	34.043	37
+# TBLASTN 2.9.0+
+# Query: WP_003759716.1 MULTISPECIES: hypothetical protein [Listeria]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_003759716.1	ERR2002980.59731.2	12	45	4	96	113	132	34	1.6	35.294	30
+WP_003759716.1	ERR2002980.1469111.2	19	60	166	291	113	300	42	1.6	30.952	37
+# TBLASTN 2.9.0+
+# Query: WP_004722849.1 hypothetical protein [Yersinia ruckeri]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_004722849.1	ERR2002980.1507706.2	17	71	261	94	165	300	56	0.28	33.929	33
+WP_004722849.1	ERR2002980.1477523.2	76	130	162	22	165	263	56	0.35	33.929	33
+# TBLASTN 2.9.0+
+# Query: WP_012303821.1 MULTISPECIES: hypothetical protein [Yersinia pseudotuberculosis complex]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012303821.1	ERR2002980.574971.2	10	35	9	86	146	133	26	0.27	50.000	18
+WP_012303821.1	ERR2002980.574971.1	10	35	125	48	146	133	26	0.27	50.000	18
+# TBLASTN 2.9.0+
+# Query: WP_012849301.1 MULTISPECIES: host specificity protein J [Edwardsiella]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012849301.1	ERR2002980.725646.1	263	361	3	299	1031	300	99	4.08e-20	41.414	10
+WP_012849301.1	ERR2002980.182020.1	263	361	3	299	1031	300	99	4.08e-20	41.414	10
+# TBLASTN 2.9.0+
+# Query: WP_012987783.1 host specificity protein J [Xenorhabdus bovienii]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012987783.1	ERR2002980.725646.1	264	361	6	299	1045	300	98	1.24e-24	47.959	9
+WP_012987783.1	ERR2002980.182020.1	264	361	6	299	1045	300	98	1.24e-24	47.959	9
+# TBLASTN 2.9.0+
+# Query: WP_016063193.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_016063193.1	ERR2002980.191398.2	6	72	213	16	194	300	69	8.6	30.435	35
+# TBLASTN 2.9.0+
+# Query: WP_016249384.1 MULTISPECIES: phage tail protein I [Escherichia]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016249384.1	ERR2002980.1212231.2	87	149	3	197	176	300	65	4.14e-19	64.615	36
+WP_016249384.1	ERR2002980.194035.1	1	84	254	3	176	278	84	4.09e-10	44.048	48
+# TBLASTN 2.9.0+
+# Query: WP_016716825.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016716825.1	ERR2002980.723161.2	17	64	98	241	491	300	48	1.2	35.417	10
+WP_016716825.1	ERR2002980.900077.2	17	64	212	69	491	300	48	1.7	35.417	10
+# TBLASTN 2.9.0+
+# Query: WP_017218926.1 MULTISPECIES: baseplate J/gp47 family protein [Pseudoalteromonas]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_017218926.1	ERR2002980.3571.1	3	34	110	205	280	300	32	5.50e-06	62.500	11
+WP_017218926.1	ERR2002980.3571.2	3	34	201	106	280	300	32	0.002	56.250	11
+# TBLASTN 2.9.0+
+# Query: WP_017765307.1 MULTISPECIES: baseplate J/gp47 family protein [Aeromonas]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_017765307.1	ERR2002980.3571.1	2	63	113	298	299	300	62	3.48e-17	62.903	21
+WP_017765307.1	ERR2002980.3571.2	6	67	186	1	299	300	62	1.83e-16	61.290	21
+# TBLASTN 2.9.0+
+# Query: WP_021729012.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_021729012.1	ERR2002980.1340949.1	11	43	215	117	492	300	33	0.52	48.485	7
+WP_021729012.1	ERR2002980.1340949.2	11	43	37	135	492	300	33	2.2	45.455	7
+# TBLASTN 2.9.0+
+# Query: WP_023277167.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_023277167.1	ERR2002980.188966.2	257	302	216	82	310	300	46	9.22e-05	45.652	15
+WP_023277167.1	ERR2002980.188966.1	257	302	87	221	310	300	46	1.14e-04	45.652	15
+# TBLASTN 2.9.0+
+# Query: WP_025423029.1 host specificity protein J [Sodalis praecaptivus]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_025423029.1	ERR2002980.725646.2	284	383	300	1	1042	300	100	6.36e-25	47.000	10
+WP_025423029.1	ERR2002980.182020.2	284	383	300	1	1042	300	100	6.36e-25	47.000	10
+# TBLASTN 2.9.0+
+# Query: WP_032673287.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_032673287.1	ERR2002980.158331.2	12	50	130	14	143	164	39	1.4	33.333	27
+WP_032673287.1	ERR2002980.158331.1	12	50	35	151	143	164	39	1.4	33.333	27
+# TBLASTN 2.9.0+
+# Query: WP_032679843.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_032679843.1	ERR2002980.88898.2	79	130	98	253	157	300	52	0.19	30.769	33
+WP_032679843.1	ERR2002980.259849.2	79	130	255	100	157	277	52	0.25	30.769	33
+# TBLASTN 2.9.0+
+# Query: WP_036414555.1 host specificity protein J [Morganella morganii]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_036414555.1	ERR2002980.725646.1	264	361	6	299	1044	300	98	1.18e-25	47.959	9
+WP_036414555.1	ERR2002980.182020.1	264	361	6	299	1044	300	98	1.18e-25	47.959	9
+# TBLASTN 2.9.0+
+# Query: WP_042659516.1 MULTISPECIES: tail fiber assembly protein [Yersinia pseudotuberculosis complex]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_042659516.1	ERR2002980.1308615.1	23	81	274	98	218	300	60	7.6	30.000	27
+# TBLASTN 2.9.0+
+# Query: WP_045190581.1 hypothetical protein [Pseudomonas sp. 5]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_045190581.1	ERR2002980.1078553.2	32	64	1	99	145	101	33	2.49e-08	69.697	23
+WP_045190581.1	ERR2002980.1078553.1	32	64	101	3	145	101	33	2.49e-08	69.697	23
+# TBLASTN 2.9.0+
+# Query: WP_045718260.1 hypothetical protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_045718260.1	ERR2002980.216471.2	90	131	135	7	134	300	43	1.28e-09	74.419	31
+WP_045718260.1	ERR2002980.1586104.2	95	130	120	13	134	161	36	2.53e-08	69.444	27
+# TBLASTN 2.9.0+
+# Query: WP_047064609.1 hypothetical protein [Klebsiella aerogenes]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047064609.1	ERR2002980.537769.1	142	168	84	4	168	115	27	3.60e-04	74.074	16
+WP_047064609.1	ERR2002980.216471.2	142	166	78	4	168	300	25	0.001	80.000	15
+# TBLASTN 2.9.0+
+# Query: WP_047378479.1 tail fiber protein, partial [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047378479.1	ERR2002980.1230361.2	76	109	113	12	199	125	34	0.019	58.824	17
+WP_047378479.1	ERR2002980.1230361.1	76	109	13	114	199	125	34	0.019	58.824	17
+# TBLASTN 2.9.0+
+# Query: WP_047403075.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047403075.1	ERR2002980.923362.2	104	150	142	2	197	300	48	2.1	37.500	24
+WP_047403075.1	ERR2002980.861107.1	11	78	18	191	197	300	68	2.2	30.882	35
+# TBLASTN 2.9.0+
+# Query: WP_047418019.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047418019.1	ERR2002980.453453.2	929	977	150	25	1055	300	49	3.44e-04	53.061	5
+WP_047418019.1	ERR2002980.453453.1	929	964	159	266	1055	300	36	8.34e-04	52.778	3
+# TBLASTN 2.9.0+
+# Query: WP_047463064.1 phage tail protein [Citrobacter koseri]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047463064.1	ERR2002980.486478.1	50	111	9	194	517	264	62	1.42e-07	35.484	12
+WP_047463064.1	ERR2002980.1553343.1	341	395	234	52	517	300	62	0.081	38.710	11
+# TBLASTN 2.9.0+
+# Query: WP_047501638.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047501638.1	ERR2002980.453453.2	943	973	150	58	1067	300	31	8.87e-04	61.290	3
+WP_047501638.1	ERR2002980.453453.1	943	973	159	251	1067	300	31	0.005	61.290	3
+# TBLASTN 2.9.0+
+# Query: WP_047506852.1 hypothetical protein [Rhizobium sp. YR528]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047506852.1	ERR2002980.1532646.1	12	87	8	235	87	265	76	2.12e-18	50.000	87
+WP_047506852.1	ERR2002980.1532646.2	11	87	261	31	87	265	77	1.38e-13	45.455	89
+# TBLASTN 2.9.0+
+# Query: WP_047533231.1 hypothetical protein [Shewanella sp. ZOR0012]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047533231.1	ERR2002980.518568.1	47	81	84	188	220	300	35	0.021	45.714	16
+WP_047533231.1	ERR2002980.217442.1	50	81	12	107	220	280	32	0.025	50.000	15
+# TBLASTN 2.9.0+
+# Query: WP_047541866.1 baseplate J/gp47 family protein [Pseudomonas simiae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047541866.1	ERR2002980.438255.1	87	168	250	5	295	252	82	2.69e-22	56.098	28
+WP_047541866.1	ERR2002980.438255.2	87	167	3	245	295	252	81	1.23e-19	53.086	27
+# TBLASTN 2.9.0+
+# Query: WP_047565225.1 prophage tail fiber N-terminal domain-containing protein [Shigella sonnei]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047565225.1	ERR2002980.1012691.2	296	372	71	280	388	300	78	0.23	32.051	20
+WP_047565225.1	ERR2002980.1041177.2	252	273	4	66	388	119	22	0.70	59.091	6
+# TBLASTN 2.9.0+
+# Query: WP_047570873.1 baseplate J/gp47 family protein [Serratia marcescens]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047570873.1	ERR2002980.438255.1	91	176	247	2	305	252	86	1.01e-08	37.209	28
+WP_047570873.1	ERR2002980.438255.2	91	160	6	215	305	252	70	1.63e-08	38.571	23
+# TBLASTN 2.9.0+
+# Query: WP_047587336.1 macro domain-containing protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047587336.1	ERR2002980.1053368.1	119	172	88	240	274	270	54	0.85	35.185	20
+WP_047587336.1	ERR2002980.1495786.2	112	172	56	217	274	246	61	0.97	31.148	22
+# TBLASTN 2.9.0+
+# Query: WP_047588350.1 host specificity protein J [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047588350.1	ERR2002980.725646.1	264	361	6	299	1120	300	98	2.67e-25	44.898	9
+WP_047588350.1	ERR2002980.182020.1	264	361	6	299	1120	300	98	2.67e-25	44.898	9
+# TBLASTN 2.9.0+
+# Query: WP_047592509.1 tail fiber assembly protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047592509.1	ERR2002980.1517026.1	119	141	116	184	172	300	23	3.6	47.826	13
+WP_047592509.1	ERR2002980.1452330.2	100	170	270	64	172	300	71	6.8	28.169	41
+# TBLASTN 2.9.0+
+# Query: WP_047592512.1 tail fiber assembly protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047592512.1	ERR2002980.389879.2	83	163	274	29	177	283	82	3.6	25.610	46
+WP_047592512.1	ERR2002980.56642.2	70	108	182	66	177	189	39	6.4	28.205	22
+# TBLASTN 2.9.0+
+# Query: WP_047594313.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047594313.1	ERR2002980.932514.2	433	468	37	153	809	161	39	7.31e-04	56.410	4
+WP_047594313.1	ERR2002980.932514.1	433	468	125	9	809	161	39	7.31e-04	56.410	4
+# TBLASTN 2.9.0+
+# Query: WP_047606624.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047606624.1	ERR2002980.313541.1	572	649	225	1	1009	300	78	4.87e-14	55.128	8
+WP_047606624.1	ERR2002980.1047491.1	578	653	271	53	1009	300	76	3.38e-13	53.947	8
+# TBLASTN 2.9.0+
+# Query: WP_047609716.1 tail fiber assembly protein [Rahnella aquatilis]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047609716.1	ERR2002980.867755.1	66	111	210	88	172	245	46	0.054	36.957	27
+WP_047609716.1	ERR2002980.867755.2	66	111	36	158	172	245	46	0.066	36.957	27
+# TBLASTN 2.9.0+
+# Query: WP_047615099.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615099.1	ERR2002980.486478.1	52	133	9	254	736	264	82	6.71e-14	41.463	11
+WP_047615099.1	ERR2002980.486478.2	57	133	240	10	736	264	77	9.46e-11	37.662	10
+# TBLASTN 2.9.0+
+# Query: WP_047615608.1 host specificity protein J [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615608.1	ERR2002980.725646.1	264	361	6	299	1165	300	98	7.76e-20	40.816	8
+WP_047615608.1	ERR2002980.182020.1	264	361	6	299	1165	300	98	7.76e-20	40.816	8
+# TBLASTN 2.9.0+
+# Query: WP_047619258.1 tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047619258.1	ERR2002980.188966.2	180	234	213	58	238	300	55	0.19	34.545	23
+WP_047619258.1	ERR2002980.1434027.2	34	130	63	290	238	300	97	1.4	23.711	41
+# TBLASTN 2.9.0+
+# Query: WP_047629926.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047629926.1	ERR2002980.486478.1	52	133	9	254	673	264	82	4.16e-13	39.024	12
+WP_047629926.1	ERR2002980.486478.2	57	132	240	13	673	264	76	3.35e-12	39.474	11
+# TBLASTN 2.9.0+
+# Query: WP_047634918.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047634918.1	ERR2002980.346543.2	49	80	107	12	655	300	32	0.68	40.625	5
+WP_047634918.1	ERR2002980.1192983.2	136	155	101	42	655	300	20	4.8	70.000	3
+# TBLASTN 2.9.0+
+# Query: WP_047641366.1 immunoglobulin domain-containing protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047641366.1	ERR2002980.1044505.1	159	199	151	38	245	233	42	0.063	45.238	17
+WP_047641366.1	ERR2002980.1216237.1	148	192	27	155	245	155	45	0.10	44.444	18
+# TBLASTN 2.9.0+
+# Query: WP_047647962.1 phage tail protein [Enterobacter asburiae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047647962.1	ERR2002980.1523729.2	151	208	29	199	223	291	62	1.0	37.097	26
+WP_047647962.1	ERR2002980.693491.1	70	104	207	103	223	300	35	1.2	40.000	16
+# TBLASTN 2.9.0+
+# Query: WP_047649426.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047649426.1	ERR2002980.1147399.1	370	436	96	284	528	300	67	1.38e-17	58.209	13
+WP_047649426.1	ERR2002980.678067.2	361	436	268	53	528	300	76	3.02e-17	52.632	14
+# TBLASTN 2.9.0+
+# Query: WP_047650743.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047650743.1	ERR2002980.313541.1	690	766	222	1	1091	300	77	1.18e-11	53.247	7
+WP_047650743.1	ERR2002980.1047491.1	690	768	286	59	1091	300	79	2.25e-11	50.633	7
+# TBLASTN 2.9.0+
+# Query: WP_047651134.1 phage tail protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047651134.1	ERR2002980.610648.2	202	259	163	2	328	173	58	1.59e-12	53.448	18
+WP_047651134.1	ERR2002980.610648.1	202	259	11	172	328	173	58	1.59e-12	53.448	18
+# TBLASTN 2.9.0+
+# Query: WP_047652060.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652060.1	ERR2002980.1229428.1	335	401	64	264	975	300	67	5.48e-15	58.209	7
+WP_047652060.1	ERR2002980.106304.2	336	403	223	20	975	266	68	3.26e-14	52.941	7
+# TBLASTN 2.9.0+
+# Query: WP_047652160.1 hypothetical protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652160.1	ERR2002980.837317.2	4	62	172	2	470	281	59	0.004	44.068	13
+WP_047652160.1	ERR2002980.837317.1	4	62	110	280	470	281	59	0.004	44.068	13
+# TBLASTN 2.9.0+
+# Query: WP_047652789.1 tail fiber assembly protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652789.1	ERR2002980.1023032.2	55	111	52	246	124	300	65	1.1	29.231	46
+WP_047652789.1	ERR2002980.982391.1	63	93	139	47	124	300	31	1.6	41.935	25
+# TBLASTN 2.9.0+
+# Query: WP_047653121.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047653121.1	ERR2002980.978402.2	65	113	52	207	147	257	52	2.0	36.538	33
+WP_047653121.1	ERR2002980.978402.1	65	113	206	51	147	257	52	6.0	36.538	33
+# TBLASTN 2.9.0+
+# Query: WP_047655321.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047655321.1	ERR2002980.486478.1	51	134	9	263	391	264	85	7.81e-10	34.118	21
+WP_047655321.1	ERR2002980.106304.1	190	257	44	247	391	266	68	4.32e-09	60.294	17
+# TBLASTN 2.9.0+
+# Query: WP_047656959.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047656959.1	ERR2002980.193295.1	158	175	283	230	175	300	18	7.2	55.556	10
+WP_047656959.1	ERR2002980.474081.2	72	97	92	15	175	127	26	9.3	42.308	15
+# TBLASTN 2.9.0+
+# Query: WP_047657307.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657307.1	ERR2002980.932514.2	433	471	37	153	831	161	39	5.27e-07	64.103	5
+WP_047657307.1	ERR2002980.932514.1	433	471	125	9	831	161	39	5.27e-07	64.103	5
+# TBLASTN 2.9.0+
+# Query: WP_047657742.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657742.1	ERR2002980.571214.2	323	377	217	29	524	300	63	1.0	34.921	10
+WP_047657742.1	ERR2002980.876182.2	321	355	171	275	524	300	35	1.6	37.143	7
+# TBLASTN 2.9.0+
+# Query: WP_047657854.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657854.1	ERR2002980.486478.1	52	133	9	254	681	264	82	7.01e-14	39.024	12
+WP_047657854.1	ERR2002980.486478.2	57	133	240	10	681	264	77	3.96e-12	38.961	11
+# TBLASTN 2.9.0+
+# Query: WP_047658478.1 tail fiber assembly protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047658478.1	ERR2002980.1414777.1	15	83	230	15	136	297	72	1.3	30.556	51
+WP_047658478.1	ERR2002980.1414777.2	15	83	68	283	136	297	72	1.8	30.556	51
+# TBLASTN 2.9.0+
+# Query: WP_047659090.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047659090.1	ERR2002980.486478.1	52	133	9	254	772	264	82	2.27e-13	39.024	11
+WP_047659090.1	ERR2002980.486478.2	57	133	240	10	772	264	77	2.19e-11	38.961	10
+# TBLASTN 2.9.0+
+# Query: WP_047660148.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660148.1	ERR2002980.344800.1	40	95	45	275	197	300	77	3.6	27.273	28
+WP_047660148.1	ERR2002980.946373.1	84	120	121	2	197	256	40	3.9	42.500	19
+# TBLASTN 2.9.0+
+# Query: WP_047660222.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660222.1	ERR2002980.486478.1	52	127	9	236	709	264	76	2.37e-12	40.789	11
+WP_047660222.1	ERR2002980.486478.2	57	127	240	28	709	264	71	1.97e-11	40.845	10
+# TBLASTN 2.9.0+
+# Query: WP_047660798.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660798.1	ERR2002980.106304.1	416	470	80	244	774	266	55	0.007	52.727	7
+WP_047660798.1	ERR2002980.106304.2	416	470	187	23	774	266	55	0.009	52.727	7
+# TBLASTN 2.9.0+
+# Query: WP_047661763.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047661763.1	ERR2002980.229504.1	67	112	128	18	178	168	47	2.4	38.298	26
+WP_047661763.1	ERR2002980.1129038.2	102	139	259	146	178	300	38	5.8	39.474	21
+# TBLASTN 2.9.0+
+# Query: WP_047662599.1 tail fiber domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662599.1	ERR2002980.393564.1	296	405	298	26	448	300	110	8.03e-11	32.727	25
+WP_047662599.1	ERR2002980.1090372.1	309	405	9	263	448	268	97	6.10e-09	38.144	22
+# TBLASTN 2.9.0+
+# Query: WP_047662788.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662788.1	ERR2002980.438255.2	93	155	3	203	299	252	67	8.58e-09	43.284	21
+WP_047662788.1	ERR2002980.438255.1	93	154	250	53	299	252	66	9.11e-09	43.939	21
+# TBLASTN 2.9.0+
+# Query: WP_047662962.1 phage tail protein [Klebsiella pneumoniae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662962.1	ERR2002980.106304.2	190	257	223	20	394	266	68	5.08e-18	58.824	17
+WP_047662962.1	ERR2002980.106304.1	190	257	44	247	394	266	68	5.13e-18	58.824	17
+# TBLASTN 2.9.0+
+# Query: WP_047667847.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047667847.1	ERR2002980.945368.2	19	68	111	296	198	300	62	0.93	33.871	25
+WP_047667847.1	ERR2002980.1189101.2	124	197	26	262	198	265	88	2.4	27.273	37
+# TBLASTN 2.9.0+
+# Query: WP_047668015.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668015.1	ERR2002980.66812.2	1	43	115	240	175	300	43	1.7	27.907	25
+WP_047668015.1	ERR2002980.1431922.2	56	108	135	13	175	156	53	1.8	41.509	30
+# TBLASTN 2.9.0+
+# Query: WP_047668184.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668184.1	ERR2002980.1147399.2	10	85	268	53	155	300	76	2.40e-16	46.053	49
+WP_047668184.1	ERR2002980.678067.2	1	85	295	53	155	300	85	8.18e-16	42.353	55
+# TBLASTN 2.9.0+
+# Query: WP_047670712.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047670712.1	ERR2002980.3571.1	1	64	107	298	307	300	64	1.19e-08	42.188	21
+WP_047670712.1	ERR2002980.3571.2	1	67	204	4	307	300	67	3.41e-08	41.791	22
+# TBLASTN 2.9.0+
+# Query: WP_047671682.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047671682.1	ERR2002980.1052898.2	640	705	51	293	861	300	83	0.081	32.530	8
+WP_047671682.1	ERR2002980.338508.2	458	489	14	109	861	284	32	0.38	50.000	4
+# TBLASTN 2.9.0+
+# Query: WP_047675600.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047675600.1	ERR2002980.571214.2	103	178	259	35	309	300	84	0.076	32.143	25
+WP_047675600.1	ERR2002980.316071.1	133	177	163	38	309	300	45	0.15	44.444	15
+# TBLASTN 2.9.0+
+# Query: WP_047675606.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047675606.1	ERR2002980.1277312.2	217	272	243	73	474	300	57	4.1	33.333	12
+WP_047675606.1	ERR2002980.987509.2	43	62	61	2	474	130	20	8.0	65.000	4
+# TBLASTN 2.9.0+
+# Query: WP_047680427.1 C40 family peptidase [Xenorhabdus sp. NBAII XenSa04]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047680427.1	ERR2002980.792955.2	41	134	284	3	233	285	94	1.18e-14	40.426	40
+WP_047680427.1	ERR2002980.792955.1	41	134	2	283	233	285	94	1.18e-14	40.426	40
+# TBLASTN 2.9.0+
+# Query: WP_047698164.1 baseplate J/gp47 family protein [Xanthomonas vasicola]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698164.1	ERR2002980.1118587.2	90	152	6	194	296	196	63	4.37e-21	63.492	21
+WP_047698164.1	ERR2002980.1118587.1	90	152	191	3	296	196	63	7.19e-20	61.905	21
+# TBLASTN 2.9.0+
+# Query: WP_047698631.1 host specificity protein J [Pseudomonas mediterranea]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698631.1	ERR2002980.725646.2	306	391	258	1	1030	300	86	4.79e-24	48.837	8
+WP_047698631.1	ERR2002980.182020.2	306	391	258	1	1030	300	86	4.79e-24	48.837	8
+# TBLASTN 2.9.0+
+# Query: WP_047698653.1 phage tail protein [Pseudomonas mediterranea]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698653.1	ERR2002980.1528629.2	157	212	66	251	217	300	62	0.18	33.871	26
+WP_047698653.1	ERR2002980.658565.2	120	168	58	204	217	226	50	3.5	40.000	23
+# TBLASTN 2.9.0+
+# Query: WP_047701979.1 phage tail protein [Pseudomonas mediterranea]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047701979.1	ERR2002980.810590.1	163	246	278	30	642	300	84	3.66e-18	52.381	13
+WP_047701979.1	ERR2002980.810590.2	155	225	41	253	642	300	71	6.40e-16	54.930	11
+# TBLASTN 2.9.0+
+# Query: WP_047714565.1 baseplate J/gp47 family protein [Pantoea ananatis]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047714565.1	ERR2002980.3571.1	4	63	119	298	305	300	60	2.33e-18	70.000	20
+WP_047714565.1	ERR2002980.3571.2	5	67	189	1	305	300	63	7.65e-18	66.667	21
+# TBLASTN 2.9.0+
+# Query: WP_047716000.1 phage tail protein [Streptococcus pyogenes]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047716000.1	ERR2002980.706434.2	467	538	5	208	684	285	72	1.1	29.167	11
+WP_047716000.1	ERR2002980.706434.1	467	538	281	78	684	285	72	1.9	29.167	11
+# TBLASTN 2.9.0+
+# Query: WP_047720857.1 C40 family peptidase [Klebsiella oxytoca]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047720857.1	ERR2002980.1263431.2	18	111	296	18	245	297	95	7.96e-16	35.789	38
+WP_047720857.1	ERR2002980.1381413.2	6	100	288	7	245	300	96	9.76e-16	36.458	39
+# TBLASTN 2.9.0+
+# Query: WP_047730209.1 C40 family peptidase [Serratia marcescens]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047730209.1	ERR2002980.792955.2	41	133	284	3	234	285	94	4.38e-17	39.362	40
+WP_047730209.1	ERR2002980.792955.1	41	133	2	283	234	285	94	4.38e-17	39.362	40
+# TBLASTN 2.9.0+
+# Query: WP_047780218.1 phage tail protein [Pragia fontium]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047780218.1	ERR2002980.308017.2	91	153	212	18	219	300	65	2.4	27.692	29
+WP_047780218.1	ERR2002980.308017.1	91	153	92	286	219	300	65	2.4	27.692	29
+# TBLASTN 2.9.0+
+# Query: WP_047780224.1 C40 family peptidase [Pragia fontium]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047780224.1	ERR2002980.792955.2	43	133	278	3	237	285	92	4.07e-11	33.696	38
+WP_047780224.1	ERR2002980.792955.1	43	133	8	283	237	285	92	4.07e-11	33.696	38
+# TBLASTN 2.9.0+
+# Query: WP_047842328.1 S-layer homology domain-containing protein [Paenibacillus sp. VT-400]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047842328.1	ERR2002980.566224.2	974	1046	227	6	2682	300	76	1.28e-09	44.737	3
+WP_047842328.1	ERR2002980.482658.2	375	463	3	287	2682	300	95	1.17e-08	37.895	3
+# TBLASTN 2.9.0+
+# Query: WP_047885557.1 baseplate J/gp47 family protein [Photobacterium ganghwense]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047885557.1	ERR2002980.438255.1	89	171	247	2	297	252	83	5.86e-14	49.398	28
+WP_047885557.1	ERR2002980.438255.2	89	171	6	251	297	252	83	1.88e-11	48.193	28
+# TBLASTN 2.9.0+
+# Query: WP_047905345.1 hypothetical protein [Pandoraea faecigallinarum]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047905345.1	ERR2002980.825922.1	406	503	5	298	853	300	98	9.84e-13	32.653	11
+WP_047905345.1	ERR2002980.746967.1	404	497	284	3	853	300	94	1.00e-12	34.043	11
+# TBLASTN 2.9.0+
+# Query: WP_047925204.1 baseplate J/gp47 family protein [Pseudomonas aeruginosa]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047925204.1	ERR2002980.438255.1	87	166	247	8	295	252	80	5.69e-12	43.750	27
+WP_047925204.1	ERR2002980.261470.1	144	221	234	1	295	235	78	1.06e-11	46.154	26
+# TBLASTN 2.9.0+
+# Query: WP_047936535.1 tail protein [Acinetobacter baumannii]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047936535.1	ERR2002980.725646.1	272	360	6	272	3032	300	89	1.61e-25	52.809	3
+WP_047936535.1	ERR2002980.182020.1	272	360	6	272	3032	300	89	1.61e-25	52.809	3
+# TBLASTN 2.9.0+
+# Query: WP_047938337.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047938337.1	ERR2002980.486478.1	51	134	9	260	570	264	84	4.47e-11	34.524	15
+WP_047938337.1	ERR2002980.312798.1	4	54	155	3	570	300	51	1.52e-10	58.824	9
+# TBLASTN 2.9.0+
+# Query: WP_047961534.1 hypothetical protein [Xenorhabdus khoisanae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047961534.1	ERR2002980.1284134.2	92	147	55	219	150	242	56	2.5	32.143	37
+WP_047961534.1	ERR2002980.209277.2	69	92	73	2	150	108	24	9.5	50.000	16
+# TBLASTN 2.9.0+
+# Query: WP_047964429.1 tail fiber domain-containing protein [Xenorhabdus khoisanae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047964429.1	ERR2002980.557864.1	1451	1535	271	2	1536	272	93	6.51e-18	49.462	6
+WP_047964429.1	ERR2002980.557864.2	1451	1534	2	268	1536	272	92	4.43e-17	48.913	5
+# TBLASTN 2.9.0+
+# Query: WP_047964445.1 tail fiber assembly protein [Xenorhabdus khoisanae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047964445.1	ERR2002980.724966.1	129	164	299	189	176	300	37	0.053	40.541	20
+WP_047964445.1	ERR2002980.724966.2	136	164	12	101	176	300	30	0.63	43.333	16
+# TBLASTN 2.9.0+
+# Query: WP_047965459.1 baseplate J/gp47 family protein [Vogesella sp. EB]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047965459.1	ERR2002980.438255.1	84	175	250	5	309	252	92	6.95e-09	41.304	30
+WP_047965459.1	ERR2002980.3571.1	2	54	119	298	309	300	60	9.57e-09	51.667	17
+# TBLASTN 2.9.0+
+# Query: WP_047976416.1 phage tail protein [Muribacter muris]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047976416.1	ERR2002980.508469.2	123	157	59	154	188	156	35	0.22	45.714	19
+WP_047976416.1	ERR2002980.508469.1	123	157	98	3	188	156	35	0.22	45.714	19
+# TBLASTN 2.9.0+
+# Query: WP_047977684.1 baseplate J/gp47 family protein [Muribacter muris]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047977684.1	ERR2002980.438255.1	94	175	250	5	304	252	82	2.31e-20	53.659	27
+WP_047977684.1	ERR2002980.3571.1	1	64	107	298	304	300	64	3.60e-19	65.625	21
+# TBLASTN 2.9.0+
+# Query: WP_047991469.1 phage tail length tape measure family protein [Achromobacter xylosoxidans]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047991469.1	ERR2002980.263279.1	1742	1798	68	232	1867	300	57	2.16e-15	64.912	3
+WP_047991469.1	ERR2002980.1306908.2	167	196	133	44	1867	149	30	0.46	53.333	2
+# TBLASTN 2.9.0+
+# Query: WP_047991472.1 phage tail protein [Achromobacter xylosoxidans]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047991472.1	ERR2002980.1277447.1	6	98	289	20	215	300	95	1.41e-12	43.158	43
+WP_047991472.1	ERR2002980.1277447.2	20	98	57	299	215	300	81	6.38e-11	44.444	37
+# TBLASTN 2.9.0+
+# Query: WP_048025268.1 MULTISPECIES: baseplate J/gp47 family protein [Burkholderia]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048025268.1	ERR2002980.3571.1	3	65	110	298	301	300	63	7.57e-19	60.317	21
+WP_048025268.1	ERR2002980.3571.2	3	69	201	1	301	300	67	1.39e-17	56.716	22
+# TBLASTN 2.9.0+
+# Query: WP_048231037.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231037.1	ERR2002980.486478.1	55	122	9	212	716	264	68	6.61e-12	44.118	9
+WP_048231037.1	ERR2002980.486478.2	60	122	240	52	716	264	63	3.39e-08	39.683	9
+# TBLASTN 2.9.0+
+# Query: WP_048231494.1 phage tail protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231494.1	ERR2002980.599590.1	272	319	8	151	696	300	48	1.61e-12	66.667	7
+WP_048231494.1	ERR2002980.486478.1	51	134	9	260	696	264	84	4.25e-11	34.524	12
+# TBLASTN 2.9.0+
+# Query: WP_048235762.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048235762.1	ERR2002980.122573.2	297	343	68	226	688	262	53	5.08e-07	47.170	7
+WP_048235762.1	ERR2002980.122573.1	297	343	195	37	688	262	53	5.08e-07	47.170	7
+# TBLASTN 2.9.0+
+# Query: WP_048236356.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236356.1	ERR2002980.344345.2	779	808	123	34	1137	123	30	0.002	66.667	3
+WP_048236356.1	ERR2002980.344345.1	779	808	1	90	1137	123	30	0.002	66.667	3
+# TBLASTN 2.9.0+
+# Query: WP_048236900.1 tail assembly protein, partial [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236900.1	ERR2002980.1424556.1	44	94	7	150	128	300	52	0.22	38.462	40
+WP_048236900.1	ERR2002980.1329874.1	44	81	46	159	128	179	38	1.8	36.842	30
+# TBLASTN 2.9.0+
+# Query: WP_048242643.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048242643.1	ERR2002980.1147399.2	24	93	271	74	183	300	70	6.68e-14	47.143	38
+WP_048242643.1	ERR2002980.678067.2	16	93	295	74	183	300	78	8.61e-14	44.872	43
+# TBLASTN 2.9.0+
+# Query: WP_048246749.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048246749.1	ERR2002980.1193521.2	65	102	161	48	259	300	38	0.63	31.579	15
+WP_048246749.1	ERR2002980.867462.1	65	102	93	206	259	296	38	0.67	31.579	15
+# TBLASTN 2.9.0+
+# Query: WP_048248406.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048248406.1	ERR2002980.438255.1	86	168	250	2	298	252	83	5.97e-09	36.145	28
+WP_048248406.1	ERR2002980.438255.2	86	166	3	251	298	252	83	4.51e-08	36.145	27
+# TBLASTN 2.9.0+
+# Query: WP_048251465.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251465.1	ERR2002980.673872.2	60	75	198	151	212	200	16	1.5	68.750	8
+WP_048251465.1	ERR2002980.673872.1	60	75	3	50	212	200	16	7.5	62.500	8
+# TBLASTN 2.9.0+
+# Query: WP_048251468.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251468.1	ERR2002980.1118587.2	95	158	3	194	304	196	64	2.04e-17	57.812	21
+WP_048251468.1	ERR2002980.1118587.1	96	158	191	3	304	196	63	1.13e-15	55.556	21
+# TBLASTN 2.9.0+
+# Query: WP_048251594.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251594.1	ERR2002980.1229428.1	335	401	64	264	949	300	67	6.79e-15	58.209	7
+WP_048251594.1	ERR2002980.106304.2	336	403	223	20	949	266	68	3.93e-14	52.941	7
+# TBLASTN 2.9.0+
+# Query: WP_048266506.1 tail fiber assembly protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048266506.1	ERR2002980.1257357.2	52	86	137	241	138	275	35	8.6	37.143	25
+# TBLASTN 2.9.0+
+# Query: WP_048266854.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048266854.1	ERR2002980.1345188.2	176	204	83	169	792	300	29	0.15	75.862	4
+WP_048266854.1	ERR2002980.1345188.1	176	202	241	161	792	300	27	1.6	74.074	3
+# TBLASTN 2.9.0+
+# Query: WP_048267131.1 tail fiber protein [Escherichia coli]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048267131.1	ERR2002980.486478.1	55	122	9	212	740	264	68	3.10e-11	44.118	9
+WP_048267131.1	ERR2002980.486478.2	60	122	240	52	740	264	63	3.87e-08	39.683	9
+# TBLASTN 2.9.0+
+# Query: WP_048275229.1 phage tail protein [Pluralibacter gergoviae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048275229.1	ERR2002980.378099.1	241	328	255	1	516	291	88	1.28e-27	67.045	17
+WP_048275229.1	ERR2002980.378099.2	241	328	37	291	516	291	88	2.40e-26	63.636	17
+# TBLASTN 2.9.0+
+# Query: WP_048327812.1 phage protein [Streptococcus dysgalactiae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048327812.1	ERR2002980.304881.2	53	132	257	18	732	300	80	0.002	31.250	11
+WP_048327812.1	ERR2002980.1366650.2	64	146	42	290	732	300	83	0.002	31.325	11
+# TBLASTN 2.9.0+
+# Query: WP_048355445.1 right-handed parallel beta-helix repeat-containing protein [Bacillus glycinifermentans]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048355445.1	ERR2002980.642041.2	68	160	4	273	578	300	94	1.07e-04	32.979	16
+WP_048355445.1	ERR2002980.1211083.1	66	117	88	246	578	260	53	3.42e-04	43.396	9
+# TBLASTN 2.9.0+
+# Query: WP_048358120.1 baseplate J/gp47 family protein [Pseudomonas deceptionensis]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048358120.1	ERR2002980.438255.1	87	168	250	5	296	252	82	4.80e-16	46.341	28
+WP_048358120.1	ERR2002980.438255.2	87	167	3	245	296	252	81	3.41e-15	46.914	27
+# TBLASTN 2.9.0+
+# Query: WP_048358225.1 hypothetical protein [Pseudomonas deceptionensis]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048358225.1	ERR2002980.909015.1	943	998	204	31	1018	207	59	5.9	37.288	6
+# TBLASTN 2.9.0+
+# Query: WP_048365734.1 hypothetical protein [Pseudomonas weihenstephanensis]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048365734.1	ERR2002980.938051.2	215	251	147	46	256	171	37	4.9	40.541	14
+WP_048365734.1	ERR2002980.938051.1	215	251	25	126	256	171	37	4.9	40.541	14
+# TBLASTN 2.9.0+
+# Query: WP_048368110.1 hypothetical protein, partial [Bacillus sp. LK7]
+# Database: northsea1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048369588.1 phage tail protein [Pseudomonas helleri]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048369588.1	ERR2002980.938407.1	340	427	13	276	537	280	88	3.41e-23	53.409	16
+WP_048369588.1	ERR2002980.938407.2	339	427	271	5	537	280	89	1.81e-21	52.809	17
+# TBLASTN 2.9.0+
+# Query: WP_048371832.1 hypothetical protein [Pseudomonas helleri]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048371832.1	ERR2002980.275564.2	834	861	249	166	998	251	28	1.6	53.571	3
+WP_048371832.1	ERR2002980.551488.2	266	307	16	141	998	186	43	3.5	41.860	4
+# TBLASTN 2.9.0+
+# Query: WP_048373798.1 hypothetical protein [Bacillus sp. LK2]
+# Database: northsea1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048485424.1 hypothetical protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048485424.1	ERR2002980.199586.2	35	65	135	230	100	234	32	3.4	46.875	31
+# TBLASTN 2.9.0+
+# Query: WP_048487176.1 phage tail family protein [Lactobacillus rhamnosus]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048487176.1	ERR2002980.311176.1	567	604	21	137	685	300	39	1.3	41.026	6
+WP_048487176.1	ERR2002980.1030463.1	567	602	119	229	685	300	37	2.2	43.243	5
+# TBLASTN 2.9.0+
+# Query: WP_048494144.1 hypothetical protein [Marinobacter subterrani]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048494144.1	ERR2002980.1042220.2	67	123	203	51	192	204	59	0.35	35.593	30
+WP_048494144.1	ERR2002980.1573232.1	91	160	51	263	192	300	73	1.6	31.507	36
+# TBLASTN 2.9.0+
+# Query: WP_048532374.1 hypothetical protein [Marinovum algicola]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048532374.1	ERR2002980.613430.1	454	549	289	2	1107	300	96	1.22e-30	57.292	9
+WP_048532374.1	ERR2002980.1059454.1	119	220	5	295	1107	300	102	1.20e-17	47.059	9
+# TBLASTN 2.9.0+
+# Query: WP_048535907.1 hypothetical protein [Marinovum algicola]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048535907.1	ERR2002980.1532646.1	14	69	8	175	89	265	56	2.64e-05	51.786	63
+WP_048535907.1	ERR2002980.1490097.1	37	69	12	110	89	149	33	3.62e-04	54.545	37
+# TBLASTN 2.9.0+
+# Query: WP_048558253.1 phage tail family protein [Bacillus cereus]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558253.1	ERR2002980.900077.2	17	64	212	69	490	300	48	1.1	35.417	10
+WP_048558253.1	ERR2002980.733972.2	17	64	8	151	490	300	48	1.1	35.417	10
+# TBLASTN 2.9.0+
+# Query: WP_048558700.1 phage tail protein [Bacillus cereus]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558700.1	ERR2002980.1012378.1	975	1020	159	22	1461	167	46	3.1	34.783	3
+WP_048558700.1	ERR2002980.1221263.2	1116	1166	3	179	1461	198	59	6.1	33.898	3
+# TBLASTN 2.9.0+
+# Query: WP_048558701.1 phage tail family protein [Bacillus cereus]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558701.1	ERR2002980.803563.2	200	253	190	5	485	193	62	0.44	29.032	11
+WP_048558701.1	ERR2002980.803563.1	200	253	4	189	485	193	62	0.44	29.032	11
+# TBLASTN 2.9.0+
+# Query: WP_048590847.1 phage tail protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048590847.1	ERR2002980.486478.1	54	135	9	254	583	264	82	1.34e-12	39.024	14
+WP_048590847.1	ERR2002980.486478.2	59	135	240	10	583	264	77	4.16e-11	37.662	13
+# TBLASTN 2.9.0+
+# Query: WP_048615875.1 hypothetical protein [Yersinia aleksiciae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048615875.1	ERR2002980.232396.2	82	163	61	291	205	300	82	0.52	31.707	40
+WP_048615875.1	ERR2002980.1586350.1	141	186	110	241	205	300	46	0.60	41.304	22
+# TBLASTN 2.9.0+
+# Query: WP_048619993.1 phage tail protein [Yersinia aleksiciae]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048619993.1	ERR2002980.314188.2	29	49	80	18	159	88	21	0.68	57.143	13
+WP_048619993.1	ERR2002980.314188.1	29	49	9	71	159	88	21	0.68	57.143	13
+# TBLASTN 2.9.0+
+# Query: WP_048639094.1 tail fiber protein [Brenneria goodwinii]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048639094.1	ERR2002980.1147399.2	174	257	268	29	684	300	84	1.42e-09	38.095	12
+WP_048639094.1	ERR2002980.316071.1	172	234	184	5	684	300	63	6.72e-09	49.206	9
+# TBLASTN 2.9.0+
+# Query: WP_048663532.1 tail fiber protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048663532.1	ERR2002980.1147399.2	10	89	268	41	158	300	80	3.00e-17	43.750	51
+WP_048663532.1	ERR2002980.1147399.1	19	89	96	296	158	300	71	4.28e-17	47.887	45
+# TBLASTN 2.9.0+
+# Query: WP_048665912.1 tail fiber domain-containing protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048665912.1	ERR2002980.913978.2	775	862	8	253	908	262	88	9.07e-09	38.636	10
+WP_048665912.1	ERR2002980.913978.1	775	862	255	10	908	262	88	1.09e-08	38.636	10
+# TBLASTN 2.9.0+
+# Query: WP_048668118.1 phage tail protein [Salmonella enterica]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048668118.1	ERR2002980.486478.1	55	122	9	212	721	264	68	2.19e-11	44.118	9
+WP_048668118.1	ERR2002980.486478.2	60	122	240	52	721	264	63	2.34e-08	39.683	9
+# TBLASTN 2.9.0+
+# Query: WP_048710785.1 tail fiber domain-containing protein [Microvirga massiliensis]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048710785.1	ERR2002980.947745.1	995	1077	274	14	1091	300	87	1.77e-15	44.828	8
+WP_048710785.1	ERR2002980.714470.1	995	1070	239	3	1091	278	79	4.10e-14	48.101	7
+# TBLASTN 2.9.0+
+# Query: WP_048723927.1 phage tail family protein [Bacillus cytotoxicus]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048723927.1	ERR2002980.874292.1	359	402	117	248	497	252	44	0.15	38.636	9
+WP_048723927.1	ERR2002980.1593895.1	359	399	192	70	497	300	41	0.23	39.024	8
+# TBLASTN 2.9.0+
+# Query: WP_048731243.1 tail tubular protein A [Pseudomonas sp. KG01]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048731243.1	ERR2002980.652316.1	54	142	10	294	192	300	95	1.25e-12	36.842	46
+WP_048731243.1	ERR2002980.726680.1	47	136	10	300	192	300	97	1.67e-12	35.052	47
+# TBLASTN 2.9.0+
+# Query: WP_048731244.1 hypothetical protein [Pseudomonas sp. KG01]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048731244.1	ERR2002980.1195197.1	313	411	3	299	794	300	99	3.25e-32	55.556	12
+WP_048731244.1	ERR2002980.746967.1	342	436	290	6	794	300	95	5.29e-32	58.947	12
+# TBLASTN 2.9.0+
+# Query: WP_048748618.1 hypothetical protein [Paenibacillus sp. P22]
+# Database: northsea1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048765510.1 baseplate J/gp47 family protein [Acinetobacter sp. 243_ASPC]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048765510.1	ERR2002980.3571.2	4	66	189	1	300	300	63	6.48e-15	52.381	21
+WP_048765510.1	ERR2002980.3571.1	3	62	119	298	300	300	60	3.63e-14	51.667	20
+# TBLASTN 2.9.0+
+# Query: WP_048766108.1 tail protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048766108.1	ERR2002980.725646.1	273	357	6	260	1010	300	85	1.36e-20	47.059	8
+WP_048766108.1	ERR2002980.182020.1	273	357	6	260	1010	300	85	1.36e-20	47.059	8
+# TBLASTN 2.9.0+
+# Query: WP_048766115.1 hypothetical protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048766115.1	ERR2002980.725646.1	271	358	3	266	1007	300	88	4.08e-25	53.409	9
+WP_048766115.1	ERR2002980.182020.1	271	358	3	266	1007	300	88	4.08e-25	53.409	9
+# TBLASTN 2.9.0+
+# Query: WP_048805723.1 tail fiber assembly protein [Burkholderia multivorans]
+# Database: northsea1
+# Fields: query id, subject id, q. start, q. end, s. start, s. end, query length, subject length, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048805723.1	ERR2002980.223564.2	159	186	59	142	283	169	28	0.030	53.571	10
+WP_048805723.1	ERR2002980.223564.1	159	186	111	28	283	169	28	0.030	53.571	10
+# BLAST processed 157 queries
