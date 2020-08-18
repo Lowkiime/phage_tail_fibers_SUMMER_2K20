@@ -1,4 +1,7 @@
 # phage_tail_fibers_SUMMER_2K20
+
+I plan to continue working on this project now that my internship is over, only at a slower rate.
+
 Work related code (R)
 
 This is an ongoing active project.
