@@ -1,0 +1,1679 @@
+# TBLASTN 2.9.0+
+# Query: WP_000072167.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_000514854.1 host specificity protein J [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_000930006.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_000972134.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_001024006.1 MULTISPECIES: phage tail fiber C-terminal domain-containing protein [Gammaproteobacteria]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_001024006.1	SRR2961627.104196	89	300	65	89	199	282	28	7.0	39.286	28
+# TBLASTN 2.9.0+
+# Query: WP_001133967.1 MULTISPECIES: baseplate J/gp47 family protein [Escherichia]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001133967.1	SRR2961627.53683	306	300	81	117	94	189	37	1.2	37.838	12
+WP_001133967.1	SRR2961627.46239	306	300	141	171	129	209	31	2.3	48.387	10
+# TBLASTN 2.9.0+
+# Query: WP_001286322.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_001297572.1 MULTISPECIES: baseplate J/gp47 family protein [Enterobacteriaceae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_001524115.1 tail fiber assembly protein [Shigella flexneri]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_001524115.1	SRR2961627.80638	133	300	46	60	197	241	15	6.2	66.667	11
+# TBLASTN 2.9.0+
+# Query: WP_001706448.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_001706448.1	SRR2961627.89383	911	300	302	370	236	39	74	1.4	29.730	8
+# TBLASTN 2.9.0+
+# Query: WP_003117973.1 MULTISPECIES: C40 family peptidase [Pseudomonas]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_003759716.1 MULTISPECIES: hypothetical protein [Listeria]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_004722849.1 hypothetical protein [Yersinia ruckeri]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_004722849.1	SRR2961627.54800	165	300	113	134	202	267	22	8.9	54.545	13
+# TBLASTN 2.9.0+
+# Query: WP_012303821.1 MULTISPECIES: hypothetical protein [Yersinia pseudotuberculosis complex]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_012303821.1	SRR2961627.73322	146	300	90	114	8	82	25	8.4	36.000	17
+# TBLASTN 2.9.0+
+# Query: WP_012849301.1 MULTISPECIES: host specificity protein J [Edwardsiella]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_012987783.1 host specificity protein J [Xenorhabdus bovienii]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012987783.1	SRR2961627.42135	1045	300	347	370	293	222	24	0.64	50.000	2
+WP_012987783.1	SRR2961627.9188	1045	300	347	370	293	222	24	5.3	41.667	2
+# TBLASTN 2.9.0+
+# Query: WP_016063193.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_016249384.1 MULTISPECIES: phage tail protein I [Escherichia]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_016716825.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_017218926.1 MULTISPECIES: baseplate J/gp47 family protein [Pseudoalteromonas]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_017765307.1 MULTISPECIES: baseplate J/gp47 family protein [Aeromonas]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_021729012.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_023277167.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_023277167.1	SRR2961627.45796	310	300	121	173	75	245	57	1.3	29.825	17
+WP_023277167.1	SRR2961627.2471	310	300	121	156	75	182	36	2.5	36.111	12
+# TBLASTN 2.9.0+
+# Query: WP_025423029.1 host specificity protein J [Sodalis praecaptivus]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_032673287.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_032679843.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_036414555.1 host specificity protein J [Morganella morganii]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_042659516.1 MULTISPECIES: tail fiber assembly protein [Yersinia pseudotuberculosis complex]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_042659516.1	SRR2961627.44065	218	300	22	78	283	146	57	1.2	31.579	26
+WP_042659516.1	SRR2961627.48791	218	300	29	79	262	110	51	1.3	27.451	23
+# TBLASTN 2.9.0+
+# Query: WP_045190581.1 hypothetical protein [Pseudomonas sp. 5]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_045718260.1 hypothetical protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047064609.1 hypothetical protein [Klebsiella aerogenes]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047378479.1 tail fiber protein, partial [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047403075.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047403075.1	SRR2961627.94138	197	300	39	108	286	50	79	0.66	32.911	36
+WP_047403075.1	SRR2961627.71453	197	300	39	108	285	49	79	1.2	32.911	36
+# TBLASTN 2.9.0+
+# Query: WP_047418019.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047463064.1 phage tail protein [Citrobacter koseri]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047463064.1	SRR2961627.98517	517	300	51	96	190	59	46	7.3	32.609	9
+# TBLASTN 2.9.0+
+# Query: WP_047501638.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047506852.1 hypothetical protein [Rhizobium sp. YR528]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047533231.1 hypothetical protein [Shewanella sp. ZOR0012]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047541866.1 baseplate J/gp47 family protein [Pseudomonas simiae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047565225.1 prophage tail fiber N-terminal domain-containing protein [Shigella sonnei]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047570873.1 baseplate J/gp47 family protein [Serratia marcescens]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047587336.1 macro domain-containing protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047587336.1	SRR2961627.103149	274	300	90	117	184	107	28	7.8	46.429	10
+# TBLASTN 2.9.0+
+# Query: WP_047588350.1 host specificity protein J [Salmonella enterica]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047588350.1	SRR2961627.51629	1120	300	74	99	117	194	26	2.8	50.000	2
+WP_047588350.1	SRR2961627.56143	1120	300	74	103	117	206	30	3.5	43.333	3
+# TBLASTN 2.9.0+
+# Query: WP_047592509.1 tail fiber assembly protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047592512.1 tail fiber assembly protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047594313.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047606624.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047609716.1 tail fiber assembly protein [Rahnella aquatilis]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047609716.1	SRR2961627.5728	172	300	13	62	171	22	50	1.1	36.000	29
+# TBLASTN 2.9.0+
+# Query: WP_047615099.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615099.1	SRR2961627.66568	736	300	622	669	150	299	50	2.0	34.000	7
+WP_047615099.1	SRR2961627.71536	736	300	683	720	125	12	38	8.7	34.211	5
+# TBLASTN 2.9.0+
+# Query: WP_047615608.1 host specificity protein J [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047619258.1 tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047629926.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047629926.1	SRR2961627.85825	673	300	325	345	156	218	21	5.9	57.143	3
+WP_047629926.1	SRR2961627.72909	673	300	325	350	156	233	26	7.5	46.154	4
+# TBLASTN 2.9.0+
+# Query: WP_047634918.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047641366.1 immunoglobulin domain-containing protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047647962.1 phage tail protein [Enterobacter asburiae]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047647962.1	SRR2961627.2471	223	300	121	158	75	188	38	7.4	28.947	17
+# TBLASTN 2.9.0+
+# Query: WP_047649426.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047649426.1	SRR2961627.93914	528	300	166	199	270	145	44	2.0	40.909	6
+WP_047649426.1	SRR2961627.35066	528	300	176	192	248	198	17	3.1	47.059	3
+# TBLASTN 2.9.0+
+# Query: WP_047650743.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047650743.1	SRR2961627.2606	1091	300	814	888	288	91	75	1.0	28.000	7
+WP_047650743.1	SRR2961627.56706	1091	300	831	888	240	91	58	1.9	29.310	5
+# TBLASTN 2.9.0+
+# Query: WP_047651134.1 phage tail protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047651134.1	SRR2961627.66235	328	300	233	268	223	107	39	6.9	38.462	11
+# TBLASTN 2.9.0+
+# Query: WP_047652060.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047652160.1 hypothetical protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047652789.1 tail fiber assembly protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047653121.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047655321.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047655321.1	SRR2961627.36513	391	300	176	198	246	148	33	4.4	39.394	6
+WP_047655321.1	SRR2961627.35066	391	300	176	192	248	198	17	4.5	47.059	4
+# TBLASTN 2.9.0+
+# Query: WP_047656959.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047657307.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047657742.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047657742.1	SRR2961627.30757	524	300	360	379	275	216	20	6.5	45.000	4
+# TBLASTN 2.9.0+
+# Query: WP_047657854.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657854.1	SRR2961627.85825	681	300	369	389	156	218	21	6.5	57.143	3
+WP_047657854.1	SRR2961627.72909	681	300	369	394	156	233	26	8.8	46.154	4
+# TBLASTN 2.9.0+
+# Query: WP_047658478.1 tail fiber assembly protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047658478.1	SRR2961627.9165	136	300	59	110	216	61	52	1.0	28.846	38
+WP_047658478.1	SRR2961627.90539	136	300	56	110	234	61	58	9.8	32.759	40
+# TBLASTN 2.9.0+
+# Query: WP_047659090.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047660148.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047660222.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047660798.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047661763.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047661763.1	SRR2961627.84049	178	300	75	122	248	96	52	0.10	30.769	27
+WP_047661763.1	SRR2961627.27870	178	300	81	100	219	160	20	0.10	50.000	11
+# TBLASTN 2.9.0+
+# Query: WP_047662599.1 tail fiber domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047662599.1	SRR2961627.13747	448	300	4	49	280	143	46	5.6	28.261	10
+# TBLASTN 2.9.0+
+# Query: WP_047662788.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047662962.1 phage tail protein [Klebsiella pneumoniae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047667847.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047668015.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668015.1	SRR2961627.43371	175	300	50	100	300	160	51	0.034	35.294	29
+WP_047668015.1	SRR2961627.69640	175	300	81	100	219	160	20	0.069	60.000	11
+# TBLASTN 2.9.0+
+# Query: WP_047668184.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047670712.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047671682.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047675600.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047675606.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047680427.1 C40 family peptidase [Xenorhabdus sp. NBAII XenSa04]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047698164.1 baseplate J/gp47 family protein [Xanthomonas vasicola]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047698631.1 host specificity protein J [Pseudomonas mediterranea]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698631.1	SRR2961627.29990	1030	300	223	270	173	3	57	0.46	33.333	5
+WP_047698631.1	SRR2961627.2819	1030	300	223	270	173	3	57	0.59	33.333	5
+# TBLASTN 2.9.0+
+# Query: WP_047698653.1 phage tail protein [Pseudomonas mediterranea]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047701979.1 phage tail protein [Pseudomonas mediterranea]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047714565.1 baseplate J/gp47 family protein [Pantoea ananatis]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047716000.1 phage tail protein [Streptococcus pyogenes]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047720857.1 C40 family peptidase [Klebsiella oxytoca]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047720857.1	SRR2961627.7539	245	300	49	87	234	103	44	0.64	38.636	16
+WP_047720857.1	SRR2961627.98302	245	300	134	150	126	76	17	4.8	52.941	7
+# TBLASTN 2.9.0+
+# Query: WP_047730209.1 C40 family peptidase [Serratia marcescens]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047780218.1 phage tail protein [Pragia fontium]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047780218.1	SRR2961627.85580	219	300	91	131	80	202	41	3.4	36.585	19
+WP_047780218.1	SRR2961627.94118	219	300	40	66	245	165	27	3.5	37.037	12
+# TBLASTN 2.9.0+
+# Query: WP_047780224.1 C40 family peptidase [Pragia fontium]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047780224.1	SRR2961627.66610	237	300	207	237	106	14	31	5.1	41.935	13
+# TBLASTN 2.9.0+
+# Query: WP_047842328.1 S-layer homology domain-containing protein [Paenibacillus sp. VT-400]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047842328.1	SRR2961627.27349	2682	300	1183	1206	223	294	24	6.4	45.833	1
+# TBLASTN 2.9.0+
+# Query: WP_047885557.1 baseplate J/gp47 family protein [Photobacterium ganghwense]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047885557.1	SRR2961627.81178	297	300	126	187	2	202	67	4.1	28.358	21
+WP_047885557.1	SRR2961627.76162	297	300	64	86	256	188	23	7.4	52.174	8
+# TBLASTN 2.9.0+
+# Query: WP_047905345.1 hypothetical protein [Pandoraea faecigallinarum]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047925204.1 baseplate J/gp47 family protein [Pseudomonas aeruginosa]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047936535.1 tail protein [Acinetobacter baumannii]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047938337.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047938337.1	SRR2961627.49214	570	300	149	187	184	276	39	6.9	38.462	7
+# TBLASTN 2.9.0+
+# Query: WP_047961534.1 hypothetical protein [Xenorhabdus khoisanae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047964429.1 tail fiber domain-containing protein [Xenorhabdus khoisanae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047964445.1 tail fiber assembly protein [Xenorhabdus khoisanae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047965459.1 baseplate J/gp47 family protein [Vogesella sp. EB]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047965459.1	SRR2961627.91564	309	300	159	181	83	154	24	2.4	58.333	7
+WP_047965459.1	SRR2961627.75585	309	300	159	181	82	153	24	2.4	58.333	7
+# TBLASTN 2.9.0+
+# Query: WP_047976416.1 phage tail protein [Muribacter muris]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047977684.1 baseplate J/gp47 family protein [Muribacter muris]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047977684.1	SRR2961627.78309	304	300	160	198	172	56	39	0.22	35.897	13
+WP_047977684.1	SRR2961627.79340	304	300	122	198	244	56	77	0.53	28.571	25
+# TBLASTN 2.9.0+
+# Query: WP_047991469.1 phage tail length tape measure family protein [Achromobacter xylosoxidans]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047991472.1 phage tail protein [Achromobacter xylosoxidans]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048025268.1 MULTISPECIES: baseplate J/gp47 family protein [Burkholderia]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048025268.1	SRR2961627.24576	301	300	107	163	299	120	62	1.1	32.258	19
+WP_048025268.1	SRR2961627.100067	301	300	110	148	290	174	39	3.0	35.897	13
+# TBLASTN 2.9.0+
+# Query: WP_048231037.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231037.1	SRR2961627.85825	716	300	416	436	156	218	21	5.3	57.143	3
+WP_048231037.1	SRR2961627.72909	716	300	416	441	156	233	26	6.1	46.154	4
+# TBLASTN 2.9.0+
+# Query: WP_048231494.1 phage tail protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048235762.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048236356.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236356.1	SRR2961627.2606	1137	300	855	929	288	91	75	0.87	28.000	7
+WP_048236356.1	SRR2961627.76707	1137	300	886	920	216	118	35	1.6	40.000	3
+# TBLASTN 2.9.0+
+# Query: WP_048236900.1 tail assembly protein, partial [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236900.1	SRR2961627.90114	128	300	38	79	134	9	42	0.18	38.095	33
+WP_048236900.1	SRR2961627.45744	128	300	38	79	134	9	42	0.47	35.714	33
+# TBLASTN 2.9.0+
+# Query: WP_048242643.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048242643.1	SRR2961627.92139	183	300	121	148	171	257	29	9.1	48.276	15
+# TBLASTN 2.9.0+
+# Query: WP_048246749.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048246749.1	SRR2961627.18789	259	300	36	91	266	81	62	9.2	29.032	22
+# TBLASTN 2.9.0+
+# Query: WP_048248406.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048251465.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048251468.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048251594.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251594.1	SRR2961627.2606	949	300	698	772	288	91	77	0.084	31.169	8
+WP_048251594.1	SRR2961627.76164	949	300	698	772	288	91	77	0.65	31.169	8
+# TBLASTN 2.9.0+
+# Query: WP_048266506.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048266854.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048267131.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048275229.1 phage tail protein [Pluralibacter gergoviae]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048327812.1 phage protein [Streptococcus dysgalactiae]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048327812.1	SRR2961627.34555	732	300	617	642	91	156	26	9.3	53.846	4
+# TBLASTN 2.9.0+
+# Query: WP_048355445.1 right-handed parallel beta-helix repeat-containing protein [Bacillus glycinifermentans]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048358120.1 baseplate J/gp47 family protein [Pseudomonas deceptionensis]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048358120.1	SRR2961627.6181	296	300	173	235	297	103	65	0.18	38.462	21
+# TBLASTN 2.9.0+
+# Query: WP_048358225.1 hypothetical protein [Pseudomonas deceptionensis]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048358225.1	SRR2961627.80487	1018	300	954	995	24	149	42	8.7	35.714	4
+# TBLASTN 2.9.0+
+# Query: WP_048365734.1 hypothetical protein [Pseudomonas weihenstephanensis]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048365734.1	SRR2961627.50623	256	300	47	90	165	31	46	4.3	43.478	17
+WP_048365734.1	SRR2961627.75542	256	300	49	90	156	31	43	6.3	41.860	16
+# TBLASTN 2.9.0+
+# Query: WP_048368110.1 hypothetical protein, partial [Bacillus sp. LK7]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048369588.1 phage tail protein [Pseudomonas helleri]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048371832.1 hypothetical protein [Pseudomonas helleri]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048373798.1 hypothetical protein [Bacillus sp. LK2]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048485424.1 hypothetical protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048487176.1 phage tail family protein [Lactobacillus rhamnosus]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048494144.1 hypothetical protein [Marinobacter subterrani]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048494144.1	SRR2961627.59638	192	300	61	147	263	54	87	1.9	29.885	45
+# TBLASTN 2.9.0+
+# Query: WP_048532374.1 hypothetical protein [Marinovum algicola]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048532374.1	SRR2961627.80094	1107	300	529	558	187	276	30	4.9	40.000	3
+WP_048532374.1	SRR2961627.56627	1107	300	467	500	154	255	34	6.0	32.353	3
+# TBLASTN 2.9.0+
+# Query: WP_048535907.1 hypothetical protein [Marinovum algicola]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048558253.1 phage tail family protein [Bacillus cereus]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558253.1	SRR2961627.91188	490	300	163	191	208	291	29	0.96	55.172	6
+WP_048558253.1	SRR2961627.13262	490	300	164	191	213	293	28	1.7	53.571	6
+# TBLASTN 2.9.0+
+# Query: WP_048558700.1 phage tail protein [Bacillus cereus]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048558700.1	SRR2961627.62397	1461	300	179	206	187	270	28	5.2	50.000	2
+# TBLASTN 2.9.0+
+# Query: WP_048558701.1 phage tail family protein [Bacillus cereus]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048590847.1 phage tail protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048615875.1 hypothetical protein [Yersinia aleksiciae]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048615875.1	SRR2961627.9594	205	300	181	201	110	172	21	6.1	57.143	10
+WP_048615875.1	SRR2961627.105089	205	300	97	187	255	4	91	8.4	23.077	44
+# TBLASTN 2.9.0+
+# Query: WP_048619993.1 phage tail protein [Yersinia aleksiciae]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048619993.1	SRR2961627.27827	159	300	104	128	82	156	25	4.5	48.000	16
+WP_048619993.1	SRR2961627.86482	159	300	104	123	82	141	20	7.4	55.000	13
+# TBLASTN 2.9.0+
+# Query: WP_048639094.1 tail fiber protein [Brenneria goodwinii]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048663532.1 tail fiber protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048665912.1 tail fiber domain-containing protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048668118.1 phage tail protein [Salmonella enterica]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048710785.1 tail fiber domain-containing protein [Microvirga massiliensis]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048723927.1 phage tail family protein [Bacillus cytotoxicus]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048731243.1 tail tubular protein A [Pseudomonas sp. KG01]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048731244.1 hypothetical protein [Pseudomonas sp. KG01]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048748618.1 hypothetical protein [Paenibacillus sp. P22]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048765510.1 baseplate J/gp47 family protein [Acinetobacter sp. 243_ASPC]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048765510.1	SRR2961627.68126	300	300	132	169	221	108	38	5.0	28.947	13
+WP_048765510.1	SRR2961627.76193	300	300	132	169	221	108	42	5.3	35.714	13
+# TBLASTN 2.9.0+
+# Query: WP_048766108.1 tail protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048766115.1 hypothetical protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: blastdb_ONE_1
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048805723.1 tail fiber assembly protein [Burkholderia multivorans]
+# Database: blastdb_ONE_1
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048805723.1	SRR2961627.62635	283	300	72	118	110	259	50	0.55	36.000	17
+WP_048805723.1	SRR2961627.44673	283	300	72	128	110	292	61	0.88	34.426	20
+# BLAST processed 157 queries
+# TBLASTN 2.9.0+
+# Query: WP_000072167.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_000072167.1	SRR2961627.3163	204	300	74	111	160	273	38	8.4	34.211	19
+# TBLASTN 2.9.0+
+# Query: WP_000514854.1 host specificity protein J [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000514854.1	SRR2961627.40491	1158	300	1089	1124	166	273	36	0.75	38.889	3
+WP_000514854.1	SRR2961627.17961	1158	300	681	716	179	298	40	2.5	40.000	3
+# TBLASTN 2.9.0+
+# Query: WP_000930006.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_000930006.1	SRR2961627.49708	187	300	111	147	288	178	37	4.1	32.432	20
+# TBLASTN 2.9.0+
+# Query: WP_000972134.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_001024006.1 MULTISPECIES: phage tail fiber C-terminal domain-containing protein [Gammaproteobacteria]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001024006.1	SRR2961627.36273	89	300	19	78	253	89	60	0.78	30.000	67
+WP_001024006.1	SRR2961627.72451	89	300	23	46	52	123	24	2.3	41.667	27
+# TBLASTN 2.9.0+
+# Query: WP_001133967.1 MULTISPECIES: baseplate J/gp47 family protein [Escherichia]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001133967.1	SRR2961627.39808	306	300	100	124	223	297	25	5.5	44.000	8
+WP_001133967.1	SRR2961627.99536	306	300	77	120	172	285	44	7.6	34.091	14
+# TBLASTN 2.9.0+
+# Query: WP_001286322.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_001286322.1	SRR2961627.53821	144	300	49	87	188	75	39	6.0	38.462	27
+# TBLASTN 2.9.0+
+# Query: WP_001297572.1 MULTISPECIES: baseplate J/gp47 family protein [Enterobacteriaceae]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_001524115.1 tail fiber assembly protein [Shigella flexneri]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001524115.1	SRR2961627.100987	133	300	44	61	274	221	18	4.0	50.000	14
+WP_001524115.1	SRR2961627.3017	133	300	97	127	96	188	31	5.2	38.710	23
+# TBLASTN 2.9.0+
+# Query: WP_001706448.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_003117973.1 MULTISPECIES: C40 family peptidase [Pseudomonas]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_003117973.1	SRR2961627.95587	256	300	58	107	35	175	50	8.4	34.000	20
+# TBLASTN 2.9.0+
+# Query: WP_003759716.1 MULTISPECIES: hypothetical protein [Listeria]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_004722849.1 hypothetical protein [Yersinia ruckeri]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_004722849.1	SRR2961627.48251	165	300	65	104	6	125	40	5.9	32.500	24
+# TBLASTN 2.9.0+
+# Query: WP_012303821.1 MULTISPECIES: hypothetical protein [Yersinia pseudotuberculosis complex]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_012849301.1 MULTISPECIES: host specificity protein J [Edwardsiella]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012849301.1	SRR2961627.80836	1031	300	604	641	49	177	43	5.5	34.884	4
+WP_012849301.1	SRR2961627.73881	1031	300	599	618	237	296	20	8.5	50.000	2
+# TBLASTN 2.9.0+
+# Query: WP_012987783.1 host specificity protein J [Xenorhabdus bovienii]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012987783.1	SRR2961627.21224	1045	300	582	624	82	198	43	0.54	37.209	4
+WP_012987783.1	SRR2961627.27482	1045	300	347	370	132	203	24	1.2	45.833	2
+# TBLASTN 2.9.0+
+# Query: WP_016063193.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_016063193.1	SRR2961627.22032	194	300	104	152	193	68	49	4.8	30.612	25
+# TBLASTN 2.9.0+
+# Query: WP_016249384.1 MULTISPECIES: phage tail protein I [Escherichia]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_016249384.1	SRR2961627.74071	176	300	12	57	46	183	46	1.4	32.609	26
+# TBLASTN 2.9.0+
+# Query: WP_016716825.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016716825.1	SRR2961627.65418	491	300	342	360	114	58	19	4.3	52.632	4
+WP_016716825.1	SRR2961627.65302	491	300	28	124	4	258	101	4.4	26.733	20
+# TBLASTN 2.9.0+
+# Query: WP_017218926.1 MULTISPECIES: baseplate J/gp47 family protein [Pseudoalteromonas]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_017765307.1 MULTISPECIES: baseplate J/gp47 family protein [Aeromonas]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_021729012.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_021729012.1	SRR2961627.73605	492	300	31	59	4	102	33	1.4	45.455	6
+WP_021729012.1	SRR2961627.88207	492	300	31	60	4	96	34	2.5	47.059	6
+# TBLASTN 2.9.0+
+# Query: WP_023277167.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_023277167.1	SRR2961627.57072	310	300	121	173	207	37	57	0.69	31.579	17
+WP_023277167.1	SRR2961627.33699	310	300	121	173	207	37	57	2.2	29.825	17
+# TBLASTN 2.9.0+
+# Query: WP_025423029.1 host specificity protein J [Sodalis praecaptivus]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_025423029.1	SRR2961627.53823	1042	300	447	484	51	167	39	0.90	43.590	4
+WP_025423029.1	SRR2961627.43662	1042	300	173	257	3	293	97	1.6	23.711	8
+# TBLASTN 2.9.0+
+# Query: WP_032673287.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_032679843.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_036414555.1 host specificity protein J [Morganella morganii]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_036414555.1	SRR2961627.79351	1044	300	693	725	177	278	34	3.2	35.294	3
+# TBLASTN 2.9.0+
+# Query: WP_042659516.1 MULTISPECIES: tail fiber assembly protein [Yersinia pseudotuberculosis complex]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_042659516.1	SRR2961627.91493	218	300	144	186	15	140	43	2.4	37.209	20
+WP_042659516.1	SRR2961627.76354	218	300	29	54	159	236	26	2.5	42.308	12
+# TBLASTN 2.9.0+
+# Query: WP_045190581.1 hypothetical protein [Pseudomonas sp. 5]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_045190581.1	SRR2961627.6725	145	300	5	31	107	27	27	1.5	40.741	19
+WP_045190581.1	SRR2961627.79415	145	300	6	31	104	27	26	2.8	42.308	18
+# TBLASTN 2.9.0+
+# Query: WP_045718260.1 hypothetical protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047064609.1 hypothetical protein [Klebsiella aerogenes]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047378479.1 tail fiber protein, partial [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047403075.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047403075.1	SRR2961627.49012	197	300	8	63	64	207	56	0.095	35.714	28
+WP_047403075.1	SRR2961627.93189	197	300	39	74	135	251	39	0.15	46.154	18
+# TBLASTN 2.9.0+
+# Query: WP_047418019.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047463064.1 phage tail protein [Citrobacter koseri]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047463064.1	SRR2961627.81655	517	300	350	394	163	291	45	9.1	35.556	9
+# TBLASTN 2.9.0+
+# Query: WP_047501638.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047506852.1 hypothetical protein [Rhizobium sp. YR528]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047506852.1	SRR2961627.71024	87	300	41	87	72	212	47	0.058	38.298	54
+WP_047506852.1	SRR2961627.31929	87	300	42	86	75	209	45	0.45	31.111	52
+# TBLASTN 2.9.0+
+# Query: WP_047533231.1 hypothetical protein [Shewanella sp. ZOR0012]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047541866.1 baseplate J/gp47 family protein [Pseudomonas simiae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047541866.1	SRR2961627.15565	295	300	71	107	173	286	38	4.2	39.474	13
+WP_047541866.1	SRR2961627.102447	295	300	128	159	204	299	32	6.3	34.375	11
+# TBLASTN 2.9.0+
+# Query: WP_047565225.1 prophage tail fiber N-terminal domain-containing protein [Shigella sonnei]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047565225.1	SRR2961627.79935	388	300	192	261	289	77	71	5.2	25.352	18
+# TBLASTN 2.9.0+
+# Query: WP_047570873.1 baseplate J/gp47 family protein [Serratia marcescens]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047587336.1 macro domain-containing protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047587336.1	SRR2961627.47996	274	300	82	128	232	86	49	2.5	30.612	17
+WP_047587336.1	SRR2961627.46834	274	300	132	154	298	230	23	8.3	47.826	8
+# TBLASTN 2.9.0+
+# Query: WP_047588350.1 host specificity protein J [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047588350.1	SRR2961627.96850	1120	300	673	726	184	41	54	2.1	35.185	5
+WP_047588350.1	SRR2961627.80230	1120	300	674	726	182	42	53	4.1	35.849	5
+# TBLASTN 2.9.0+
+# Query: WP_047592509.1 tail fiber assembly protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047592512.1 tail fiber assembly protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047594313.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047594313.1	SRR2961627.2889	809	300	748	809	40	234	65	9.2	24.615	8
+# TBLASTN 2.9.0+
+# Query: WP_047606624.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047606624.1	SRR2961627.9542	1009	300	777	791	250	294	15	3.4	66.667	1
+# TBLASTN 2.9.0+
+# Query: WP_047609716.1 tail fiber assembly protein [Rahnella aquatilis]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047609716.1	SRR2961627.41416	172	300	48	73	69	146	26	1.2	42.308	15
+WP_047609716.1	SRR2961627.79169	172	300	39	73	51	146	35	1.5	37.143	20
+# TBLASTN 2.9.0+
+# Query: WP_047615099.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047615608.1 host specificity protein J [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615608.1	SRR2961627.49903	1165	300	691	740	224	66	54	3.9	37.037	4
+WP_047615608.1	SRR2961627.94056	1165	300	710	735	186	263	26	6.0	50.000	2
+# TBLASTN 2.9.0+
+# Query: WP_047619258.1 tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047619258.1	SRR2961627.60786	238	300	102	153	167	295	52	0.44	34.615	22
+WP_047619258.1	SRR2961627.22811	238	300	96	186	25	282	94	1.8	26.596	38
+# TBLASTN 2.9.0+
+# Query: WP_047629926.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047629926.1	SRR2961627.48040	673	300	325	345	269	207	21	7.1	57.143	3
+# TBLASTN 2.9.0+
+# Query: WP_047634918.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047641366.1 immunoglobulin domain-containing protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047641366.1	SRR2961627.37248	245	300	158	196	131	241	39	0.016	43.590	16
+WP_047641366.1	SRR2961627.16789	245	300	3	43	102	230	43	1.8	37.209	17
+# TBLASTN 2.9.0+
+# Query: WP_047647962.1 phage tail protein [Enterobacter asburiae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047647962.1	SRR2961627.22774	223	300	78	123	155	289	46	3.9	34.783	21
+# TBLASTN 2.9.0+
+# Query: WP_047649426.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047649426.1	SRR2961627.25913	528	300	176	206	172	294	41	4.2	36.585	6
+WP_047649426.1	SRR2961627.5847	528	300	414	456	38	166	43	5.5	37.209	8
+# TBLASTN 2.9.0+
+# Query: WP_047650743.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047650743.1	SRR2961627.63838	1091	300	845	870	209	286	26	4.4	38.462	2
+WP_047650743.1	SRR2961627.21816	1091	300	845	870	209	286	26	5.1	38.462	2
+# TBLASTN 2.9.0+
+# Query: WP_047651134.1 phage tail protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047651134.1	SRR2961627.90985	328	300	177	206	213	299	30	1.8	40.000	9
+WP_047651134.1	SRR2961627.82833	328	300	197	243	152	12	47	3.3	31.915	14
+# TBLASTN 2.9.0+
+# Query: WP_047652060.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652060.1	SRR2961627.75177	975	300	451	478	195	106	30	2.4	53.333	3
+WP_047652060.1	SRR2961627.73879	975	300	549	623	64	282	77	4.3	33.766	8
+# TBLASTN 2.9.0+
+# Query: WP_047652160.1 hypothetical protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047652789.1 tail fiber assembly protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047653121.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047653121.1	SRR2961627.13176	147	300	75	147	1	234	82	1.9	28.049	50
+WP_047653121.1	SRR2961627.38615	147	300	73	103	258	166	31	6.4	41.935	21
+# TBLASTN 2.9.0+
+# Query: WP_047655321.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047655321.1	SRR2961627.14141	391	300	162	196	172	270	35	8.6	37.143	9
+# TBLASTN 2.9.0+
+# Query: WP_047656959.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047656959.1	SRR2961627.80229	175	300	128	158	36	128	31	5.7	35.484	18
+WP_047656959.1	SRR2961627.56692	175	300	121	152	66	161	32	5.7	37.500	18
+# TBLASTN 2.9.0+
+# Query: WP_047657307.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047657307.1	SRR2961627.39680	831	300	647	665	140	193	19	8.1	57.895	2
+# TBLASTN 2.9.0+
+# Query: WP_047657742.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657742.1	SRR2961627.29482	524	300	318	360	171	299	43	3.5	30.233	8
+WP_047657742.1	SRR2961627.14060	524	300	345	365	165	227	21	9.2	52.381	4
+# TBLASTN 2.9.0+
+# Query: WP_047657854.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047658478.1 tail fiber assembly protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047659090.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047660148.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660148.1	SRR2961627.36529	197	300	5	87	16	279	93	1.4	25.806	42
+WP_047660148.1	SRR2961627.65057	197	300	15	65	252	100	51	2.1	29.412	26
+# TBLASTN 2.9.0+
+# Query: WP_047660222.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047660798.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660798.1	SRR2961627.23692	774	300	724	750	67	153	29	1.3	48.276	3
+WP_047660798.1	SRR2961627.85291	774	300	724	750	67	153	29	4.2	48.276	3
+# TBLASTN 2.9.0+
+# Query: WP_047661763.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047661763.1	SRR2961627.101502	178	300	81	100	206	265	20	0.14	50.000	11
+WP_047661763.1	SRR2961627.4569	178	300	81	100	206	265	20	0.14	50.000	11
+# TBLASTN 2.9.0+
+# Query: WP_047662599.1 tail fiber domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047662788.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047662962.1 phage tail protein [Klebsiella pneumoniae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662962.1	SRR2961627.25913	394	300	176	206	172	294	41	2.4	36.585	8
+WP_047662962.1	SRR2961627.77851	394	300	86	126	18	140	41	3.4	31.707	10
+# TBLASTN 2.9.0+
+# Query: WP_047667847.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047667847.1	SRR2961627.26325	198	300	97	116	198	257	20	8.4	50.000	10
+WP_047667847.1	SRR2961627.105097	198	300	32	53	227	144	28	9.7	42.857	11
+# TBLASTN 2.9.0+
+# Query: WP_047668015.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668015.1	SRR2961627.40691	175	300	48	111	131	298	64	0.006	34.375	37
+WP_047668015.1	SRR2961627.15163	175	300	81	109	206	292	29	0.060	41.379	17
+# TBLASTN 2.9.0+
+# Query: WP_047668184.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047670712.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047671682.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047671682.1	SRR2961627.31028	861	300	483	510	226	137	30	3.6	43.333	3
+WP_047671682.1	SRR2961627.7151	861	300	624	643	155	214	20	5.9	55.000	2
+# TBLASTN 2.9.0+
+# Query: WP_047675600.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047675600.1	SRR2961627.3167	309	300	139	190	91	240	52	1.8	34.615	17
+WP_047675600.1	SRR2961627.82928	309	300	94	140	224	84	47	4.4	29.787	15
+# TBLASTN 2.9.0+
+# Query: WP_047675606.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047680427.1 C40 family peptidase [Xenorhabdus sp. NBAII XenSa04]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047680427.1	SRR2961627.86846	233	300	63	103	163	288	43	5.2	41.860	18
+# TBLASTN 2.9.0+
+# Query: WP_047698164.1 baseplate J/gp47 family protein [Xanthomonas vasicola]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698164.1	SRR2961627.83981	296	300	113	162	106	237	50	0.80	32.000	17
+WP_047698164.1	SRR2961627.56159	296	300	197	241	94	228	45	8.0	31.111	15
+# TBLASTN 2.9.0+
+# Query: WP_047698631.1 host specificity protein J [Pseudomonas mediterranea]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698631.1	SRR2961627.16075	1030	300	640	662	232	300	23	2.4	47.826	2
+WP_047698631.1	SRR2961627.69199	1030	300	931	946	210	257	16	3.5	68.750	2
+# TBLASTN 2.9.0+
+# Query: WP_047698653.1 phage tail protein [Pseudomonas mediterranea]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047701979.1 phage tail protein [Pseudomonas mediterranea]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047701979.1	SRR2961627.13771	642	300	286	310	275	201	25	7.4	48.000	4
+# TBLASTN 2.9.0+
+# Query: WP_047714565.1 baseplate J/gp47 family protein [Pantoea ananatis]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047716000.1 phage tail protein [Streptococcus pyogenes]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047720857.1 C40 family peptidase [Klebsiella oxytoca]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047720857.1	SRR2961627.37620	245	300	109	138	151	65	30	2.0	40.000	12
+WP_047720857.1	SRR2961627.97058	245	300	55	99	110	244	45	4.3	28.889	18
+# TBLASTN 2.9.0+
+# Query: WP_047730209.1 C40 family peptidase [Serratia marcescens]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047730209.1	SRR2961627.8450	234	300	83	125	271	146	43	6.3	39.535	18
+# TBLASTN 2.9.0+
+# Query: WP_047780218.1 phage tail protein [Pragia fontium]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047780224.1 C40 family peptidase [Pragia fontium]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047842328.1 S-layer homology domain-containing protein [Paenibacillus sp. VT-400]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047842328.1	SRR2961627.68201	2682	300	1540	1557	231	284	18	1.1	72.222	1
+WP_047842328.1	SRR2961627.20479	2682	300	1177	1218	69	197	43	8.7	39.535	2
+# TBLASTN 2.9.0+
+# Query: WP_047885557.1 baseplate J/gp47 family protein [Photobacterium ganghwense]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047885557.1	SRR2961627.105179	297	300	266	289	84	155	24	1.0	54.167	8
+WP_047885557.1	SRR2961627.5447	297	300	66	103	169	282	38	6.1	34.211	13
+# TBLASTN 2.9.0+
+# Query: WP_047905345.1 hypothetical protein [Pandoraea faecigallinarum]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047905345.1	SRR2961627.21203	853	300	570	605	147	254	36	1.0	41.667	4
+WP_047905345.1	SRR2961627.42291	853	300	803	840	178	80	38	8.2	42.105	4
+# TBLASTN 2.9.0+
+# Query: WP_047925204.1 baseplate J/gp47 family protein [Pseudomonas aeruginosa]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047925204.1	SRR2961627.55116	295	300	212	272	112	294	61	7.4	26.230	21
+# TBLASTN 2.9.0+
+# Query: WP_047936535.1 tail protein [Acinetobacter baumannii]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047936535.1	SRR2961627.66442	3032	300	2911	2955	138	284	51	0.63	37.255	1
+WP_047936535.1	SRR2961627.48352	3032	300	2922	2957	189	278	37	4.7	45.946	1
+# TBLASTN 2.9.0+
+# Query: WP_047938337.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047938337.1	SRR2961627.77851	570	300	86	126	18	140	41	5.1	31.707	7
+# TBLASTN 2.9.0+
+# Query: WP_047961534.1 hypothetical protein [Xenorhabdus khoisanae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047961534.1	SRR2961627.23925	150	300	40	93	35	217	61	0.63	21.311	36
+WP_047961534.1	SRR2961627.19476	150	300	88	100	214	176	13	1.7	76.923	9
+# TBLASTN 2.9.0+
+# Query: WP_047964429.1 tail fiber domain-containing protein [Xenorhabdus khoisanae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047964429.1	SRR2961627.6338	1536	300	1167	1207	222	61	54	0.75	40.741	3
+# TBLASTN 2.9.0+
+# Query: WP_047964445.1 tail fiber assembly protein [Xenorhabdus khoisanae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047964445.1	SRR2961627.89729	176	300	42	84	42	230	63	5.0	25.397	24
+# TBLASTN 2.9.0+
+# Query: WP_047965459.1 baseplate J/gp47 family protein [Vogesella sp. EB]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047965459.1	SRR2961627.932	309	300	285	302	284	231	18	6.4	55.556	6
+# TBLASTN 2.9.0+
+# Query: WP_047976416.1 phage tail protein [Muribacter muris]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047976416.1	SRR2961627.53617	188	300	88	137	233	90	50	6.3	34.000	27
+WP_047976416.1	SRR2961627.32738	188	300	12	34	119	187	23	9.9	43.478	12
+# TBLASTN 2.9.0+
+# Query: WP_047977684.1 baseplate J/gp47 family protein [Muribacter muris]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047977684.1	SRR2961627.35746	304	300	237	265	97	183	29	4.2	41.379	10
+# TBLASTN 2.9.0+
+# Query: WP_047991469.1 phage tail length tape measure family protein [Achromobacter xylosoxidans]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047991472.1 phage tail protein [Achromobacter xylosoxidans]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048025268.1 MULTISPECIES: baseplate J/gp47 family protein [Burkholderia]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048025268.1	SRR2961627.37110	301	300	123	165	177	287	43	3.6	37.209	14
+WP_048025268.1	SRR2961627.61321	301	300	134	154	204	266	21	8.8	42.857	7
+# TBLASTN 2.9.0+
+# Query: WP_048231037.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231037.1	SRR2961627.40872	716	300	55	87	158	259	34	3.0	38.235	5
+WP_048231037.1	SRR2961627.48040	716	300	416	436	269	207	21	8.7	57.143	3
+# TBLASTN 2.9.0+
+# Query: WP_048231494.1 phage tail protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048235762.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048235762.1	SRR2961627.67609	688	300	620	655	100	8	36	3.0	44.444	5
+# TBLASTN 2.9.0+
+# Query: WP_048236356.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236356.1	SRR2961627.21816	1137	300	886	911	209	286	26	2.1	38.462	2
+WP_048236356.1	SRR2961627.63838	1137	300	886	911	209	286	26	2.9	38.462	2
+# TBLASTN 2.9.0+
+# Query: WP_048236900.1 tail assembly protein, partial [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048236900.1	SRR2961627.99381	128	300	75	101	101	181	27	8.0	37.037	21
+# TBLASTN 2.9.0+
+# Query: WP_048242643.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048242643.1	SRR2961627.96838	183	300	11	55	280	149	45	6.4	40.000	25
+# TBLASTN 2.9.0+
+# Query: WP_048246749.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048246749.1	SRR2961627.43042	259	300	43	63	207	145	21	3.0	57.143	8
+# TBLASTN 2.9.0+
+# Query: WP_048248406.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048248406.1	SRR2961627.29971	298	300	224	296	64	285	74	1.2	27.027	24
+WP_048248406.1	SRR2961627.23891	298	300	226	276	70	222	51	3.3	33.333	17
+# TBLASTN 2.9.0+
+# Query: WP_048251465.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048251465.1	SRR2961627.9176	212	300	23	49	196	282	29	9.1	44.828	13
+# TBLASTN 2.9.0+
+# Query: WP_048251468.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251468.1	SRR2961627.68770	304	300	61	142	259	17	84	0.57	30.952	27
+WP_048251468.1	SRR2961627.22680	304	300	231	288	64	249	62	1.4	33.871	19
+# TBLASTN 2.9.0+
+# Query: WP_048251594.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251594.1	SRR2961627.63838	949	300	729	754	209	286	26	2.5	38.462	3
+WP_048251594.1	SRR2961627.21816	949	300	729	754	209	286	26	2.9	38.462	3
+# TBLASTN 2.9.0+
+# Query: WP_048266506.1 tail fiber assembly protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048266506.1	SRR2961627.19975	138	300	21	80	244	59	62	0.34	30.645	43
+WP_048266506.1	SRR2961627.78071	138	300	56	90	244	134	37	5.8	29.730	25
+# TBLASTN 2.9.0+
+# Query: WP_048266854.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048266854.1	SRR2961627.80406	792	300	700	719	88	29	20	0.43	55.000	3
+WP_048266854.1	SRR2961627.28151	792	300	700	719	89	30	20	0.46	60.000	3
+# TBLASTN 2.9.0+
+# Query: WP_048267131.1 tail fiber protein [Escherichia coli]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048267131.1	SRR2961627.40872	740	300	55	87	158	259	34	3.8	38.235	4
+WP_048267131.1	SRR2961627.75177	740	300	423	450	195	106	30	5.7	50.000	4
+# TBLASTN 2.9.0+
+# Query: WP_048275229.1 phage tail protein [Pluralibacter gergoviae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048275229.1	SRR2961627.77851	516	300	86	132	18	158	47	2.7	31.915	9
+WP_048275229.1	SRR2961627.61203	516	300	409	474	200	3	66	6.5	28.788	13
+# TBLASTN 2.9.0+
+# Query: WP_048327812.1 phage protein [Streptococcus dysgalactiae]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048355445.1 right-handed parallel beta-helix repeat-containing protein [Bacillus glycinifermentans]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048358120.1 baseplate J/gp47 family protein [Pseudomonas deceptionensis]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048358225.1 hypothetical protein [Pseudomonas deceptionensis]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048358225.1	SRR2961627.82607	1018	300	726	765	269	150	40	4.6	35.000	4
+WP_048358225.1	SRR2961627.100012	1018	300	328	377	151	300	50	9.6	32.000	5
+# TBLASTN 2.9.0+
+# Query: WP_048365734.1 hypothetical protein [Pseudomonas weihenstephanensis]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048365734.1	SRR2961627.18532	256	300	134	186	277	110	56	9.7	32.143	21
+# TBLASTN 2.9.0+
+# Query: WP_048368110.1 hypothetical protein, partial [Bacillus sp. LK7]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048369588.1 phage tail protein [Pseudomonas helleri]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048369588.1	SRR2961627.41909	537	300	314	349	271	161	37	8.2	37.838	7
+# TBLASTN 2.9.0+
+# Query: WP_048371832.1 hypothetical protein [Pseudomonas helleri]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048373798.1 hypothetical protein [Bacillus sp. LK2]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048485424.1 hypothetical protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048485424.1	SRR2961627.95575	100	300	51	86	288	181	36	3.0	27.778	36
+# TBLASTN 2.9.0+
+# Query: WP_048487176.1 phage tail family protein [Lactobacillus rhamnosus]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048487176.1	SRR2961627.5453	685	300	312	343	179	295	39	0.99	35.897	5
+# TBLASTN 2.9.0+
+# Query: WP_048494144.1 hypothetical protein [Marinobacter subterrani]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048494144.1	SRR2961627.76487	192	300	101	146	293	162	46	6.4	32.609	24
+WP_048494144.1	SRR2961627.55127	192	300	129	155	246	166	27	9.2	44.444	14
+# TBLASTN 2.9.0+
+# Query: WP_048532374.1 hypothetical protein [Marinovum algicola]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048532374.1	SRR2961627.16718	1107	300	562	584	246	178	23	5.9	43.478	2
+# TBLASTN 2.9.0+
+# Query: WP_048535907.1 hypothetical protein [Marinovum algicola]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048558253.1 phage tail family protein [Bacillus cereus]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558253.1	SRR2961627.12043	490	300	133	191	277	134	59	0.67	33.898	12
+WP_048558253.1	SRR2961627.56815	490	300	149	191	259	134	43	1.0	37.209	9
+# TBLASTN 2.9.0+
+# Query: WP_048558700.1 phage tail protein [Bacillus cereus]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558700.1	SRR2961627.89062	1461	300	875	910	285	178	36	2.3	38.889	2
+WP_048558700.1	SRR2961627.94709	1461	300	173	206	252	151	34	4.0	41.176	2
+# TBLASTN 2.9.0+
+# Query: WP_048558701.1 phage tail family protein [Bacillus cereus]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048590847.1 phage tail protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048590847.1	SRR2961627.39680	583	300	382	417	74	193	41	5.0	39.024	6
+WP_048590847.1	SRR2961627.99299	583	300	205	263	98	289	64	6.4	32.812	10
+# TBLASTN 2.9.0+
+# Query: WP_048615875.1 hypothetical protein [Yersinia aleksiciae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048615875.1	SRR2961627.69372	205	300	3	31	204	290	29	7.6	37.931	14
+WP_048615875.1	SRR2961627.8168	205	300	108	160	182	24	53	8.7	28.302	26
+# TBLASTN 2.9.0+
+# Query: WP_048619993.1 phage tail protein [Yersinia aleksiciae]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048619993.1	SRR2961627.64272	159	300	124	152	40	126	29	5.6	37.931	18
+WP_048619993.1	SRR2961627.78042	159	300	124	152	40	126	29	8.7	34.483	18
+# TBLASTN 2.9.0+
+# Query: WP_048639094.1 tail fiber protein [Brenneria goodwinii]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048639094.1	SRR2961627.68806	684	300	253	282	300	211	30	6.3	33.333	4
+# TBLASTN 2.9.0+
+# Query: WP_048663532.1 tail fiber protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048665912.1 tail fiber domain-containing protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048665912.1	SRR2961627.81610	908	300	367	417	161	9	55	5.0	32.727	6
+WP_048665912.1	SRR2961627.55277	908	300	397	417	71	9	21	7.1	47.619	2
+# TBLASTN 2.9.0+
+# Query: WP_048668118.1 phage tail protein [Salmonella enterica]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048668118.1	SRR2961627.40872	721	300	55	87	158	259	34	3.0	38.235	5
+WP_048668118.1	SRR2961627.48040	721	300	372	392	269	207	21	7.2	57.143	3
+# TBLASTN 2.9.0+
+# Query: WP_048710785.1 tail fiber domain-containing protein [Microvirga massiliensis]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048710785.1	SRR2961627.48829	1091	300	688	737	73	222	50	1.6	36.000	5
+WP_048710785.1	SRR2961627.97038	1091	300	611	670	77	256	60	1.9	36.667	5
+# TBLASTN 2.9.0+
+# Query: WP_048723927.1 phage tail family protein [Bacillus cytotoxicus]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048723927.1	SRR2961627.88207	497	300	32	62	4	99	35	2.5	42.857	6
+WP_048723927.1	SRR2961627.18359	497	300	32	61	4	105	34	2.9	44.118	6
+# TBLASTN 2.9.0+
+# Query: WP_048731243.1 tail tubular protein A [Pseudomonas sp. KG01]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048731244.1 hypothetical protein [Pseudomonas sp. KG01]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048748618.1 hypothetical protein [Paenibacillus sp. P22]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048765510.1 baseplate J/gp47 family protein [Acinetobacter sp. 243_ASPC]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048765510.1	SRR2961627.71115	300	300	131	167	198	290	37	6.5	37.838	12
+# TBLASTN 2.9.0+
+# Query: WP_048766108.1 tail protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048766108.1	SRR2961627.87697	1010	300	686	723	118	210	38	3.3	39.474	4
+WP_048766108.1	SRR2961627.79865	1010	300	306	354	233	78	52	5.6	26.923	5
+# TBLASTN 2.9.0+
+# Query: WP_048766115.1 hypothetical protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: blastdb_TWO_2
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048805723.1 tail fiber assembly protein [Burkholderia multivorans]
+# Database: blastdb_TWO_2
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048805723.1	SRR2961627.17355	283	300	69	113	290	180	45	1.8	35.556	16
+WP_048805723.1	SRR2961627.97214	283	300	171	204	156	257	34	8.1	32.353	12
+# BLAST processed 157 queries

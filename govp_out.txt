@@ -1,0 +1,1098 @@
+# BLASTP 2.9.0+
+# Query: WP_000072167.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000072167.1	gb|QDP49095.1|	204	268	22	132	4	120	117	3.67e-07	31.624	54
+WP_000072167.1	gb|QDP49737.1|	204	198	21	193	4	167	179	0.027	25.140	85
+# BLASTP 2.9.0+
+# Query: WP_000514854.1 host specificity protein J [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000514854.1	gb|QDP47070.1|	1158	1174	155	731	298	851	596	9.63e-97	35.906	50
+WP_000514854.1	gb|QDP68212.1|	1158	1116	2	652	10	721	735	3.98e-72	29.796	56
+# BLASTP 2.9.0+
+# Query: WP_000930006.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000930006.1	gb|QDP62442.1|	187	180	19	61	87	128	43	0.21	37.209	23
+WP_000930006.1	gb|QDP56074.1|	187	3449	71	113	2079	2117	43	1.3	37.209	23
+# BLASTP 2.9.0+
+# Query: WP_000972134.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000972134.1	gb|QDP65391.1|	177	105	91	132	34	74	43	0.003	44.186	24
+WP_000972134.1	gb|QDP48759.1|	177	516	103	132	3	32	30	0.48	50.000	17
+# BLASTP 2.9.0+
+# Query: WP_001024006.1 MULTISPECIES: phage tail fiber C-terminal domain-containing protein [Gammaproteobacteria]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001024006.1	gb|QDP50725.1|	89	1966	34	74	1386	1428	44	1.1	38.636	46
+WP_001024006.1	gb|QDP58832.1|	89	523	16	64	266	311	49	3.1	28.571	55
+# BLASTP 2.9.0+
+# Query: WP_001133967.1 MULTISPECIES: baseplate J/gp47 family protein [Escherichia]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001133967.1	gb|QDP60144.1|	306	309	1	296	1	303	307	2.48e-51	36.156	97
+WP_001133967.1	gb|QDP51052.1|	306	722	173	255	261	338	83	0.18	28.916	27
+# BLASTP 2.9.0+
+# Query: WP_001286322.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001286322.1	gb|QDP49680.1|	144	97	83	123	5	45	41	0.75	34.146	28
+WP_001286322.1	gb|QDP52270.1|	144	97	83	123	5	45	41	1.5	31.707	28
+# BLASTP 2.9.0+
+# Query: WP_001297572.1 MULTISPECIES: baseplate J/gp47 family protein [Enterobacteriaceae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001297572.1	gb|QDP60144.1|	298	309	3	297	7	309	310	8.73e-54	35.484	99
+WP_001297572.1	gb|QDP56016.1|	298	2044	122	237	1332	1450	122	1.5	24.590	39
+# BLASTP 2.9.0+
+# Query: WP_001524115.1 tail fiber assembly protein [Shigella flexneri]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001524115.1	gb|QDP65031.1|	133	90	12	48	54	90	37	0.029	32.432	28
+WP_001524115.1	gb|QDP62047.1|	133	1148	18	101	902	992	93	0.61	31.183	63
+# BLASTP 2.9.0+
+# Query: WP_001706448.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001706448.1	gb|QDP60146.1|	911	298	3	190	2	184	190	2.43e-25	35.263	21
+WP_001706448.1	gb|QDP51768.1|	911	1229	635	668	396	429	34	0.002	61.765	4
+# BLASTP 2.9.0+
+# Query: WP_003117973.1 MULTISPECIES: C40 family peptidase [Pseudomonas]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_003117973.1	gb|QDP47072.1|	256	233	1	251	1	230	251	6.89e-59	40.239	98
+WP_003117973.1	gb|QDP68214.1|	256	235	8	238	5	218	233	1.29e-41	34.335	90
+# BLASTP 2.9.0+
+# Query: WP_003759716.1 MULTISPECIES: hypothetical protein [Listeria]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_003759716.1	gb|QDP66783.1|	113	272	2	46	123	167	45	0.32	33.333	40
+WP_003759716.1	gb|QDP56022.1|	113	981	10	65	904	955	56	1.4	30.357	50
+# BLASTP 2.9.0+
+# Query: WP_004722849.1 hypothetical protein [Yersinia ruckeri]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_004722849.1	gb|QDP67062.1|	165	129	74	125	69	115	53	0.39	39.623	32
+WP_004722849.1	gb|QDP48320.1|	165	641	6	105	174	267	100	0.40	25.000	61
+# BLASTP 2.9.0+
+# Query: WP_012303821.1 MULTISPECIES: hypothetical protein [Yersinia pseudotuberculosis complex]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_012303821.1	gb|QDP65660.1|	146	675	19	66	407	451	48	7.7	29.167	33
+# BLASTP 2.9.0+
+# Query: WP_012849301.1 MULTISPECIES: host specificity protein J [Edwardsiella]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012849301.1	gb|QDP47070.1|	1031	1174	155	618	298	761	470	1.71e-109	40.000	45
+WP_012849301.1	gb|QDP68212.1|	1031	1116	2	685	10	742	750	1.26e-71	28.667	66
+# BLASTP 2.9.0+
+# Query: WP_012987783.1 host specificity protein J [Xenorhabdus bovienii]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012987783.1	gb|QDP47070.1|	1045	1174	144	631	289	778	501	4.59e-113	39.721	47
+WP_012987783.1	gb|QDP68212.1|	1045	1116	2	595	10	651	646	1.17e-81	32.043	57
+# BLASTP 2.9.0+
+# Query: WP_016063193.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016063193.1	gb|QDP49095.1|	194	268	15	115	4	108	105	5.53e-14	34.286	52
+WP_016063193.1	gb|QDP58054.1|	194	805	97	146	654	707	55	0.26	32.727	26
+# BLASTP 2.9.0+
+# Query: WP_016249384.1 MULTISPECIES: phage tail protein I [Escherichia]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016249384.1	gb|QDP60145.1|	176	211	4	175	2	177	176	1.79e-33	35.795	98
+WP_016249384.1	gb|QDP61728.1|	176	96	102	129	15	42	28	1.8	28.571	16
+# BLASTP 2.9.0+
+# Query: WP_016716825.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016716825.1	gb|QDP55658.1|	491	329	17	127	77	200	124	1.8	24.194	23
+WP_016716825.1	gb|QDP60146.1|	491	298	104	157	212	273	62	2.8	27.419	11
+# BLASTP 2.9.0+
+# Query: WP_017218926.1 MULTISPECIES: baseplate J/gp47 family protein [Pseudoalteromonas]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_017218926.1	gb|QDP60144.1|	280	309	5	250	7	273	270	5.78e-26	31.481	88
+WP_017218926.1	gb|QDP57620.1|	280	1023	1	39	316	354	39	3.6	25.641	14
+# BLASTP 2.9.0+
+# Query: WP_017765307.1 MULTISPECIES: baseplate J/gp47 family protein [Aeromonas]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_017765307.1	gb|QDP60144.1|	299	309	4	296	8	304	304	4.47e-66	39.474	98
+WP_017765307.1	gb|QDP51901.1|	299	533	118	161	488	531	44	0.83	36.364	15
+# BLASTP 2.9.0+
+# Query: WP_021729012.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_021729012.1	gb|QDP60190.1|	492	318	44	179	154	306	159	0.80	24.528	28
+WP_021729012.1	gb|QDP52347.1|	492	100	24	54	45	75	31	0.88	41.935	6
+# BLASTP 2.9.0+
+# Query: WP_023277167.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_023277167.1	gb|QDP62411.1|	310	824	18	97	99	176	82	0.002	32.927	26
+WP_023277167.1	gb|QDP64281.1|	310	813	20	124	101	202	107	0.057	28.037	34
+# BLASTP 2.9.0+
+# Query: WP_025423029.1 host specificity protein J [Sodalis praecaptivus]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_025423029.1	gb|QDP47070.1|	1042	1174	157	615	298	755	464	2.88e-117	43.103	44
+WP_025423029.1	gb|QDP68212.1|	1042	1116	2	597	12	650	646	1.60e-85	32.817	57
+# BLASTP 2.9.0+
+# Query: WP_032673287.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_032673287.1	gb|QDP48919.1|	143	586	9	72	132	211	80	0.031	26.250	45
+WP_032673287.1	gb|QDP62769.1|	143	309	42	125	139	214	88	0.49	26.136	59
+# BLASTP 2.9.0+
+# Query: WP_032679843.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_032679843.1	gb|QDP54033.1|	157	166	74	130	109	162	57	0.018	35.088	36
+WP_032679843.1	gb|QDP54954.1|	157	157	76	139	102	156	64	0.021	28.125	41
+# BLASTP 2.9.0+
+# Query: WP_036414555.1 host specificity protein J [Morganella morganii]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_036414555.1	gb|QDP47070.1|	1044	1174	144	632	289	779	498	1.44e-107	38.755	47
+WP_036414555.1	gb|QDP68212.1|	1044	1116	2	609	10	675	675	1.11e-80	30.519	58
+# BLASTP 2.9.0+
+# Query: WP_042659516.1 MULTISPECIES: tail fiber assembly protein [Yersinia pseudotuberculosis complex]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_042659516.1	gb|QDP49095.1|	218	268	26	146	4	131	128	4.06e-10	28.906	56
+WP_042659516.1	gb|QDP54954.1|	218	157	134	195	103	155	62	0.085	30.645	28
+# BLASTP 2.9.0+
+# Query: WP_045190581.1 hypothetical protein [Pseudomonas sp. 5]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_045190581.1	gb|QDP50311.1|	145	133	3	137	2	127	144	7.38e-04	23.611	93
+WP_045190581.1	gb|QDP49841.1|	145	91	102	142	42	84	43	0.013	37.209	28
+# BLASTP 2.9.0+
+# Query: WP_045718260.1 hypothetical protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_045718260.1	gb|QDP60429.1|	134	842	95	133	650	688	39	2.87e-08	66.667	29
+WP_045718260.1	gb|QDP67767.1|	134	780	91	131	609	650	42	4.94e-06	66.667	31
+# BLASTP 2.9.0+
+# Query: WP_047064609.1 hypothetical protein [Klebsiella aerogenes]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047064609.1	gb|QDP60429.1|	168	842	113	167	642	688	55	1.79e-09	60.000	33
+WP_047064609.1	gb|QDP55463.1|	168	2207	113	168	638	686	57	1.17e-06	54.386	33
+# BLASTP 2.9.0+
+# Query: WP_047378479.1 tail fiber protein, partial [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047378479.1	gb|QDP49473.1|	199	1398	52	177	617	778	165	4.03e-10	32.121	63
+WP_047378479.1	gb|QDP62958.1|	199	280	117	176	11	70	60	2.45e-04	41.667	30
+# BLASTP 2.9.0+
+# Query: WP_047403075.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047403075.1	gb|QDP49095.1|	197	268	17	144	1	129	136	4.55e-13	36.029	65
+WP_047403075.1	gb|QDP49163.1|	197	1188	4	91	474	553	88	0.89	27.273	45
+# BLASTP 2.9.0+
+# Query: WP_047418019.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047418019.1	gb|QDP55259.1|	1055	1086	842	963	892	1011	122	1.04e-24	50.000	12
+WP_047418019.1	gb|QDP54892.1|	1055	831	803	930	610	740	132	2.42e-22	46.970	12
+# BLASTP 2.9.0+
+# Query: WP_047463064.1 phage tail protein [Citrobacter koseri]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047463064.1	gb|QDP60146.1|	517	298	1	143	1	146	147	9.28e-18	34.694	28
+WP_047463064.1	gb|QDP66608.1|	517	264	313	516	106	264	215	3.76e-05	22.791	39
+# BLASTP 2.9.0+
+# Query: WP_047501638.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047501638.1	gb|QDP55259.1|	1067	1086	838	976	874	1010	139	1.68e-24	46.763	13
+WP_047501638.1	gb|QDP54892.1|	1067	831	784	927	570	720	151	1.50e-20	43.046	13
+# BLASTP 2.9.0+
+# Query: WP_047506852.1 hypothetical protein [Rhizobium sp. YR528]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047506852.1	gb|QDP47888.1|	87	87	21	86	13	86	74	2.85e-10	37.838	76
+WP_047506852.1	gb|QDP57485.1|	87	155	31	86	99	154	56	6.67e-10	48.214	64
+# BLASTP 2.9.0+
+# Query: WP_047533231.1 hypothetical protein [Shewanella sp. ZOR0012]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047533231.1	gb|QDP51768.1|	220	1229	50	150	403	508	113	5.63e-08	34.513	46
+WP_047533231.1	gb|QDP65771.1|	220	1550	50	147	208	295	102	1.52e-06	36.275	45
+# BLASTP 2.9.0+
+# Query: WP_047541866.1 baseplate J/gp47 family protein [Pseudomonas simiae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047541866.1	gb|QDP60144.1|	295	309	4	292	8	306	301	6.11e-57	36.545	98
+WP_047541866.1	gb|QDP61500.1|	295	240	68	113	35	80	46	0.41	34.783	16
+# BLASTP 2.9.0+
+# Query: WP_047565225.1 prophage tail fiber N-terminal domain-containing protein [Shigella sonnei]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047565225.1	gb|QDP64713.1|	388	338	93	240	73	223	152	0.47	23.026	38
+WP_047565225.1	gb|QDP60097.1|	388	944	116	160	316	355	45	0.52	42.222	12
+# BLASTP 2.9.0+
+# Query: WP_047570873.1 baseplate J/gp47 family protein [Serratia marcescens]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047570873.1	gb|QDP60144.1|	305	309	1	291	1	298	306	1.12e-45	34.314	95
+WP_047570873.1	gb|QDP60889.1|	305	147	74	139	88	144	67	0.070	28.358	22
+# BLASTP 2.9.0+
+# Query: WP_047587336.1 macro domain-containing protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047587336.1	gb|QDP50024.1|	274	119	57	123	14	75	67	0.79	23.881	24
+WP_047587336.1	gb|QDP64860.1|	274	63	97	147	2	51	51	5.5	33.333	19
+# BLASTP 2.9.0+
+# Query: WP_047588350.1 host specificity protein J [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047588350.1	gb|QDP47070.1|	1120	1174	155	636	298	770	484	5.01e-100	39.876	43
+WP_047588350.1	gb|QDP68212.1|	1120	1116	2	601	10	651	658	2.73e-70	29.787	54
+# BLASTP 2.9.0+
+# Query: WP_047592509.1 tail fiber assembly protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047592509.1	gb|QDP63255.1|	172	100	29	96	5	80	76	0.019	25.000	40
+WP_047592509.1	gb|QDP68345.1|	172	548	40	76	186	220	37	1.2	32.432	22
+# BLASTP 2.9.0+
+# Query: WP_047592512.1 tail fiber assembly protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047592512.1	gb|QDP60112.1|	177	582	33	124	133	217	94	0.059	27.660	52
+WP_047592512.1	gb|QDP64018.1|	177	137	36	118	8	101	97	0.12	22.680	47
+# BLASTP 2.9.0+
+# Query: WP_047594313.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047594313.1	gb|QDP64922.1|	809	569	391	575	348	544	205	6.05e-17	34.634	23
+WP_047594313.1	gb|QDP60426.1|	809	432	627	808	259	432	205	5.24e-06	26.341	22
+# BLASTP 2.9.0+
+# Query: WP_047606624.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047606624.1	gb|QDP55463.1|	1009	2207	575	649	1202	1332	131	1.28e-15	42.748	7
+WP_047606624.1	gb|QDP47974.1|	1009	1149	597	675	696	781	87	2.89e-09	48.276	8
+# BLASTP 2.9.0+
+# Query: WP_047609716.1 tail fiber assembly protein [Rahnella aquatilis]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047609716.1	gb|QDP47232.1|	172	78	1	47	17	63	47	0.13	34.043	27
+WP_047609716.1	gb|QDP53874.1|	172	70	133	158	22	47	26	1.6	38.462	15
+# BLASTP 2.9.0+
+# Query: WP_047615099.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615099.1	gb|QDP60146.1|	736	298	3	162	2	161	161	5.53e-24	36.025	22
+WP_047615099.1	gb|QDP62741.1|	736	703	301	342	455	496	42	0.002	50.000	6
+# BLASTP 2.9.0+
+# Query: WP_047615608.1 host specificity protein J [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615608.1	gb|QDP47070.1|	1165	1174	155	601	298	739	449	7.67e-99	40.757	38
+WP_047615608.1	gb|QDP68212.1|	1165	1116	2	601	13	651	656	1.28e-75	29.726	52
+# BLASTP 2.9.0+
+# Query: WP_047619258.1 tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047619258.1	gb|QDP46346.1|	238	1290	166	236	642	705	75	0.48	26.667	30
+WP_047619258.1	gb|QDP63252.1|	238	473	100	135	367	400	36	1.4	38.889	15
+# BLASTP 2.9.0+
+# Query: WP_047629926.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047629926.1	gb|QDP60146.1|	673	298	3	162	2	161	161	5.52e-24	36.025	24
+WP_047629926.1	gb|QDP64922.1|	673	569	205	283	349	427	79	9.86e-19	55.696	12
+# BLASTP 2.9.0+
+# Query: WP_047634918.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047634918.1	gb|QDP49473.1|	655	1398	411	573	646	871	226	9.13e-09	33.186	25
+WP_047634918.1	gb|QDP50344.1|	655	171	1	91	1	92	92	0.002	32.609	14
+# BLASTP 2.9.0+
+# Query: WP_047641366.1 immunoglobulin domain-containing protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047641366.1	gb|QDP55675.1|	245	158	7	156	3	158	161	0.002	23.602	61
+WP_047641366.1	gb|QDP46582.1|	245	171	10	113	12	120	113	0.027	25.664	42
+# BLASTP 2.9.0+
+# Query: WP_047647962.1 phage tail protein [Enterobacter asburiae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047647962.1	gb|QDP56000.1|	223	452	142	179	305	342	38	1.2	31.579	17
+WP_047647962.1	gb|QDP61464.1|	223	385	124	147	214	237	24	1.5	41.667	11
+# BLASTP 2.9.0+
+# Query: WP_047649426.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047649426.1	gb|QDP60146.1|	528	298	3	207	2	202	209	3.99e-42	40.670	39
+WP_047649426.1	gb|QDP60426.1|	528	432	225	526	126	431	324	1.10e-22	29.012	57
+# BLASTP 2.9.0+
+# Query: WP_047650743.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047650743.1	gb|QDP55463.1|	1091	2207	692	769	1202	1336	135	2.79e-14	42.963	7
+WP_047650743.1	gb|QDP47974.1|	1091	1149	714	767	696	757	62	4.46e-08	58.065	5
+# BLASTP 2.9.0+
+# Query: WP_047651134.1 phage tail protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047651134.1	gb|QDP60146.1|	328	298	3	225	2	222	229	9.89e-42	37.555	68
+WP_047651134.1	gb|QDP49094.1|	328	325	190	259	188	267	80	3.11e-15	43.750	21
+# BLASTP 2.9.0+
+# Query: WP_047652060.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652060.1	gb|QDP64922.1|	975	569	250	336	349	435	87	4.96e-22	55.172	9
+WP_047652060.1	gb|QDP50683.1|	975	1202	214	336	195	320	126	7.26e-11	34.921	13
+# BLASTP 2.9.0+
+# Query: WP_047652160.1 hypothetical protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652160.1	gb|QDP59467.1|	470	304	124	171	44	91	48	4.05e-05	47.917	10
+WP_047652160.1	gb|QDP51280.1|	470	562	2	67	141	202	66	2.39e-04	42.424	14
+# BLASTP 2.9.0+
+# Query: WP_047652789.1 tail fiber assembly protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652789.1	gb|QDP50311.1|	124	133	1	52	1	53	54	0.049	29.630	42
+WP_047652789.1	gb|QDP60166.1|	124	884	56	101	695	745	51	0.58	37.255	37
+# BLASTP 2.9.0+
+# Query: WP_047653121.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047653121.1	gb|QDP58534.1|	147	198	7	53	45	87	47	1.9	36.170	32
+WP_047653121.1	gb|QDP50311.1|	147	133	5	60	3	54	56	2.1	23.214	38
+# BLASTP 2.9.0+
+# Query: WP_047655321.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047655321.1	gb|QDP60146.1|	391	298	3	207	2	202	209	3.83e-43	41.148	52
+WP_047655321.1	gb|QDP64922.1|	391	569	181	257	352	428	77	3.89e-17	53.247	20
+# BLASTP 2.9.0+
+# Query: WP_047656959.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047656959.1	gb|QDP54714.1|	175	3653	93	145	2741	2793	54	2.5	27.778	30
+WP_047656959.1	gb|QDP55995.1|	175	397	47	102	221	277	57	2.7	26.316	32
+# BLASTP 2.9.0+
+# Query: WP_047657307.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657307.1	gb|QDP64922.1|	831	569	383	471	335	428	94	4.44e-16	45.745	11
+WP_047657307.1	gb|QDP51768.1|	831	1229	421	472	458	509	52	2.54e-08	51.923	6
+# BLASTP 2.9.0+
+# Query: WP_047657742.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657742.1	gb|QDP66608.1|	524	264	261	523	11	264	309	7.75e-09	22.654	50
+WP_047657742.1	gb|QDP49094.1|	524	325	309	394	175	276	103	2.49e-04	30.097	16
+# BLASTP 2.9.0+
+# Query: WP_047657854.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657854.1	gb|QDP60146.1|	681	298	3	162	2	161	161	9.25e-25	36.646	23
+WP_047657854.1	gb|QDP64922.1|	681	569	249	327	349	427	79	1.47e-18	55.696	12
+# BLASTP 2.9.0+
+# Query: WP_047658478.1 tail fiber assembly protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047658478.1	gb|QDP49479.1|	136	273	1	41	47	86	41	1.5	34.146	30
+WP_047658478.1	gb|QDP46964.1|	136	715	65	82	617	634	18	1.9	66.667	13
+# BLASTP 2.9.0+
+# Query: WP_047659090.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047659090.1	gb|QDP60146.1|	772	298	3	162	2	161	161	1.38e-24	36.646	21
+WP_047659090.1	gb|QDP62741.1|	772	703	301	342	455	496	42	0.002	50.000	5
+# BLASTP 2.9.0+
+# Query: WP_047660148.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660148.1	gb|QDP49095.1|	197	268	20	135	4	126	123	1.83e-14	35.772	59
+WP_047660148.1	gb|QDP66085.1|	197	2066	65	138	1420	1489	74	0.26	37.838	38
+# BLASTP 2.9.0+
+# Query: WP_047660222.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660222.1	gb|QDP60146.1|	709	298	3	162	2	161	161	6.44e-24	36.025	23
+WP_047660222.1	gb|QDP62741.1|	709	703	345	386	455	496	42	5.79e-04	52.381	6
+# BLASTP 2.9.0+
+# Query: WP_047660798.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660798.1	gb|QDP64922.1|	774	569	392	470	349	427	79	4.07e-20	59.494	10
+WP_047660798.1	gb|QDP65771.1|	774	1550	430	488	257	315	59	5.05e-09	50.847	8
+# BLASTP 2.9.0+
+# Query: WP_047661763.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047661763.1	gb|QDP47532.1|	178	560	101	144	179	221	44	1.9	34.091	25
+WP_047661763.1	gb|QDP51075.1|	178	238	18	59	149	190	42	4.0	26.190	24
+# BLASTP 2.9.0+
+# Query: WP_047662599.1 tail fiber domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662599.1	gb|QDP63466.1|	448	1303	305	411	1211	1298	107	2.60e-07	28.037	24
+WP_047662599.1	gb|QDP51364.1|	448	540	204	411	362	533	209	2.76e-07	25.837	46
+# BLASTP 2.9.0+
+# Query: WP_047662788.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662788.1	gb|QDP60144.1|	299	309	4	267	8	273	270	5.86e-45	36.667	88
+WP_047662788.1	gb|QDP61243.1|	299	350	179	253	266	341	76	0.59	23.684	25
+# BLASTP 2.9.0+
+# Query: WP_047662962.1 phage tail protein [Klebsiella pneumoniae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662962.1	gb|QDP60146.1|	394	298	5	156	4	156	154	7.12e-40	46.104	39
+WP_047662962.1	gb|QDP64922.1|	394	569	185	302	356	472	121	4.84e-14	40.496	30
+# BLASTP 2.9.0+
+# Query: WP_047667847.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047667847.1	gb|QDP49095.1|	198	268	20	119	4	109	106	5.29e-13	35.849	51
+WP_047667847.1	gb|QDP66169.1|	198	1622	67	108	503	551	49	0.087	38.776	21
+# BLASTP 2.9.0+
+# Query: WP_047668015.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668015.1	gb|QDP62518.1|	175	877	132	174	226	268	43	0.53	32.558	25
+WP_047668015.1	gb|QDP66204.1|	175	70	4	31	40	67	28	1.5	39.286	16
+# BLASTP 2.9.0+
+# Query: WP_047668184.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668184.1	gb|QDP60426.1|	155	432	5	153	256	431	177	1.52e-25	37.288	96
+WP_047668184.1	gb|QDP49094.1|	155	325	7	153	188	324	157	5.28e-21	35.669	95
+# BLASTP 2.9.0+
+# Query: WP_047670712.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047670712.1	gb|QDP60144.1|	307	309	4	300	7	305	313	4.73e-35	31.949	97
+WP_047670712.1	gb|QDP61605.1|	307	1118	65	117	34	85	53	1.8	37.736	17
+# BLASTP 2.9.0+
+# Query: WP_047671682.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047671682.1	gb|QDP54947.1|	861	511	197	272	182	253	76	0.30	44.737	9
+WP_047671682.1	gb|QDP57566.1|	861	511	197	272	182	253	76	0.30	44.737	9
+# BLASTP 2.9.0+
+# Query: WP_047675600.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047675600.1	gb|QDP66608.1|	309	264	59	308	44	264	260	3.31e-10	20.385	81
+WP_047675600.1	gb|QDP60426.1|	309	432	126	308	259	432	198	9.89e-09	25.758	59
+# BLASTP 2.9.0+
+# Query: WP_047675606.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047675606.1	gb|QDP50344.1|	474	171	1	90	1	91	91	2.54e-04	28.571	19
+WP_047675606.1	gb|QDP62120.1|	474	111	158	232	31	109	80	0.31	27.500	16
+# BLASTP 2.9.0+
+# Query: WP_047680427.1 C40 family peptidase [Xenorhabdus sp. NBAII XenSa04]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047680427.1	gb|QDP47072.1|	233	233	5	232	7	231	228	2.20e-58	41.228	98
+WP_047680427.1	gb|QDP68214.1|	233	235	7	231	5	231	228	8.88e-42	37.281	97
+# BLASTP 2.9.0+
+# Query: WP_047698164.1 baseplate J/gp47 family protein [Xanthomonas vasicola]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698164.1	gb|QDP60144.1|	296	309	4	289	5	303	299	1.23e-65	40.803	97
+WP_047698164.1	gb|QDP66033.1|	296	449	113	282	251	442	197	0.079	28.426	57
+# BLASTP 2.9.0+
+# Query: WP_047698631.1 host specificity protein J [Pseudomonas mediterranea]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698631.1	gb|QDP47070.1|	1030	1174	165	831	298	933	673	1.04e-155	41.010	65
+WP_047698631.1	gb|QDP68212.1|	1030	1116	11	760	14	776	798	5.37e-99	30.326	73
+# BLASTP 2.9.0+
+# Query: WP_047698653.1 phage tail protein [Pseudomonas mediterranea]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698653.1	gb|QDP62411.1|	217	824	20	110	101	193	93	1.97e-05	33.333	42
+WP_047698653.1	gb|QDP64281.1|	217	813	20	110	101	193	93	2.39e-04	29.032	42
+# BLASTP 2.9.0+
+# Query: WP_047701979.1 phage tail protein [Pseudomonas mediterranea]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047701979.1	gb|QDP60146.1|	642	298	1	152	1	152	153	3.03e-40	47.712	24
+WP_047701979.1	gb|QDP46473.1|	642	534	166	297	61	191	132	4.75e-22	42.424	21
+# BLASTP 2.9.0+
+# Query: WP_047714565.1 baseplate J/gp47 family protein [Pantoea ananatis]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047714565.1	gb|QDP60144.1|	305	309	4	298	8	306	305	5.46e-56	38.033	97
+WP_047714565.1	gb|QDP55742.1|	305	547	36	115	466	547	83	0.36	26.506	26
+# BLASTP 2.9.0+
+# Query: WP_047716000.1 phage tail protein [Streptococcus pyogenes]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047716000.1	gb|QDP54940.1|	684	119	342	398	43	99	57	0.81	28.070	8
+WP_047716000.1	gb|QDP57243.1|	684	203	335	387	58	112	55	1.2	29.091	8
+# BLASTP 2.9.0+
+# Query: WP_047720857.1 C40 family peptidase [Klebsiella oxytoca]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047720857.1	gb|QDP47072.1|	245	233	4	232	6	230	231	1.58e-44	38.961	93
+WP_047720857.1	gb|QDP68214.1|	245	235	2	232	4	231	236	6.47e-37	34.746	94
+# BLASTP 2.9.0+
+# Query: WP_047730209.1 C40 family peptidase [Serratia marcescens]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047730209.1	gb|QDP47072.1|	234	233	1	230	3	230	231	1.30e-53	38.961	98
+WP_047730209.1	gb|QDP68214.1|	234	235	10	230	8	231	225	1.80e-36	36.000	94
+# BLASTP 2.9.0+
+# Query: WP_047780218.1 phage tail protein [Pragia fontium]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047780218.1	gb|QDP54905.1|	219	928	23	94	280	357	79	2.0	32.911	33
+WP_047780218.1	gb|QDP47251.1|	219	172	8	48	37	72	41	4.9	34.146	19
+# BLASTP 2.9.0+
+# Query: WP_047780224.1 C40 family peptidase [Pragia fontium]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047780224.1	gb|QDP47072.1|	237	233	4	231	6	230	229	3.60e-50	38.428	96
+WP_047780224.1	gb|QDP68214.1|	237	235	10	231	8	231	225	4.16e-36	32.889	94
+# BLASTP 2.9.0+
+# Query: WP_047842328.1 S-layer homology domain-containing protein [Paenibacillus sp. VT-400]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047842328.1	gb|QDP65237.1|	2682	243	1258	1487	22	237	241	2.17e-06	26.141	9
+WP_047842328.1	gb|QDP49272.1|	2682	1326	1350	1444	346	436	95	2.68e-06	28.421	4
+# BLASTP 2.9.0+
+# Query: WP_047885557.1 baseplate J/gp47 family protein [Photobacterium ganghwense]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047885557.1	gb|QDP60144.1|	297	309	6	266	8	273	267	1.12e-52	39.326	88
+WP_047885557.1	gb|QDP65664.1|	297	322	16	81	129	195	70	0.44	35.714	22
+# BLASTP 2.9.0+
+# Query: WP_047905345.1 hypothetical protein [Pandoraea faecigallinarum]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047905345.1	gb|QDP48692.1|	853	824	269	852	237	823	610	1.39e-29	24.098	68
+WP_047905345.1	gb|QDP57814.1|	853	813	319	842	284	801	557	4.21e-29	23.878	61
+# BLASTP 2.9.0+
+# Query: WP_047925204.1 baseplate J/gp47 family protein [Pseudomonas aeruginosa]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047925204.1	gb|QDP60144.1|	295	309	3	291	8	306	299	1.05e-66	39.799	98
+WP_047925204.1	gb|QDP49372.1|	295	478	167	210	105	152	48	0.20	37.500	15
+# BLASTP 2.9.0+
+# Query: WP_047936535.1 tail protein [Acinetobacter baumannii]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047936535.1	gb|QDP47070.1|	3032	1174	163	802	298	933	649	1.35e-117	36.980	21
+WP_047936535.1	gb|QDP68212.1|	3032	1116	3	726	7	769	776	1.16e-89	29.253	24
+# BLASTP 2.9.0+
+# Query: WP_047938337.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047938337.1	gb|QDP60146.1|	570	298	5	161	4	161	159	3.56e-39	45.283	28
+WP_047938337.1	gb|QDP49094.1|	570	325	424	499	188	273	86	2.66e-15	44.186	13
+# BLASTP 2.9.0+
+# Query: WP_047961534.1 hypothetical protein [Xenorhabdus khoisanae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047961534.1	gb|QDP54721.1|	150	269	105	135	93	123	31	1.4	41.935	21
+WP_047961534.1	gb|QDP47641.1|	150	527	65	102	88	125	38	4.2	36.842	25
+# BLASTP 2.9.0+
+# Query: WP_047964429.1 tail fiber domain-containing protein [Xenorhabdus khoisanae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047964429.1	gb|QDP63466.1|	1536	1303	1440	1536	1205	1298	97	2.49e-15	40.206	6
+WP_047964429.1	gb|QDP65771.1|	1536	1550	1439	1535	1443	1549	107	4.81e-13	35.514	6
+# BLASTP 2.9.0+
+# Query: WP_047964445.1 tail fiber assembly protein [Xenorhabdus khoisanae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047964445.1	gb|QDP65904.1|	176	295	94	124	45	75	31	0.59	48.387	18
+WP_047964445.1	gb|QDP63298.1|	176	424	53	87	136	170	35	0.72	37.143	20
+# BLASTP 2.9.0+
+# Query: WP_047965459.1 baseplate J/gp47 family protein [Vogesella sp. EB]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047965459.1	gb|QDP60144.1|	309	309	2	306	8	305	311	1.92e-60	38.585	99
+WP_047965459.1	gb|QDP51266.1|	309	379	198	271	18	92	75	0.89	25.333	24
+# BLASTP 2.9.0+
+# Query: WP_047976416.1 phage tail protein [Muribacter muris]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047976416.1	gb|QDP60145.1|	188	211	21	120	11	109	107	2.11e-05	29.907	53
+WP_047976416.1	gb|QDP54410.1|	188	607	121	147	361	384	27	1.0	44.444	14
+# BLASTP 2.9.0+
+# Query: WP_047977684.1 baseplate J/gp47 family protein [Muribacter muris]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047977684.1	gb|QDP60144.1|	304	309	3	276	6	278	280	8.67e-77	43.929	90
+WP_047977684.1	gb|QDP57637.1|	304	343	163	203	46	87	42	0.94	38.095	13
+# BLASTP 2.9.0+
+# Query: WP_047991469.1 phage tail length tape measure family protein [Achromobacter xylosoxidans]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047991469.1	gb|QDP49893.1|	1867	1611	1707	1850	1466	1605	147	1.71e-19	40.136	8
+WP_047991469.1	gb|QDP53948.1|	1867	1327	998	1191	772	968	200	6.63e-18	27.000	10
+# BLASTP 2.9.0+
+# Query: WP_047991472.1 phage tail protein [Achromobacter xylosoxidans]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047991472.1	gb|QDP62513.1|	215	912	20	109	100	191	92	7.00e-10	36.957	42
+WP_047991472.1	gb|QDP64281.1|	215	813	21	108	102	191	90	1.53e-09	35.556	41
+# BLASTP 2.9.0+
+# Query: WP_048025268.1 MULTISPECIES: baseplate J/gp47 family protein [Burkholderia]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048025268.1	gb|QDP60144.1|	301	309	2	296	4	306	306	2.86e-49	34.967	98
+WP_048025268.1	gb|QDP49237.1|	301	2343	192	270	2248	2338	91	0.97	28.571	26
+# BLASTP 2.9.0+
+# Query: WP_048231037.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231037.1	gb|QDP60146.1|	716	298	8	165	4	161	160	7.49e-26	37.500	22
+WP_048231037.1	gb|QDP64922.1|	716	569	280	374	328	427	100	8.05e-19	48.000	13
+# BLASTP 2.9.0+
+# Query: WP_048231494.1 phage tail protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231494.1	gb|QDP60146.1|	696	298	5	161	4	161	159	1.09e-39	45.912	23
+WP_048231494.1	gb|QDP64922.1|	696	569	224	326	320	427	108	3.83e-18	44.444	15
+# BLASTP 2.9.0+
+# Query: WP_048235762.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048235762.1	gb|QDP60430.1|	688	484	279	348	243	314	78	6.87e-06	39.744	10
+WP_048235762.1	gb|QDP54287.1|	688	425	278	357	15	100	87	0.003	34.483	12
+# BLASTP 2.9.0+
+# Query: WP_048236356.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236356.1	gb|QDP60426.1|	1137	432	905	1136	259	432	247	2.70e-07	24.696	20
+WP_048236356.1	gb|QDP66608.1|	1137	264	905	1023	106	239	145	5.08e-04	26.207	10
+# BLASTP 2.9.0+
+# Query: WP_048236900.1 tail assembly protein, partial [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236900.1	gb|QDP49095.1|	128	268	21	122	4	109	106	3.80e-07	26.415	80
+WP_048236900.1	gb|QDP61615.1|	128	352	54	115	211	262	62	1.5	29.032	48
+# BLASTP 2.9.0+
+# Query: WP_048242643.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048242643.1	gb|QDP49094.1|	183	325	22	97	188	273	86	2.37e-18	45.349	42
+WP_048242643.1	gb|QDP60426.1|	183	432	20	181	256	431	192	2.18e-17	31.250	89
+# BLASTP 2.9.0+
+# Query: WP_048246749.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048246749.1	gb|QDP49095.1|	259	268	1	87	1	89	90	0.23	28.889	34
+WP_048246749.1	gb|QDP54033.1|	259	166	163	186	142	165	24	1.6	50.000	9
+# BLASTP 2.9.0+
+# Query: WP_048248406.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048248406.1	gb|QDP60144.1|	298	309	4	296	8	307	307	6.18e-50	36.808	98
+WP_048248406.1	gb|QDP65664.1|	298	322	37	113	156	225	77	1.3	29.870	26
+# BLASTP 2.9.0+
+# Query: WP_048251465.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251465.1	gb|QDP49095.1|	212	268	1	190	1	184	192	1.59e-05	25.000	90
+WP_048251465.1	gb|QDP54033.1|	212	166	108	186	92	165	79	0.16	31.646	37
+# BLASTP 2.9.0+
+# Query: WP_048251468.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251468.1	gb|QDP60144.1|	304	309	6	295	8	303	297	3.69e-72	43.434	95
+WP_048251468.1	gb|QDP61235.1|	304	3256	29	131	694	805	115	0.83	25.217	34
+# BLASTP 2.9.0+
+# Query: WP_048251594.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251594.1	gb|QDP64922.1|	949	569	250	336	349	435	87	8.40e-22	55.172	9
+WP_048251594.1	gb|QDP50683.1|	949	1202	214	336	195	320	126	8.65e-11	34.921	13
+# BLASTP 2.9.0+
+# Query: WP_048266506.1 tail fiber assembly protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048266506.1	gb|QBX32598.1|	138	314	71	114	148	202	55	0.041	30.909	32
+WP_048266506.1	gb|QDP57323.1|	138	314	46	105	124	198	75	0.18	26.667	43
+# BLASTP 2.9.0+
+# Query: WP_048266854.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048266854.1	gb|QDP60430.1|	792	484	370	454	228	315	94	4.25e-06	32.979	11
+WP_048266854.1	gb|QDP50344.1|	792	171	6	125	5	121	121	0.001	29.752	15
+# BLASTP 2.9.0+
+# Query: WP_048267131.1 tail fiber protein [Escherichia coli]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048267131.1	gb|QDP60146.1|	740	298	8	165	4	161	159	1.54e-25	37.107	21
+WP_048267131.1	gb|QDP64922.1|	740	569	261	374	313	427	119	1.77e-19	45.378	15
+# BLASTP 2.9.0+
+# Query: WP_048275229.1 phage tail protein [Pluralibacter gergoviae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048275229.1	gb|QDP60146.1|	516	298	3	182	2	185	185	6.46e-37	40.541	35
+WP_048275229.1	gb|QDP55463.1|	516	2207	232	395	1200	1375	192	1.16e-16	38.021	32
+# BLASTP 2.9.0+
+# Query: WP_048327812.1 phage protein [Streptococcus dysgalactiae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048327812.1	gb|QDP51988.1|	732	859	56	610	17	586	613	4.66e-08	23.817	76
+WP_048327812.1	gb|QDP63474.1|	732	691	54	381	15	338	346	1.31e-07	23.988	45
+# BLASTP 2.9.0+
+# Query: WP_048355445.1 right-handed parallel beta-helix repeat-containing protein [Bacillus glycinifermentans]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048355445.1	gb|QDP46016.1|	578	725	40	219	272	433	182	1.60e-11	34.066	31
+WP_048355445.1	gb|QDP67498.1|	578	683	44	219	221	372	177	2.62e-11	32.768	30
+# BLASTP 2.9.0+
+# Query: WP_048358120.1 baseplate J/gp47 family protein [Pseudomonas deceptionensis]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048358120.1	gb|QDP60144.1|	296	309	4	292	8	306	299	2.11e-59	36.455	98
+WP_048358120.1	gb|QDP46668.1|	296	269	1	62	101	161	63	3.3	28.571	21
+# BLASTP 2.9.0+
+# Query: WP_048358225.1 hypothetical protein [Pseudomonas deceptionensis]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048358225.1	gb|QDP46019.1|	1018	887	437	1014	314	884	588	1.45e-114	39.456	57
+WP_048358225.1	gb|QDP54806.1|	1018	1046	517	1012	221	724	519	6.46e-22	23.699	49
+# BLASTP 2.9.0+
+# Query: WP_048365734.1 hypothetical protein [Pseudomonas weihenstephanensis]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048365734.1	gb|QDP59467.1|	256	304	97	152	51	109	59	2.38e-07	45.763	22
+WP_048365734.1	gb|QDP62416.1|	256	1956	7	73	1475	1540	67	0.016	37.313	26
+# BLASTP 2.9.0+
+# Query: WP_048368110.1 hypothetical protein, partial [Bacillus sp. LK7]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048368110.1	gb|QDP49473.1|	735	1398	3	532	270	988	722	1.40e-25	38.366	72
+# BLASTP 2.9.0+
+# Query: WP_048369588.1 phage tail protein [Pseudomonas helleri]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048369588.1	gb|QDP60426.1|	537	432	330	537	242	432	218	2.09e-34	37.156	39
+WP_048369588.1	gb|QDP66608.1|	537	264	346	536	108	263	192	1.73e-28	38.021	36
+# BLASTP 2.9.0+
+# Query: WP_048371832.1 hypothetical protein [Pseudomonas helleri]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048371832.1	gb|QDP46019.1|	998	887	455	994	334	884	567	8.87e-64	31.570	54
+WP_048371832.1	gb|QDP54806.1|	998	1046	523	971	229	703	481	1.67e-26	26.195	45
+# BLASTP 2.9.0+
+# Query: WP_048373798.1 hypothetical protein [Bacillus sp. LK2]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048373798.1	gb|QDP67832.1|	312	203	143	220	7	81	78	0.21	30.769	25
+WP_048373798.1	gb|QDP61267.1|	312	223	182	237	52	106	56	0.21	30.357	18
+# BLASTP 2.9.0+
+# Query: WP_048485424.1 hypothetical protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048485424.1	gb|QDP57818.1|	100	3194	19	69	2079	2129	51	0.75	23.529	51
+WP_048485424.1	gb|QDP61245.1|	100	141	25	78	90	141	54	1.4	29.630	54
+# BLASTP 2.9.0+
+# Query: WP_048487176.1 phage tail family protein [Lactobacillus rhamnosus]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048487176.1	gb|QDP66912.1|	685	175	535	579	36	80	45	0.59	33.333	7
+WP_048487176.1	gb|QDP53669.1|	685	161	170	240	61	117	71	6.0	26.761	10
+# BLASTP 2.9.0+
+# Query: WP_048494144.1 hypothetical protein [Marinobacter subterrani]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048494144.1	gb|QDP47085.1|	192	173	75	190	59	173	118	5.29e-05	27.966	60
+WP_048494144.1	gb|QDP54672.1|	192	165	60	133	31	115	86	0.11	27.907	39
+# BLASTP 2.9.0+
+# Query: WP_048532374.1 hypothetical protein [Marinovum algicola]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048532374.1	gb|QDP59381.1|	1107	1102	1	1107	1	1102	1123	0.0	46.483	100
+WP_048532374.1	gb|QDP47464.1|	1107	1133	3	1107	5	1133	1137	0.0	38.083	99
+# BLASTP 2.9.0+
+# Query: WP_048535907.1 hypothetical protein [Marinovum algicola]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048535907.1	gb|QDP66818.1|	89	90	1	85	1	86	86	0.001	26.744	96
+WP_048535907.1	gb|QDP56125.1|	89	87	39	88	37	86	50	0.003	34.000	56
+# BLASTP 2.9.0+
+# Query: WP_048558253.1 phage tail family protein [Bacillus cereus]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558253.1	gb|QDP56473.1|	490	91	402	425	4	27	24	4.1	41.667	5
+WP_048558253.1	gb|QDP48477.1|	490	53	266	289	10	33	24	5.3	41.667	5
+# BLASTP 2.9.0+
+# Query: WP_048558700.1 phage tail protein [Bacillus cereus]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558700.1	gb|QDP58618.1|	1461	924	473	574	648	766	119	0.38	24.370	7
+WP_048558700.1	gb|QDP64365.1|	1461	3437	362	502	1487	1634	159	0.66	22.013	10
+# BLASTP 2.9.0+
+# Query: WP_048558701.1 phage tail family protein [Bacillus cereus]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558701.1	gb|QDP58891.1|	485	435	175	220	54	94	46	1.6	39.130	9
+WP_048558701.1	gb|QDP57182.1|	485	165	38	67	9	38	30	5.5	33.333	6
+# BLASTP 2.9.0+
+# Query: WP_048590847.1 phage tail protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048590847.1	gb|QDP60146.1|	583	298	7	170	4	168	166	9.04e-31	39.157	28
+WP_048590847.1	gb|QDP66608.1|	583	264	351	582	69	264	242	8.62e-07	21.074	40
+# BLASTP 2.9.0+
+# Query: WP_048615875.1 hypothetical protein [Yersinia aleksiciae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048615875.1	gb|QDP49095.1|	205	268	17	135	4	131	128	6.17e-18	37.500	58
+WP_048615875.1	gb|QDP54954.1|	205	157	123	185	103	156	63	2.52e-04	34.921	31
+# BLASTP 2.9.0+
+# Query: WP_048619993.1 phage tail protein [Yersinia aleksiciae]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048619993.1	gb|QDP54954.1|	159	157	77	139	103	156	63	0.008	31.746	40
+WP_048619993.1	gb|QDP57559.1|	159	157	77	139	103	156	63	0.008	31.746	40
+# BLASTP 2.9.0+
+# Query: WP_048639094.1 tail fiber protein [Brenneria goodwinii]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048639094.1	gb|QDP66985.1|	684	306	55	318	41	306	288	3.60e-11	26.042	39
+WP_048639094.1	gb|QDP60426.1|	684	432	170	317	257	431	180	1.39e-08	26.667	22
+# BLASTP 2.9.0+
+# Query: WP_048663532.1 tail fiber protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048663532.1	gb|QDP60426.1|	158	432	5	156	256	431	179	1.67e-23	37.989	96
+WP_048663532.1	gb|QDP49094.1|	158	325	7	156	188	324	160	1.08e-20	36.250	95
+# BLASTP 2.9.0+
+# Query: WP_048665912.1 tail fiber domain-containing protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048665912.1	gb|QDP63466.1|	908	1303	777	885	1211	1303	109	8.58e-10	32.110	12
+WP_048665912.1	gb|QDP51364.1|	908	540	773	883	443	536	111	1.27e-09	32.432	12
+# BLASTP 2.9.0+
+# Query: WP_048668118.1 phage tail protein [Salmonella enterica]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048668118.1	gb|QDP60146.1|	721	298	8	163	4	159	157	1.10e-25	37.580	22
+WP_048668118.1	gb|QDP64922.1|	721	569	217	330	313	427	119	2.04e-19	45.378	16
+# BLASTP 2.9.0+
+# Query: WP_048710785.1 tail fiber domain-containing protein [Microvirga massiliensis]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048710785.1	gb|QDP63466.1|	1091	1303	994	1089	1198	1293	96	1.59e-17	41.667	9
+WP_048710785.1	gb|QDP51364.1|	1091	540	1006	1090	446	529	85	1.88e-10	32.941	8
+# BLASTP 2.9.0+
+# Query: WP_048723927.1 phage tail family protein [Bacillus cytotoxicus]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048723927.1	gb|QDP52347.1|	497	100	24	55	44	75	32	0.81	40.625	6
+WP_048723927.1	gb|QDP56023.1|	497	635	310	379	429	511	84	1.0	30.952	14
+# BLASTP 2.9.0+
+# Query: WP_048731243.1 tail tubular protein A [Pseudomonas sp. KG01]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048731243.1	gb|QDP62659.1|	192	206	13	181	8	187	180	6.04e-32	33.333	88
+WP_048731243.1	gb|QDP58035.1|	192	193	1	176	1	170	180	1.13e-31	37.222	92
+# BLASTP 2.9.0+
+# Query: WP_048731244.1 hypothetical protein [Pseudomonas sp. KG01]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048731244.1	gb|QDP57814.1|	794	813	1	784	1	802	823	1.57e-116	31.227	99
+WP_048731244.1	gb|QDP45906.1|	794	836	3	791	2	831	850	1.50e-109	29.412	99
+# BLASTP 2.9.0+
+# Query: WP_048748618.1 hypothetical protein [Paenibacillus sp. P22]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048748618.1	gb|QDP49473.1|	477	1398	186	323	641	808	168	3.65e-14	41.071	29
+WP_048748618.1	gb|QDP62958.1|	477	280	179	238	11	70	60	1.80e-04	43.333	13
+# BLASTP 2.9.0+
+# Query: WP_048765510.1 baseplate J/gp47 family protein [Acinetobacter sp. 243_ASPC]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048765510.1	gb|QDP60144.1|	300	309	2	290	7	298	302	9.48e-49	33.113	96
+WP_048765510.1	gb|QDP48504.1|	300	147	40	89	58	111	55	4.2	32.727	17
+# BLASTP 2.9.0+
+# Query: WP_048766108.1 tail protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048766108.1	gb|QDP47070.1|	1010	1174	164	802	298	933	649	3.46e-114	35.901	63
+WP_048766108.1	gb|QDP68212.1|	1010	1116	2	728	4	771	779	1.19e-87	29.268	72
+# BLASTP 2.9.0+
+# Query: WP_048766115.1 hypothetical protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048766115.1	gb|QDP47070.1|	1007	1174	163	799	298	933	653	6.79e-121	36.141	63
+WP_048766115.1	gb|QDP68212.1|	1007	1116	18	724	22	769	762	7.78e-85	28.084	70
+# BLASTP 2.9.0+
+# Query: WP_048805723.1 tail fiber assembly protein [Burkholderia multivorans]
+# Database: govp
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048805723.1	gb|QDP49095.1|	283	268	1	108	1	108	110	0.006	28.182	38
+WP_048805723.1	gb|QDP66645.1|	283	314	210	268	36	91	61	2.1	26.230	21
+# BLAST processed 157 queries

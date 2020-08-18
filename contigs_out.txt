@@ -1,0 +1,1075 @@
+# TBLASTN 2.9.0+
+# Query: WP_000072167.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000072167.1	QUINN_env_virus_005_139333	204	6327	103	132	95	6	30	1.3	43.333	15
+WP_000072167.1	QUINN_env_virus_005_096901	204	3137	4	78	633	415	75	2.2	28.000	37
+# TBLASTN 2.9.0+
+# Query: WP_000514854.1 host specificity protein J [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000514854.1	QUINN_env_virus_005_044595	1158	9863	24	618	2346	496	636	1.18e-34	25.000	51
+WP_000514854.1	QUINN_env_virus_005_002999	1158	940	204	497	33	890	306	2.28e-26	26.797	25
+# TBLASTN 2.9.0+
+# Query: WP_000930006.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000930006.1	QUINN_env_virus_005_074800	187	393	92	118	138	55	28	0.76	50.000	14
+WP_000930006.1	QUINN_env_virus_005_063414	187	304	57	95	39	140	39	3.0	35.897	21
+# TBLASTN 2.9.0+
+# Query: WP_000972134.1 MULTISPECIES: tail fiber assembly protein [Enterobacteriaceae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_000972134.1	QUINN_env_virus_005_020510	177	37643	13	119	20864	20550	109	0.25	22.936	60
+WP_000972134.1	QUINN_env_virus_005_074800	177	393	80	106	138	55	28	2.2	50.000	15
+# TBLASTN 2.9.0+
+# Query: WP_001024006.1 MULTISPECIES: phage tail fiber C-terminal domain-containing protein [Gammaproteobacteria]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001024006.1	QUINN_env_virus_005_081472	89	302	9	64	92	280	63	0.033	31.746	63
+WP_001024006.1	QUINN_env_virus_005_099708	89	324	53	86	157	50	36	0.58	30.556	38
+# TBLASTN 2.9.0+
+# Query: WP_001133967.1 MULTISPECIES: baseplate J/gp47 family protein [Escherichia]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_001133967.1	QUINN_env_virus_005_021482	306	3343	121	188	124	324	72	7.6	27.778	22
+# TBLASTN 2.9.0+
+# Query: WP_001286322.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001286322.1	QUINN_env_virus_005_100432	144	489	55	110	168	335	56	0.100	26.786	39
+WP_001286322.1	QUINN_env_virus_005_180539	144	2384	101	140	352	471	40	0.80	40.000	28
+# TBLASTN 2.9.0+
+# Query: WP_001297572.1 MULTISPECIES: baseplate J/gp47 family protein [Enterobacteriaceae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_001297572.1	QUINN_env_virus_005_151695	298	666	225	256	180	278	33	5.8	48.485	11
+# TBLASTN 2.9.0+
+# Query: WP_001524115.1 tail fiber assembly protein [Shigella flexneri]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001524115.1	QUINN_env_virus_005_065734	133	966	40	114	206	427	78	0.93	32.051	56
+WP_001524115.1	QUINN_env_virus_005_055378	133	501	31	81	287	439	51	7.5	31.373	38
+# TBLASTN 2.9.0+
+# Query: WP_001706448.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_001706448.1	QUINN_env_virus_005_049187	911	758	655	734	319	549	80	6.4	35.000	9
+WP_001706448.1	QUINN_env_virus_005_182445	911	487	575	602	439	356	28	6.7	50.000	3
+# TBLASTN 2.9.0+
+# Query: WP_003117973.1 MULTISPECIES: C40 family peptidase [Pseudomonas]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_003117973.1	QUINN_env_virus_005_056753	256	433	119	159	187	71	41	0.014	43.902	16
+WP_003117973.1	QUINN_env_virus_005_044595	256	9863	127	167	3230	3108	41	0.081	34.146	16
+# TBLASTN 2.9.0+
+# Query: WP_003759716.1 MULTISPECIES: hypothetical protein [Listeria]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_003759716.1	QUINN_env_virus_005_150453	113	304	79	111	137	235	33	4.3	39.394	29
+# TBLASTN 2.9.0+
+# Query: WP_004722849.1 hypothetical protein [Yersinia ruckeri]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_004722849.1	QUINN_env_virus_005_086021	165	1168	133	154	1091	1156	22	3.6	59.091	13
+WP_004722849.1	QUINN_env_virus_005_163326	165	315	95	124	97	2	32	4.4	37.500	18
+# TBLASTN 2.9.0+
+# Query: WP_012303821.1 MULTISPECIES: hypothetical protein [Yersinia pseudotuberculosis complex]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012303821.1	QUINN_env_virus_005_009837	146	455	15	78	235	41	66	0.94	36.364	44
+WP_012303821.1	QUINN_env_virus_005_025142	146	460	67	100	171	272	34	8.1	41.176	23
+# TBLASTN 2.9.0+
+# Query: WP_012849301.1 MULTISPECIES: host specificity protein J [Edwardsiella]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012849301.1	QUINN_env_virus_005_044595	1031	9863	20	528	2358	718	548	3.10e-34	24.818	49
+WP_012849301.1	QUINN_env_virus_005_002999	1031	940	204	511	33	938	321	7.69e-23	25.857	30
+# TBLASTN 2.9.0+
+# Query: WP_012987783.1 host specificity protein J [Xenorhabdus bovienii]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_012987783.1	QUINN_env_virus_005_044595	1045	9863	21	499	2355	838	508	1.62e-30	24.409	46
+WP_012987783.1	QUINN_env_virus_005_048885	1045	1778	258	498	378	1106	248	2.36e-24	29.435	23
+# TBLASTN 2.9.0+
+# Query: WP_016063193.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016063193.1	QUINN_env_virus_005_040924	194	1158	22	87	562	750	68	0.58	29.412	34
+WP_016063193.1	QUINN_env_virus_005_137200	194	356	65	102	157	267	38	1.4	42.105	20
+# TBLASTN 2.9.0+
+# Query: WP_016249384.1 MULTISPECIES: phage tail protein I [Escherichia]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016249384.1	QUINN_env_virus_005_027787	176	1016	63	99	350	460	37	0.84	29.730	21
+WP_016249384.1	QUINN_env_virus_005_033446	176	1587	19	109	917	666	94	2.4	27.660	52
+# TBLASTN 2.9.0+
+# Query: WP_016716825.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_016716825.1	QUINN_env_virus_005_106266	491	1251	40	140	1161	862	103	0.11	26.214	21
+WP_016716825.1	QUINN_env_virus_005_147753	491	1691	65	164	823	524	102	1.1	29.412	20
+# TBLASTN 2.9.0+
+# Query: WP_017218926.1 MULTISPECIES: baseplate J/gp47 family protein [Pseudoalteromonas]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_017218926.1	QUINN_env_virus_005_036526	280	3310	70	112	1361	1489	43	2.0	37.209	15
+WP_017218926.1	QUINN_env_virus_005_049413	280	1588	204	276	1325	1038	96	8.9	20.833	26
+# TBLASTN 2.9.0+
+# Query: WP_017765307.1 MULTISPECIES: baseplate J/gp47 family protein [Aeromonas]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_017765307.1	QUINN_env_virus_005_090771	299	8664	93	137	7401	7535	45	0.92	28.889	15
+WP_017765307.1	QUINN_env_virus_005_071064	299	1151	78	159	375	112	90	1.9	30.000	27
+# TBLASTN 2.9.0+
+# Query: WP_021729012.1 MULTISPECIES: phage tail family protein [Bacillus cereus group]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_021729012.1	QUINN_env_virus_005_151220	492	314	87	155	35	238	71	0.90	32.394	14
+WP_021729012.1	QUINN_env_virus_005_147753	492	1691	77	127	796	647	51	0.95	35.294	10
+# TBLASTN 2.9.0+
+# Query: WP_023277167.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_023277167.1	QUINN_env_virus_005_132648	310	830	11	108	709	440	98	0.14	25.510	32
+WP_023277167.1	QUINN_env_virus_005_079137	310	885	45	80	100	207	36	1.7	41.667	12
+# TBLASTN 2.9.0+
+# Query: WP_025423029.1 host specificity protein J [Sodalis praecaptivus]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_025423029.1	QUINN_env_virus_005_044595	1042	9863	25	594	2346	562	597	2.31e-34	24.456	55
+WP_025423029.1	QUINN_env_virus_005_170536	1042	5115	155	658	2343	3821	526	2.64e-24	23.384	48
+# TBLASTN 2.9.0+
+# Query: WP_032673287.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_032673287.1	QUINN_env_virus_005_018154	143	1055	15	94	549	271	93	0.11	23.656	56
+WP_032673287.1	QUINN_env_virus_005_059621	143	670	52	107	501	343	56	2.3	28.571	39
+# TBLASTN 2.9.0+
+# Query: WP_032679843.1 MULTISPECIES: tail fiber assembly protein [Enterobacter cloacae complex]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_032679843.1	QUINN_env_virus_005_147708	157	2841	39	70	824	729	32	0.97	46.875	20
+WP_032679843.1	QUINN_env_virus_005_103701	157	599	79	126	328	188	48	1.8	35.417	31
+# TBLASTN 2.9.0+
+# Query: WP_036414555.1 host specificity protein J [Morganella morganii]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_036414555.1	QUINN_env_virus_005_044595	1044	9863	21	580	2355	595	595	1.82e-37	26.218	54
+WP_036414555.1	QUINN_env_virus_005_170536	1044	5115	178	575	2415	3614	420	1.22e-21	25.238	38
+# TBLASTN 2.9.0+
+# Query: WP_042659516.1 MULTISPECIES: tail fiber assembly protein [Yersinia pseudotuberculosis complex]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_042659516.1	QUINN_env_virus_005_060466	218	1095	5	71	471	701	79	0.16	35.443	31
+WP_042659516.1	QUINN_env_virus_005_167266	218	432	28	85	226	399	58	0.76	29.310	27
+# TBLASTN 2.9.0+
+# Query: WP_045190581.1 hypothetical protein [Pseudomonas sp. 5]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_045190581.1	QUINN_env_virus_005_164591	145	596	77	127	243	386	51	0.25	35.294	35
+WP_045190581.1	QUINN_env_virus_005_138919	145	602	40	118	372	602	79	3.7	18.987	54
+# TBLASTN 2.9.0+
+# Query: WP_045718260.1 hypothetical protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_045718260.1	QUINN_env_virus_005_143296	134	2031	90	131	2016	1891	42	2.26e-06	64.286	31
+WP_045718260.1	QUINN_env_virus_005_012106	134	334	69	131	308	132	65	0.021	47.692	47
+# TBLASTN 2.9.0+
+# Query: WP_047064609.1 hypothetical protein [Klebsiella aerogenes]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047064609.1	QUINN_env_virus_005_034716	168	429	142	165	348	419	24	0.085	75.000	14
+WP_047064609.1	QUINN_env_virus_005_143296	168	2031	142	165	1683	1612	24	0.16	75.000	14
+# TBLASTN 2.9.0+
+# Query: WP_047378479.1 tail fiber protein, partial [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047378479.1	QUINN_env_virus_005_116264	199	667	74	143	521	312	70	0.012	48.571	35
+WP_047378479.1	QUINN_env_virus_005_140465	199	210	77	144	209	12	76	0.073	43.421	34
+# TBLASTN 2.9.0+
+# Query: WP_047403075.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047403075.1	QUINN_env_virus_005_102054	197	16268	1	142	4295	3849	161	0.32	24.224	72
+WP_047403075.1	QUINN_env_virus_005_019965	197	604	80	169	583	326	90	2.3	25.556	46
+# TBLASTN 2.9.0+
+# Query: WP_047418019.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047418019.1	QUINN_env_virus_005_092838	1055	1693	230	258	348	434	29	1.1	48.276	3
+WP_047418019.1	QUINN_env_virus_005_144304	1055	868	63	189	861	478	131	2.1	26.718	12
+# TBLASTN 2.9.0+
+# Query: WP_047463064.1 phage tail protein [Citrobacter koseri]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047463064.1	QUINN_env_virus_005_160552	517	6834	313	385	3946	4212	93	0.095	31.183	14
+WP_047463064.1	QUINN_env_virus_005_169102	517	4473	469	491	1617	1549	23	0.65	60.870	4
+# TBLASTN 2.9.0+
+# Query: WP_047501638.1 phage tail length tape measure family protein [Citrobacter braakii]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047501638.1	QUINN_env_virus_005_089903	1067	3658	87	131	503	369	45	0.54	42.222	4
+WP_047501638.1	QUINN_env_virus_005_159135	1067	1120	155	209	364	540	59	1.2	33.898	5
+# TBLASTN 2.9.0+
+# Query: WP_047506852.1 hypothetical protein [Rhizobium sp. YR528]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047506852.1	QUINN_env_virus_005_031449	87	7928	22	84	3179	2994	63	2.25e-07	44.444	72
+WP_047506852.1	QUINN_env_virus_005_122589	87	1332	22	86	928	1122	65	6.15e-07	41.538	75
+# TBLASTN 2.9.0+
+# Query: WP_047533231.1 hypothetical protein [Shewanella sp. ZOR0012]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047533231.1	QUINN_env_virus_005_143296	220	2031	50	80	1722	1630	31	0.22	48.387	14
+WP_047533231.1	QUINN_env_virus_005_038609	220	3713	11	61	287	469	61	0.74	29.508	23
+# TBLASTN 2.9.0+
+# Query: WP_047541866.1 baseplate J/gp47 family protein [Pseudomonas simiae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047541866.1	QUINN_env_virus_005_041100	295	1133	31	116	10	255	91	2.8	28.571	29
+WP_047541866.1	QUINN_env_virus_005_066480	295	1805	144	183	121	240	40	3.3	40.000	14
+# TBLASTN 2.9.0+
+# Query: WP_047565225.1 prophage tail fiber N-terminal domain-containing protein [Shigella sonnei]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047565225.1	QUINN_env_virus_005_011082	388	318	255	287	40	138	33	0.49	39.394	9
+WP_047565225.1	QUINN_env_virus_005_175399	388	1259	179	290	657	1031	134	1.4	27.612	29
+# TBLASTN 2.9.0+
+# Query: WP_047570873.1 baseplate J/gp47 family protein [Serratia marcescens]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047570873.1	QUINN_env_virus_005_063325	305	450	37	141	372	61	106	0.99	27.358	34
+# TBLASTN 2.9.0+
+# Query: WP_047587336.1 macro domain-containing protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047587336.1	QUINN_env_virus_005_064299	274	13752	42	175	11595	11221	139	9.36e-10	33.813	49
+WP_047587336.1	QUINN_env_virus_005_058055	274	950	36	169	266	649	139	9.83e-09	32.374	49
+# TBLASTN 2.9.0+
+# Query: WP_047588350.1 host specificity protein J [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047588350.1	QUINN_env_virus_005_044595	1120	9863	24	634	2346	442	648	1.12e-29	24.691	55
+WP_047588350.1	QUINN_env_virus_005_002999	1120	940	204	497	33	890	306	4.28e-28	28.105	26
+# TBLASTN 2.9.0+
+# Query: WP_047592509.1 tail fiber assembly protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047592509.1	QUINN_env_virus_005_150751	172	415	13	70	13	213	71	0.091	29.577	34
+WP_047592509.1	QUINN_env_virus_005_157446	172	543	54	98	296	165	45	3.5	31.111	26
+# TBLASTN 2.9.0+
+# Query: WP_047592512.1 tail fiber assembly protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047592512.1	QUINN_env_virus_005_111421	177	1757	21	97	645	821	77	0.57	32.468	44
+WP_047592512.1	QUINN_env_virus_005_123006	177	878	42	97	877	719	59	1.3	30.508	32
+# TBLASTN 2.9.0+
+# Query: WP_047594313.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047594313.1	QUINN_env_virus_005_169102	809	4473	753	783	1641	1549	31	2.7	48.387	4
+WP_047594313.1	QUINN_env_virus_005_054878	809	1008	681	808	451	855	144	7.9	28.472	16
+# TBLASTN 2.9.0+
+# Query: WP_047606624.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047606624.1	QUINN_env_virus_005_138724	1009	3354	637	773	2428	2769	137	2.04e-07	40.876	14
+WP_047606624.1	QUINN_env_virus_005_175011	1009	27248	702	773	15916	16107	72	4.39e-05	43.056	7
+# TBLASTN 2.9.0+
+# Query: WP_047609716.1 tail fiber assembly protein [Rahnella aquatilis]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047609716.1	QUINN_env_virus_005_098698	172	1681	6	61	1537	1370	56	0.013	32.143	33
+WP_047609716.1	QUINN_env_virus_005_090668	172	490	42	99	240	64	59	0.85	32.203	34
+# TBLASTN 2.9.0+
+# Query: WP_047615099.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615099.1	QUINN_env_virus_005_064940	736	9983	158	230	4768	4541	76	0.14	35.526	10
+WP_047615099.1	QUINN_env_virus_005_170149	736	655	381	469	414	142	96	4.3	32.292	12
+# TBLASTN 2.9.0+
+# Query: WP_047615608.1 host specificity protein J [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047615608.1	QUINN_env_virus_005_044595	1165	9863	24	539	2346	751	546	1.31e-32	26.374	44
+WP_047615608.1	QUINN_env_virus_005_002999	1165	940	204	508	33	923	318	3.22e-23	26.101	26
+# TBLASTN 2.9.0+
+# Query: WP_047619258.1 tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047619258.1	QUINN_env_virus_005_023556	238	2893	167	201	1610	1503	36	4.4	38.889	15
+# TBLASTN 2.9.0+
+# Query: WP_047629926.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047634918.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047634918.1	QUINN_env_virus_005_158728	655	1350	263	341	877	638	80	0.79	27.500	12
+WP_047634918.1	QUINN_env_virus_005_106777	655	333	136	156	227	165	21	5.1	71.429	3
+# TBLASTN 2.9.0+
+# Query: WP_047641366.1 immunoglobulin domain-containing protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047641366.1	QUINN_env_virus_005_048090	245	396	104	138	161	271	37	0.55	32.432	14
+WP_047641366.1	QUINN_env_virus_005_109308	245	363	93	138	49	186	46	0.63	26.087	19
+# TBLASTN 2.9.0+
+# Query: WP_047647962.1 phage tail protein [Enterobacter asburiae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047647962.1	QUINN_env_virus_005_067344	223	1632	141	182	181	318	46	2.2	32.609	19
+WP_047647962.1	QUINN_env_virus_005_147439	223	742	15	89	554	318	81	3.0	28.395	34
+# TBLASTN 2.9.0+
+# Query: WP_047649426.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047649426.1	QUINN_env_virus_005_185231	528	33712	359	526	25389	24871	204	2.70e-11	27.451	32
+WP_047649426.1	QUINN_env_virus_005_127227	528	527	358	422	197	421	75	1.13e-06	38.667	12
+# TBLASTN 2.9.0+
+# Query: WP_047650743.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047650743.1	QUINN_env_virus_005_021171	1091	346	694	727	300	199	34	3.60e-05	64.706	3
+WP_047650743.1	QUINN_env_virus_005_044074	1091	407	685	728	73	213	47	3.92e-05	53.191	4
+# TBLASTN 2.9.0+
+# Query: WP_047651134.1 phage tail protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047651134.1	QUINN_env_virus_005_185231	328	33712	180	250	25413	25180	81	3.68e-05	32.099	22
+WP_047651134.1	QUINN_env_virus_005_127227	328	527	184	253	179	418	80	4.05e-05	32.500	21
+# TBLASTN 2.9.0+
+# Query: WP_047652060.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652060.1	QUINN_env_virus_005_044074	975	407	611	655	85	219	45	8.01e-05	57.778	5
+WP_047652060.1	QUINN_env_virus_005_175011	975	27248	624	663	16027	16146	40	0.008	60.000	4
+# TBLASTN 2.9.0+
+# Query: WP_047652160.1 hypothetical protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652160.1	QUINN_env_virus_005_019048	470	43270	3	67	31109	31297	65	4.20e-04	44.615	14
+WP_047652160.1	QUINN_env_virus_005_079985	470	342	3	67	272	84	65	5.33e-04	43.077	14
+# TBLASTN 2.9.0+
+# Query: WP_047652789.1 tail fiber assembly protein [Enterobacter sp. UCD-UG_FMILLET]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047652789.1	QUINN_env_virus_005_142277	124	325	64	97	148	47	34	1.2	32.353	27
+WP_047652789.1	QUINN_env_virus_005_059456	124	5200	60	110	1379	1534	52	1.4	32.692	41
+# TBLASTN 2.9.0+
+# Query: WP_047653121.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047653121.1	QUINN_env_virus_005_034742	147	6638	5	116	3248	3571	114	0.75	27.193	76
+WP_047653121.1	QUINN_env_virus_005_116797	147	861	24	60	492	382	37	0.91	37.838	25
+# TBLASTN 2.9.0+
+# Query: WP_047655321.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047655321.1	QUINN_env_virus_005_001282	391	314	185	198	57	98	14	1.9	92.857	4
+WP_047655321.1	QUINN_env_virus_005_180706	391	39140	106	195	2019	1750	91	3.7	28.571	23
+# TBLASTN 2.9.0+
+# Query: WP_047656959.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047656959.1	QUINN_env_virus_005_168236	175	558	16	84	194	400	69	0.057	28.986	39
+WP_047656959.1	QUINN_env_virus_005_030508	175	1315	60	95	351	452	36	2.6	38.889	21
+# TBLASTN 2.9.0+
+# Query: WP_047657307.1 prophage tail fiber N-terminal domain-containing protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657307.1	QUINN_env_virus_005_077836	831	5516	497	594	3283	3585	108	3.88e-05	34.259	12
+WP_047657307.1	QUINN_env_virus_005_169102	831	4473	775	805	1641	1549	31	2.4	48.387	4
+# TBLASTN 2.9.0+
+# Query: WP_047657742.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657742.1	QUINN_env_virus_005_169102	524	4473	469	504	1680	1558	41	1.62e-04	58.537	7
+WP_047657742.1	QUINN_env_virus_005_061939	524	2437	464	501	1835	1942	38	0.009	55.263	7
+# TBLASTN 2.9.0+
+# Query: WP_047657854.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047657854.1	QUINN_env_virus_005_047042	681	1532	419	458	1013	894	40	3.6	42.500	6
+WP_047657854.1	QUINN_env_virus_005_064940	681	9983	158	229	4768	4544	75	5.0	33.333	11
+# TBLASTN 2.9.0+
+# Query: WP_047658478.1 tail fiber assembly protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047658478.1	QUINN_env_virus_005_167421	136	377	62	83	180	115	22	1.3	54.545	16
+WP_047658478.1	QUINN_env_virus_005_081363	136	778	2	87	70	303	93	1.8	31.183	63
+# TBLASTN 2.9.0+
+# Query: WP_047659090.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047659090.1	QUINN_env_virus_005_170149	772	655	399	485	360	94	94	3.73e-04	38.298	11
+WP_047659090.1	QUINN_env_virus_005_064940	772	9983	158	229	4768	4544	75	0.86	34.667	9
+# TBLASTN 2.9.0+
+# Query: WP_047660148.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660148.1	QUINN_env_virus_005_094907	197	1302	19	50	689	784	32	7.3	37.500	16
+WP_047660148.1	QUINN_env_virus_005_016080	197	843	69	115	192	332	47	7.4	29.787	24
+# TBLASTN 2.9.0+
+# Query: WP_047660222.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660222.1	QUINN_env_virus_005_119838	709	3009	500	531	1220	1125	32	1.1	43.750	5
+WP_047660222.1	QUINN_env_virus_005_051389	709	725	209	330	347	667	123	1.9	26.016	17
+# TBLASTN 2.9.0+
+# Query: WP_047660798.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047660798.1	QUINN_env_virus_005_169102	774	4473	666	751	1740	1519	86	1.26e-04	41.860	11
+WP_047660798.1	QUINN_env_virus_005_127227	774	527	531	577	200	370	57	0.20	35.088	6
+# TBLASTN 2.9.0+
+# Query: WP_047661763.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047661763.1	QUINN_env_virus_005_106861	178	2419	87	144	1422	1243	60	1.8	30.000	33
+WP_047661763.1	QUINN_env_virus_005_181164	178	655	10	49	316	197	40	2.6	32.500	22
+# TBLASTN 2.9.0+
+# Query: WP_047662599.1 tail fiber domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662599.1	QUINN_env_virus_005_038804	448	21453	275	405	20115	20459	134	2.74e-05	29.104	29
+WP_047662599.1	QUINN_env_virus_005_028937	448	7719	304	405	289	540	102	2.93e-05	32.353	23
+# TBLASTN 2.9.0+
+# Query: WP_047662788.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047662788.1	QUINN_env_virus_005_167997	299	349	236	264	156	70	29	8.2	41.379	10
+# TBLASTN 2.9.0+
+# Query: WP_047662962.1 phage tail protein [Klebsiella pneumoniae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047662962.1	QUINN_env_virus_005_001282	394	314	185	237	57	257	67	2.16e-04	43.284	13
+WP_047662962.1	QUINN_env_virus_005_069180	394	402	114	153	257	132	42	0.46	40.476	10
+# TBLASTN 2.9.0+
+# Query: WP_047667847.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047667847.1	QUINN_env_virus_005_099803	198	327	140	167	110	27	28	0.29	39.286	14
+WP_047667847.1	QUINN_env_virus_005_053311	198	368	15	92	131	361	80	0.37	30.000	39
+# TBLASTN 2.9.0+
+# Query: WP_047668015.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668015.1	QUINN_env_virus_005_104288	175	3513	71	130	31	228	68	0.47	29.412	34
+WP_047668015.1	QUINN_env_virus_005_169935	175	2105	62	122	1772	1605	61	0.91	29.508	35
+# TBLASTN 2.9.0+
+# Query: WP_047668184.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047668184.1	QUINN_env_virus_005_185231	155	33712	8	67	25389	25180	70	2.30e-08	38.571	39
+WP_047668184.1	QUINN_env_virus_005_127227	155	527	7	71	197	421	75	3.36e-07	37.333	42
+# TBLASTN 2.9.0+
+# Query: WP_047670712.1 baseplate J/gp47 family protein [Klebsiella pneumoniae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047670712.1	QUINN_env_virus_005_028401	307	5264	167	199	2452	2550	33	2.2	39.394	11
+WP_047670712.1	QUINN_env_virus_005_042722	307	412	172	199	151	234	28	3.4	50.000	9
+# TBLASTN 2.9.0+
+# Query: WP_047671682.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047671682.1	QUINN_env_virus_005_170149	861	655	559	629	360	142	77	0.13	37.662	8
+WP_047671682.1	QUINN_env_virus_005_166915	861	2073	524	558	1484	1386	35	2.2	40.000	4
+# TBLASTN 2.9.0+
+# Query: WP_047675600.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047675600.1	QUINN_env_virus_005_169102	309	4473	245	284	1665	1546	40	0.099	47.500	13
+WP_047675600.1	QUINN_env_virus_005_006536	309	327	117	162	234	85	50	0.12	36.000	15
+# TBLASTN 2.9.0+
+# Query: WP_047675606.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047675606.1	QUINN_env_virus_005_068045	474	2632	344	412	345	169	69	5.8	24.638	15
+# TBLASTN 2.9.0+
+# Query: WP_047680427.1 C40 family peptidase [Xenorhabdus sp. NBAII XenSa04]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047680427.1	QUINN_env_virus_005_143916	233	498	3	40	106	5	38	0.003	42.105	16
+WP_047680427.1	QUINN_env_virus_005_091565	233	961	112	200	439	717	95	0.011	28.421	38
+# TBLASTN 2.9.0+
+# Query: WP_047698164.1 baseplate J/gp47 family protein [Xanthomonas vasicola]
+# Database: contigs
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047698631.1 host specificity protein J [Pseudomonas mediterranea]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698631.1	QUINN_env_virus_005_044595	1030	9863	31	751	2349	190	763	2.77e-28	23.722	70
+WP_047698631.1	QUINN_env_virus_005_092371	1030	731	315	516	651	46	210	6.62e-12	26.667	20
+# TBLASTN 2.9.0+
+# Query: WP_047698653.1 phage tail protein [Pseudomonas mediterranea]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047698653.1	QUINN_env_virus_005_079137	217	885	44	79	100	207	36	1.1	44.444	17
+WP_047698653.1	QUINN_env_virus_005_034826	217	5484	156	216	1512	1694	61	9.8	29.508	28
+# TBLASTN 2.9.0+
+# Query: WP_047701979.1 phage tail protein [Pseudomonas mediterranea]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047701979.1	QUINN_env_virus_005_082209	642	526	180	268	51	338	96	7.10e-13	40.625	14
+WP_047701979.1	QUINN_env_virus_005_107219	642	27685	181	269	15476	15195	96	1.11e-11	42.708	14
+# TBLASTN 2.9.0+
+# Query: WP_047714565.1 baseplate J/gp47 family protein [Pantoea ananatis]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047714565.1	QUINN_env_virus_005_039367	305	706	189	221	602	700	33	0.56	39.394	11
+WP_047714565.1	QUINN_env_virus_005_057564	305	616	183	286	216	554	119	8.1	25.210	34
+# TBLASTN 2.9.0+
+# Query: WP_047716000.1 phage tail protein [Streptococcus pyogenes]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047716000.1	QUINN_env_virus_005_041506	684	956	598	680	319	71	85	0.88	28.235	12
+WP_047716000.1	QUINN_env_virus_005_074629	684	17803	557	673	14506	14159	117	5.4	25.641	17
+# TBLASTN 2.9.0+
+# Query: WP_047720857.1 C40 family peptidase [Klebsiella oxytoca]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047720857.1	QUINN_env_virus_005_022466	245	381	115	233	380	6	128	6.84e-05	26.562	49
+WP_047720857.1	QUINN_env_virus_005_143916	245	498	9	40	88	5	32	0.006	50.000	13
+# TBLASTN 2.9.0+
+# Query: WP_047730209.1 C40 family peptidase [Serratia marcescens]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047730209.1	QUINN_env_virus_005_091565	234	961	124	199	493	717	76	1.47e-05	31.579	32
+WP_047730209.1	QUINN_env_virus_005_022455	234	711	91	216	638	165	164	7.96e-05	28.049	54
+# TBLASTN 2.9.0+
+# Query: WP_047780218.1 phage tail protein [Pragia fontium]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047780218.1	QUINN_env_virus_005_157951	219	346	175	199	64	138	25	3.4	36.000	11
+WP_047780218.1	QUINN_env_virus_005_151954	219	1560	14	99	632	910	93	4.9	22.581	39
+# TBLASTN 2.9.0+
+# Query: WP_047780224.1 C40 family peptidase [Pragia fontium]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047780224.1	QUINN_env_virus_005_022466	237	381	125	231	332	9	110	2.12e-05	31.818	45
+WP_047780224.1	QUINN_env_virus_005_143916	237	498	9	40	88	5	32	0.021	46.875	14
+# TBLASTN 2.9.0+
+# Query: WP_047842328.1 S-layer homology domain-containing protein [Paenibacillus sp. VT-400]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047842328.1	QUINN_env_virus_005_058275	2682	421	1365	1440	149	370	76	6.42e-10	43.421	3
+WP_047842328.1	QUINN_env_virus_005_085421	2682	3667	1213	1440	2022	1390	230	1.07e-09	26.957	9
+# TBLASTN 2.9.0+
+# Query: WP_047885557.1 baseplate J/gp47 family protein [Photobacterium ganghwense]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047885557.1	QUINN_env_virus_005_080746	297	386	114	180	335	135	67	0.063	31.343	23
+WP_047885557.1	QUINN_env_virus_005_009949	297	1355	87	128	1219	1091	43	0.095	37.209	14
+# TBLASTN 2.9.0+
+# Query: WP_047905345.1 hypothetical protein [Pandoraea faecigallinarum]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047905345.1	QUINN_env_virus_005_173509	853	1426	389	842	1297	5	465	1.41e-20	21.720	53
+WP_047905345.1	QUINN_env_virus_005_054066	853	1510	113	164	1164	1009	52	7.1	32.692	6
+# TBLASTN 2.9.0+
+# Query: WP_047925204.1 baseplate J/gp47 family protein [Pseudomonas aeruginosa]
+# Database: contigs
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_047936535.1 tail protein [Acinetobacter baumannii]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047936535.1	QUINN_env_virus_005_044595	3032	9863	56	732	2259	169	708	4.14e-35	24.435	22
+WP_047936535.1	QUINN_env_virus_005_170536	3032	5115	188	603	2421	3665	435	7.46e-18	23.678	14
+# TBLASTN 2.9.0+
+# Query: WP_047938337.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047938337.1	QUINN_env_virus_005_149631	570	405	463	488	59	136	26	0.032	57.692	5
+WP_047938337.1	QUINN_env_virus_005_145109	570	351	253	325	272	12	87	0.59	32.184	13
+# TBLASTN 2.9.0+
+# Query: WP_047961534.1 hypothetical protein [Xenorhabdus khoisanae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047961534.1	QUINN_env_virus_005_078932	150	349	110	149	174	55	40	1.9	37.500	27
+WP_047961534.1	QUINN_env_virus_005_003459	150	1107	93	119	44	124	27	2.0	55.556	18
+# TBLASTN 2.9.0+
+# Query: WP_047964429.1 tail fiber domain-containing protein [Xenorhabdus khoisanae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047964429.1	QUINN_env_virus_005_146296	1536	337	1446	1530	78	323	85	1.19e-12	45.882	6
+WP_047964429.1	QUINN_env_virus_005_013511	1536	1065	1445	1534	599	333	90	6.82e-11	40.000	6
+# TBLASTN 2.9.0+
+# Query: WP_047964445.1 tail fiber assembly protein [Xenorhabdus khoisanae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047964445.1	QUINN_env_virus_005_122446	176	309	27	51	62	136	25	0.23	48.000	14
+WP_047964445.1	QUINN_env_virus_005_122896	176	2242	29	66	1541	1428	38	0.37	36.842	22
+# TBLASTN 2.9.0+
+# Query: WP_047965459.1 baseplate J/gp47 family protein [Vogesella sp. EB]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047965459.1	QUINN_env_virus_005_146450	309	601	68	91	167	238	24	2.6	54.167	8
+# TBLASTN 2.9.0+
+# Query: WP_047976416.1 phage tail protein [Muribacter muris]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047976416.1	QUINN_env_virus_005_035190	188	366	43	94	147	296	52	0.11	34.615	28
+WP_047976416.1	QUINN_env_virus_005_109817	188	2815	38	96	1892	1722	59	1.7	28.814	31
+# TBLASTN 2.9.0+
+# Query: WP_047977684.1 baseplate J/gp47 family protein [Muribacter muris]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_047977684.1	QUINN_env_virus_005_040693	304	488	75	156	280	17	90	0.30	31.111	27
+# TBLASTN 2.9.0+
+# Query: WP_047991469.1 phage tail length tape measure family protein [Achromobacter xylosoxidans]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047991469.1	QUINN_env_virus_005_167131	1867	4486	987	1212	1522	2214	231	1.15e-08	24.675	12
+WP_047991469.1	QUINN_env_virus_005_096744	1867	802	1129	1221	781	503	93	1.43e-07	30.108	5
+# TBLASTN 2.9.0+
+# Query: WP_047991472.1 phage tail protein [Achromobacter xylosoxidans]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_047991472.1	QUINN_env_virus_005_022994	215	547	20	98	313	80	81	3.84e-07	41.975	37
+WP_047991472.1	QUINN_env_virus_005_036097	215	384	22	98	95	337	81	1.73e-05	33.333	36
+# TBLASTN 2.9.0+
+# Query: WP_048025268.1 MULTISPECIES: baseplate J/gp47 family protein [Burkholderia]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048025268.1	QUINN_env_virus_005_150061	301	775	182	247	331	549	74	1.3	31.081	22
+WP_048025268.1	QUINN_env_virus_005_036500	301	312	24	71	290	147	48	1.3	35.417	16
+# TBLASTN 2.9.0+
+# Query: WP_048231037.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231037.1	QUINN_env_virus_005_047042	716	1532	466	546	1013	774	84	0.43	36.905	11
+WP_048231037.1	QUINN_env_virus_005_173290	716	2144	6	77	666	866	72	1.1	36.111	10
+# TBLASTN 2.9.0+
+# Query: WP_048231494.1 phage tail protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048231494.1	QUINN_env_virus_005_170149	696	655	434	522	414	142	94	0.060	34.043	13
+WP_048231494.1	QUINN_env_virus_005_069180	696	402	114	153	257	132	42	1.5	40.476	6
+# TBLASTN 2.9.0+
+# Query: WP_048235762.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048235762.1	QUINN_env_virus_005_077877	688	2831	510	577	1555	1755	68	0.63	29.412	10
+WP_048235762.1	QUINN_env_virus_005_076099	688	380	615	686	16	234	74	1.7	24.324	10
+# TBLASTN 2.9.0+
+# Query: WP_048236356.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236356.1	QUINN_env_virus_005_044074	1137	407	778	808	118	210	31	0.054	51.613	3
+WP_048236356.1	QUINN_env_virus_005_071318	1137	452	775	809	121	225	35	0.075	51.429	3
+# TBLASTN 2.9.0+
+# Query: WP_048236900.1 tail assembly protein, partial [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048236900.1	QUINN_env_virus_005_050079	128	709	32	94	184	381	66	0.42	31.818	49
+WP_048236900.1	QUINN_env_virus_005_052704	128	660	1	37	206	316	37	2.4	35.135	29
+# TBLASTN 2.9.0+
+# Query: WP_048242643.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048242643.1	QUINN_env_virus_005_185231	183	33712	23	181	25389	24871	179	6.27e-10	28.492	87
+WP_048242643.1	QUINN_env_virus_005_127227	183	527	22	106	197	481	96	1.47e-07	35.417	46
+# TBLASTN 2.9.0+
+# Query: WP_048246749.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048246749.1	QUINN_env_virus_005_144963	259	623	60	113	87	275	63	0.59	31.746	21
+WP_048246749.1	QUINN_env_virus_005_100582	259	407	34	88	269	96	58	3.8	32.759	21
+# TBLASTN 2.9.0+
+# Query: WP_048248406.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048248406.1	QUINN_env_virus_005_150893	298	635	205	298	29	325	99	7.1	29.293	32
+WP_048248406.1	QUINN_env_virus_005_134971	298	11708	101	160	4508	4687	60	7.4	30.000	20
+# TBLASTN 2.9.0+
+# Query: WP_048251465.1 tail fiber assembly protein [Burkholderia cepacia]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251465.1	QUINN_env_virus_005_100644	212	431	65	106	417	292	42	1.8	38.095	20
+WP_048251465.1	QUINN_env_virus_005_185231	212	33712	59	94	25236	25102	45	5.0	40.000	17
+# TBLASTN 2.9.0+
+# Query: WP_048251468.1 baseplate J/gp47 family protein [Burkholderia cepacia]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251468.1	QUINN_env_virus_005_043517	304	1330	227	299	285	49	79	1.2	30.380	24
+WP_048251468.1	QUINN_env_virus_005_041549	304	3408	119	168	3226	3372	50	3.2	34.000	16
+# TBLASTN 2.9.0+
+# Query: WP_048251594.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048251594.1	QUINN_env_virus_005_044074	949	407	610	651	85	210	43	4.68e-05	62.791	4
+WP_048251594.1	QUINN_env_virus_005_071318	949	452	461	518	43	222	60	0.006	45.000	6
+# TBLASTN 2.9.0+
+# Query: WP_048266506.1 tail fiber assembly protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048266506.1	QUINN_env_virus_005_000671	138	404	6	54	49	198	50	2.4	32.000	36
+WP_048266506.1	QUINN_env_virus_005_042902	138	21916	2	46	16036	16170	45	9.3	26.667	33
+# TBLASTN 2.9.0+
+# Query: WP_048266854.1 prophage tail fiber N-terminal domain-containing protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048266854.1	QUINN_env_virus_005_149319	792	956	410	443	664	527	46	0.42	45.652	4
+WP_048266854.1	QUINN_env_virus_005_147294	792	204	177	217	41	163	41	0.72	53.659	5
+# TBLASTN 2.9.0+
+# Query: WP_048267131.1 tail fiber protein [Escherichia coli]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048267131.1	QUINN_env_virus_005_044074	740	407	461	500	121	237	40	0.009	50.000	5
+WP_048267131.1	QUINN_env_virus_005_021171	740	346	457	488	300	205	32	0.011	59.375	4
+# TBLASTN 2.9.0+
+# Query: WP_048275229.1 phage tail protein [Pluralibacter gergoviae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048275229.1	QUINN_env_virus_005_185231	516	33712	365	426	25389	25174	72	1.46e-07	40.278	12
+WP_048275229.1	QUINN_env_virus_005_044074	516	407	263	310	70	213	48	3.29e-06	47.917	9
+# TBLASTN 2.9.0+
+# Query: WP_048327812.1 phage protein [Streptococcus dysgalactiae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048327812.1	QUINN_env_virus_005_112204	732	39317	487	604	8307	7933	132	3.23e-08	35.606	16
+WP_048327812.1	QUINN_env_virus_005_084630	732	35397	480	618	20126	19743	139	4.09e-07	30.216	19
+# TBLASTN 2.9.0+
+# Query: WP_048355445.1 right-handed parallel beta-helix repeat-containing protein [Bacillus glycinifermentans]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048355445.1	QUINN_env_virus_005_015777	578	11157	7	92	6758	7036	96	0.46	31.250	15
+WP_048355445.1	QUINN_env_virus_005_058761	578	10347	310	411	9123	8803	109	0.64	30.275	18
+# TBLASTN 2.9.0+
+# Query: WP_048358120.1 baseplate J/gp47 family protein [Pseudomonas deceptionensis]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048358120.1	QUINN_env_virus_005_128860	296	323	227	291	246	52	66	0.44	33.333	22
+WP_048358120.1	QUINN_env_virus_005_150664	296	377	170	219	266	114	52	1.1	42.308	17
+# TBLASTN 2.9.0+
+# Query: WP_048358225.1 hypothetical protein [Pseudomonas deceptionensis]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048358225.1	QUINN_env_virus_005_031884	1018	1042	629	773	210	710	172	4.1	24.419	14
+WP_048358225.1	QUINN_env_virus_005_105809	1018	522	643	729	65	307	89	5.2	33.708	9
+# TBLASTN 2.9.0+
+# Query: WP_048365734.1 hypothetical protein [Pseudomonas weihenstephanensis]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048365734.1	QUINN_env_virus_005_180994	256	372	28	72	32	169	46	0.057	41.304	18
+WP_048365734.1	QUINN_env_virus_005_167538	256	340	34	76	206	78	43	0.75	34.884	17
+# TBLASTN 2.9.0+
+# Query: WP_048368110.1 hypothetical protein, partial [Bacillus sp. LK7]
+# Database: contigs
+# 0 hits found
+# TBLASTN 2.9.0+
+# Query: WP_048369588.1 phage tail protein [Pseudomonas helleri]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048369588.1	QUINN_env_virus_005_185231	537	33712	346	428	25383	25117	89	1.07e-13	48.315	15
+WP_048369588.1	QUINN_env_virus_005_048451	537	620	338	464	54	419	127	2.35e-13	37.795	24
+# TBLASTN 2.9.0+
+# Query: WP_048371832.1 hypothetical protein [Pseudomonas helleri]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048371832.1	QUINN_env_virus_005_155136	998	1290	843	899	1000	851	60	6.0	33.333	6
+WP_048371832.1	QUINN_env_virus_005_143748	998	301	836	880	227	93	45	7.5	31.111	5
+# TBLASTN 2.9.0+
+# Query: WP_048373798.1 hypothetical protein [Bacillus sp. LK2]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048373798.1	QUINN_env_virus_005_075207	312	10961	37	310	9933	10724	281	2.18e-04	20.996	88
+WP_048373798.1	QUINN_env_virus_005_029664	312	9809	33	129	9308	9580	99	0.005	30.303	31
+# TBLASTN 2.9.0+
+# Query: WP_048485424.1 hypothetical protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048485424.1	QUINN_env_virus_005_109878	100	728	49	86	351	229	41	0.26	43.902	38
+WP_048485424.1	QUINN_env_virus_005_184130	100	867	29	67	293	409	39	0.87	35.897	39
+# TBLASTN 2.9.0+
+# Query: WP_048487176.1 phage tail family protein [Lactobacillus rhamnosus]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048487176.1	QUINN_env_virus_005_022377	685	350	282	362	46	282	83	2.5	32.530	12
+WP_048487176.1	QUINN_env_virus_005_152514	685	511	45	83	25	141	39	3.9	38.462	6
+# TBLASTN 2.9.0+
+# Query: WP_048494144.1 hypothetical protein [Marinobacter subterrani]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048494144.1	QUINN_env_virus_005_112235	192	7305	22	86	2518	2712	65	0.32	33.846	34
+WP_048494144.1	QUINN_env_virus_005_134220	192	306	88	141	186	1	62	1.1	30.645	28
+# TBLASTN 2.9.0+
+# Query: WP_048532374.1 hypothetical protein [Marinovum algicola]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048532374.1	QUINN_env_virus_005_170536	1107	5115	329	760	2340	3686	463	1.37e-15	22.246	39
+WP_048532374.1	QUINN_env_virus_005_123225	1107	800	329	474	532	38	170	5.34e-07	27.647	13
+# TBLASTN 2.9.0+
+# Query: WP_048535907.1 hypothetical protein [Marinovum algicola]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048535907.1	QUINN_env_virus_005_022771	89	3255	45	69	2260	2186	25	0.77	48.000	28
+# TBLASTN 2.9.0+
+# Query: WP_048558253.1 phage tail family protein [Bacillus cereus]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558253.1	QUINN_env_virus_005_036414	490	327	341	397	90	260	59	3.4	33.898	12
+WP_048558253.1	QUINN_env_virus_005_164084	490	21835	112	152	8106	7984	41	7.3	36.585	8
+# TBLASTN 2.9.0+
+# Query: WP_048558700.1 phage tail protein [Bacillus cereus]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048558700.1	QUINN_env_virus_005_133500	1461	670	1149	1240	396	629	95	1.5	28.421	6
+WP_048558700.1	QUINN_env_virus_005_117572	1461	643	540	607	361	152	70	8.5	35.714	5
+# TBLASTN 2.9.0+
+# Query: WP_048558701.1 phage tail family protein [Bacillus cereus]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048558701.1	QUINN_env_virus_005_032500	485	611	266	314	222	94	49	2.4	36.735	10
+# TBLASTN 2.9.0+
+# Query: WP_048590847.1 phage tail protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048590847.1	QUINN_env_virus_005_077836	583	5516	232	346	3223	3585	128	9.35e-09	39.844	20
+WP_048590847.1	QUINN_env_virus_005_169102	583	4473	527	557	1641	1549	31	1.9	48.387	5
+# TBLASTN 2.9.0+
+# Query: WP_048615875.1 hypothetical protein [Yersinia aleksiciae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048615875.1	QUINN_env_virus_005_018595	205	345	34	78	236	117	45	4.6	37.778	22
+# TBLASTN 2.9.0+
+# Query: WP_048619993.1 phage tail protein [Yersinia aleksiciae]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048619993.1	QUINN_env_virus_005_060352	159	465	1	30	252	163	30	0.36	43.333	19
+WP_048619993.1	QUINN_env_virus_005_150644	159	487	125	155	358	266	31	5.2	38.710	19
+# TBLASTN 2.9.0+
+# Query: WP_048639094.1 tail fiber protein [Brenneria goodwinii]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048639094.1	QUINN_env_virus_005_134111	684	761	156	225	607	386	78	0.014	34.615	10
+WP_048639094.1	QUINN_env_virus_005_142722	684	358	154	196	190	62	43	0.017	41.860	6
+# TBLASTN 2.9.0+
+# Query: WP_048663532.1 tail fiber protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048663532.1	QUINN_env_virus_005_127227	158	527	7	72	197	424	76	4.61e-08	38.158	42
+WP_048663532.1	QUINN_env_virus_005_185231	158	33712	8	88	25389	25075	105	5.20e-08	31.429	51
+# TBLASTN 2.9.0+
+# Query: WP_048665912.1 tail fiber domain-containing protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048665912.1	QUINN_env_virus_005_146296	908	337	774	863	69	311	91	1.92e-10	40.659	10
+WP_048665912.1	QUINN_env_virus_005_035874	908	558	739	888	3	404	151	1.00e-08	32.450	17
+# TBLASTN 2.9.0+
+# Query: WP_048668118.1 phage tail protein [Salmonella enterica]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048668118.1	QUINN_env_virus_005_173290	721	2144	6	100	666	938	96	0.74	34.375	13
+WP_048668118.1	QUINN_env_virus_005_047042	721	1532	422	451	1013	924	30	4.7	46.667	4
+# TBLASTN 2.9.0+
+# Query: WP_048710785.1 tail fiber domain-containing protein [Microvirga massiliensis]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048710785.1	QUINN_env_virus_005_055722	1091	3689	1006	1070	1685	1915	77	6.98e-07	36.364	6
+WP_048710785.1	QUINN_env_virus_005_032949	1091	1698	1007	1065	1364	1188	59	1.60e-06	35.593	5
+# TBLASTN 2.9.0+
+# Query: WP_048723927.1 phage tail family protein [Bacillus cytotoxicus]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048723927.1	QUINN_env_virus_005_019092	497	1239	88	165	35	262	79	0.039	31.646	16
+WP_048723927.1	QUINN_env_virus_005_151220	497	314	88	160	35	247	74	0.072	32.432	15
+# TBLASTN 2.9.0+
+# Query: WP_048731243.1 tail tubular protein A [Pseudomonas sp. KG01]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048731243.1	QUINN_env_virus_005_158338	192	373	16	134	4	372	126	8.22e-15	34.921	62
+WP_048731243.1	QUINN_env_virus_005_124277	192	594	62	133	548	330	74	0.028	32.432	38
+# TBLASTN 2.9.0+
+# Query: WP_048731244.1 hypothetical protein [Pseudomonas sp. KG01]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048731244.1	QUINN_env_virus_005_173509	794	1426	285	784	1426	2	513	1.50e-69	30.214	63
+WP_048731244.1	QUINN_env_virus_005_038805	794	355	359	417	233	48	63	0.29	30.159	7
+# TBLASTN 2.9.0+
+# Query: WP_048748618.1 hypothetical protein [Paenibacillus sp. P22]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 1 hits found
+WP_048748618.1	QUINN_env_virus_005_128855	477	16549	31	69	15166	15279	39	3.8	41.026	8
+# TBLASTN 2.9.0+
+# Query: WP_048765510.1 baseplate J/gp47 family protein [Acinetobacter sp. 243_ASPC]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048765510.1	QUINN_env_virus_005_170223	300	644	254	298	531	385	51	0.63	35.294	15
+WP_048765510.1	QUINN_env_virus_005_183890	300	328	221	274	18	182	56	0.83	35.714	18
+# TBLASTN 2.9.0+
+# Query: WP_048766108.1 tail protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048766108.1	QUINN_env_virus_005_044595	1010	9863	75	601	2199	565	552	8.00e-23	22.464	52
+WP_048766108.1	QUINN_env_virus_005_175011	1010	27248	268	520	20254	21012	261	5.10e-16	27.586	25
+# TBLASTN 2.9.0+
+# Query: WP_048766115.1 hypothetical protein, partial [Acinetobacter sp. 243_ASPC]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048766115.1	QUINN_env_virus_005_044595	1007	9863	5	723	2418	190	765	2.79e-28	21.961	71
+WP_048766115.1	QUINN_env_virus_005_170536	1007	5115	182	676	2403	3896	521	1.38e-17	23.033	49
+# TBLASTN 2.9.0+
+# Query: WP_048805723.1 tail fiber assembly protein [Burkholderia multivorans]
+# Database: contigs
+# Fields: query id, subject id, query length, subject length, q. start, q. end, s. start, s. end, alignment length, evalue, % identity, % query coverage per subject
+# 2 hits found
+WP_048805723.1	QUINN_env_virus_005_081395	283	336	138	166	5	91	29	2.8	44.828	10
+WP_048805723.1	QUINN_env_virus_005_003212	283	579	24	55	299	376	32	3.8	50.000	11
+# BLAST processed 157 queries
